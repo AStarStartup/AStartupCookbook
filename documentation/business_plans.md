@@ -1,0 +1,1 @@
+* Forbes Magazine – 10 Essential Business Plan Components. (online - http://www.forbes.com/sites/patrickhull/2013/02/21/10-essential-business-plan-components/ Accessed 4/24/2014)
