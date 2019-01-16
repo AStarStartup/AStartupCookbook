@@ -1,10 +1,8 @@
-# A-Startup Repository
+# A-Startup Book Repository
 
 ***A open-source book on how to invent, launch, and run a modern high-tech startup with IMUL.***
 
 *By Cale Jamison McCollough*
-
-This repository contains the downloadable files for A-Startup; A open-source technology and book about inventing, launching, and running a modern high-tech startup with the assistance IMUL and the A-Startup-bot. This project is in it's early stages and doesn't have any code to show, but please check back soon; and please, if you see a section you know a lot about you may submit and issue ticket with your proposed addition/modification. It would also help if you would create an issue ticket for each bulleted list section that is not fleshed out. Thanks.
 
 ## Content Table
 

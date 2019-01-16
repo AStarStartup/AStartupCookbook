@@ -46,7 +46,7 @@ Slack does not provide Gantt charts but it is exceptionally useful for developme
 
 ## The License
 
-Astartup Copyright (C) 2018-9 Cale McCollough <<[mailto:cale.mccollough@gmail.com](cale.mccollough@gmail.com)>> <<[https://calemccollough.github.io](https://calemccollough.github.io)>>
+A-Startup Copyright (C) 2018-9 Cale McCollough <<cale@astartup.net>>.
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
