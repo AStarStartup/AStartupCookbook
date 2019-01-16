@@ -2,6 +2,14 @@
 
 ![Under Construction Image](https://github.com/kabuki-starship/kabuki-toolkit/wiki/under_construction.png)
 
+***A open-source book on how to invent, launch, and run a modern high-tech startup with IMUL.***
+
+By Cale Jamison McCollough
+
+![Under Construction Image](https://github.com/kabuki-starship/kabuki-toolkit/wiki/under_construction.png)
+
+***
+
 This repository contains the downloadable files for A-Startup; A open-source technology and book about inventing, launching, and running a modern high-tech startup with the assistance IMUL and the A-Startup-bot. This project is in it's early stages and doesn't have any code to show, but please check back soon; and please, if you see a section you know a lot about you may submit and issue ticket with your proposed addition/modification. It would also help if you would create an issue ticket for each bulleted list section that is not fleshed out. Thanks.
 
 ## Quick Links
@@ -16,7 +24,7 @@ The vision of A-Startup is to provide a free Markdown version of the book to all
 
 ## The License
 
-A-Startup Copyright (C) 2018 Cale McCollough <<[mailto:cale.mccollough@gmail.com](cale.mccollough@gmail.com)>> <<[https://calemccollough.github.io](https://calemccollough.github.io)>>
+A-Startup Copyright (C) 2018-9 Cale McCollough <<cale@astartup.net>>.
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 

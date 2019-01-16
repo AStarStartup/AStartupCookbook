@@ -1,10 +1,13 @@
 # Analytics
 
-This is a stub.
+1. [Case Study:](14_Analytics#141_case_study_eric_rese.md)
+2. [Customer Interviews](14_Analytics#142_customer_interviews.md)
+3. [Market Validation](14_Analytics#143_market_validation.md)
+4. [Summary](14_Analytics#144_summary.md)
 
 ## The License
 
-Astartup Copyright (C) 2018 Cale McCollough <<[mailto:cale.mccollough@gmail.com](cale.mccollough@gmail.com)>> <<[https://calemccollough.github.io](https://calemccollough.github.io)>>
+A-Startup Copyright (C) 2018-9 Cale McCollough <<cale.mccollough@gmail.com>>.
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
