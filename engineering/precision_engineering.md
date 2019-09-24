@@ -1,6 +1,8 @@
-# Engineering
+# [Astartup Cookbook](../readme.md)
 
-## Precision Engineering
+## [Engineering](./readme.md)
+
+### Precision Engineering
 
 Bill Gates was quoted as saying, “To be a good professional engineer, always start to study late for exams, because it teaches you how to manage time and tackle emergencies.” When I first got into engineering school, most of the smartest people in the program would always do this. I didn’t get it at all. I was busting my butt off, studying ahead of time, and when I would study with the guys a week before the test, all of them would be like, “I just opened the book yesterday, I’m not ready to study yet.” I would be the only one prepared, but somehow they got better grades on the test than I did.
 
@@ -15,4 +17,4 @@ As I progressed further into engineering school, I tried to copy the other guys'
 
 Copyright 2014-9 (C) [Cale McCollough](https://calemccollough.github.io); all rights reserved (R).
 
-This is an open-source document, the Document, that was written by and contains intellectual property. The Document consists of documents, files, source code, technology design files, trade secrets, art, and other content contained this file, folder and engineering-invention-startups GitHub repository, the Repository. The Document is published under a generic non-commercial open-source license, the License, and is for educational and demonstration purposes only. You may use, reproduce, publicly display, and modify the Document so long as you submit and donate fixes and derived intellectual property, the Donated Ideas, to the Repository located at <https://github.com/kabuki-starship/astartup.cookbook> as an Issue ticket to become part of the Document. You may not sell the Document or otherwise profit from derivative works created from the Document without the expressed written permission of the copyright holder. Unless required by applicable law or agreed to in writing, the Document distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+This is an open-source document, the Document, that was written by and contains intellectual property. The Document consists of documents, files, source code, technology design files, art, and other content contained this file, folder and the GitHub repository located at <https://github.com/kabuki-starship/astartup.cookbook>, the Repository. The Document is published under a generic non-commercial open-source license, the License, and is for educational and demonstration purposes only. You may use, reproduce, publicly display, and modify the Document so long as you submit and donate fixes and derived intellectual property, the Donated Ideas, to the Repository as an Issue ticket to become part of the Document. You may not sell the Document or otherwise profit from derivative works created from the Document without the expressed written permission of the copyright holder. Unless required by applicable law or agreed to in writing, the Document distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.

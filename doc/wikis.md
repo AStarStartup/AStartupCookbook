@@ -1,6 +1,8 @@
-## Wikis
+# [Astartup Cookbook](../readme.md)
 
-## Wiki Roles
+## [Documentation](./readme.md)
+
+### Wiki Roles
 
 The first thing that one must understand about a wiki or anything for that matter, is what exactly is a Wiki? A wiki is a web encyclopedia. What is an encyclopedia? It’s a type of quick reference book or software that contains referenced factual knowledge on multiple subjects within it a scope. Which brings us to the more important question: what isn’t a wiki? A Wiki is not a development log, nor is it a technical reference manual, a user’s manual, or a book.
 
@@ -73,4 +75,4 @@ Sometimes, people like to break things and mess with people. Don’t think that 
 
 Copyright 2014-9 (C) [Cale McCollough](https://calemccollough.github.io); all rights reserved (R).
 
-This is an open-source document, the Document, that was written by and contains intellectual property. The Document consists of documents, files, source code, technology design files, trade secrets, art, and other content contained this file, folder and engineering-invention-startups GitHub repository, the Repository. The Document is published under a generic non-commercial open-source license, the License, and is for educational and demonstration purposes only. You may use, reproduce, publicly display, and modify the Document so long as you submit and donate fixes and derived intellectual property, the Donated Ideas, to the Repository located at <https://github.com/kabuki-starship/astartup.cookbook> as an Issue ticket to become part of the Document. You may not sell the Document or otherwise profit from derivative works created from the Document without the expressed written permission of the copyright holder. Unless required by applicable law or agreed to in writing, the Document distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+This is an open-source document, the Document, that was written by and contains intellectual property. The Document consists of documents, files, source code, technology design files, art, and other content contained this file, folder and the GitHub repository located at <https://github.com/kabuki-starship/astartup.cookbook>, the Repository. The Document is published under a generic non-commercial open-source license, the License, and is for educational and demonstration purposes only. You may use, reproduce, publicly display, and modify the Document so long as you submit and donate fixes and derived intellectual property, the Donated Ideas, to the Repository as an Issue ticket to become part of the Document. You may not sell the Document or otherwise profit from derivative works created from the Document without the expressed written permission of the copyright holder. Unless required by applicable law or agreed to in writing, the Document distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.

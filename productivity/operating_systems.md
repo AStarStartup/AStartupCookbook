@@ -1,51 +1,53 @@
-# Productivity
+# [Astartup Cookbook](../readme.md)
 
-## Operating System
+## [Productivity](./readme.md)
+
+### Operating System
 
 The definition of an Operating System is the system in which a thing operates. This chapter is about how the system that Startups Operate and how top optimize it using proven computer science. In many ways a startup is like a piece of computer software, and if it isn't then that is a like a bug in what should operate like software.
 
-### Objects
+#### Objects
 
 Each object is, in essence, a patent. These can be only one patent.
 Inventions are a lot like computer programming, and in fact, most inventions can be programmed into the computer in some sort of way. It can either be represented in computer form or exist entirely inside of it.
 
-### System Components
+#### System Components
 
 Each department is an isolated system component that is both synchronous and asynchronous. The inner workings of the engineering department, say for instance the engineering departments are of little concern to the marketing department for the majority of the time. Instructions and rules go in, products come out.
 
-#### Schedulers
+##### Schedulers
 
 One extremely valuable takeaway from computer science that is extremely applicable to business, is the basics of how a computer operating system works. This book is by no means about computer operating systems, but it is important to know many of these concepts while running a business because your business is in many ways, an operating system. A business by its very nature has a system that it operates by.
 
-##### Tasks and Threads
+###### Tasks and Threads
 
-##### Context Switching
+###### Context Switching
 
 Avoid context switching at all costs.
 
-###### Round Robin Scheduling
+####### Round Robin Scheduling
 
-###### Priority Scheduling
+####### Priority Scheduling
 
-###### Deadlock
+####### Deadlock
 
-##### The Philosopher’s Table
+###### The Philosopher’s Table
 
 Solution: the coin toss.
 
-###### Monitor for deadlock conditions
+####### Monitor for deadlock conditions
 
-### 6.6.c File System Organization
+###### File System Organization
 
 [Explain why it's important to know how to organize the filesystem so you can quickly access and backup things with revision control.]
 
-#### Directory Tree
+##### Directory Tree
 
 [Picture of Solid Works Model with Component Tree]
 
 #### Fragmentation
 
-## Astartup OS
+#### Astartup OS
 
 The Astartup Method is based on the physics principle that resistance over time equals work, that work is a cost to accomplish goals, and that in order to maximize productivity and happiness you must minimize cost through minimizing resistance and maximize reward through maximizing health, that the default assignment of weights for cost and reward are one unit, or in other words A* AI.
 
@@ -209,3 +211,9 @@ The pen-and-paper stack machines when combined with IssueTicket tags then optimi
 The final element is the daily, weekly, and monthly log review and daily shutdown procedure. Each day you must review the previous day's log, and each week, you must review the logs from the week before, and review the entire month's logs on the first of each month. This allows neurons that fire together to wire together. At the end of each day, you must shut down, clean up, and get ready for the next day's primary thread. The time you need for this depends on your job, but typically it's less than one hour. This again uses the night-and-day principle where you focus on random technical tasks that create resistance in the system. It is more important that you shut down at 5PM (or night-shift equivalent) and take a break from 5:00PM-8:30PM and take the weekends off because this allows your brain to shut down for a few hours and return to normal life so that you can relax and take care of eliminating resistance in your home life.
 
 The schedule is slightly different on Friday. On Friday you must do your night HoSe from 4PM-5PM and have your to-do list ready and prepped with all your homework done ahead of time like an A grad student, ready to HoSe on Monday with your grove on like a HoSer. And if you get all your work done, you get to go out dancing, spend time with your partner(s), and MAXIMIZE the time with your friends and family.
+
+## License
+
+Copyright 2014-9 (C) [Cale McCollough](https://calemccollough.github.io); all rights reserved (R).
+
+This is an open-source document, the Document, that was written by and contains intellectual property. The Document consists of documents, files, source code, technology design files, art, and other content contained this file, folder and the GitHub repository located at <https://github.com/kabuki-starship/astartup.cookbook>, the Repository. The Document is published under a generic non-commercial open-source license, the License, and is for educational and demonstration purposes only. You may use, reproduce, publicly display, and modify the Document so long as you submit and donate fixes and derived intellectual property, the Donated Ideas, to the Repository as an Issue ticket to become part of the Document. You may not sell the Document or otherwise profit from derivative works created from the Document without the expressed written permission of the copyright holder. Unless required by applicable law or agreed to in writing, the Document distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.

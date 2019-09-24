@@ -1,6 +1,8 @@
-# Overview
+# [Astartup Cookbook](../readme.md)
 
-## Mission and Vision Statement
+## [Getting Started](./readme.md)
+
+### Mission and Vision Statement
 
 Mission Statements and Vision Statements are one of the most powerful documents your startup has; they are your startup's North Star that keeps everyone headed the same direction. When working with professionals, you shouldn't need to tell them how to do there job. You hired them because they know how to do that and you don't have the time to do that. This means that often times people have their heads down in the sand and everyone is digging towards the goal. This is the fastest way to get to the goal, but if the team is digging in the wrong direction it can lead the team astray, waste time, and jeopardize the project. The Mission and Vision should serve as the North Start that keeps the team coordinated and digging in the right direction.
 
@@ -10,13 +12,13 @@ You really do want to start off with the right dream and not a pipe dream. It is
 
 Another critical aspect of the Mission and Vision is that they must be complimentary and they must not compete with each other for the teams precious time. If your mission is to produce world-class software and your vision is to give it away for free, this may or may not be a conflict of interest. The very least you should do up front is write down at least one sentence addressing if a conflict of interest exists and if so what is the mitigating factor that makes the conflict not critical.
 
-## 1.4.a Astartup Mission and Vision
+#### Astartup Mission and Vision
 
 The mission of Astartup is to maximize the chances of success of your startup by teaching as many people as possible modern industry best practices, time optimization techniques, and Artificial Intelligence theory, and to provide free software tools to assist you in this task.
 
 The vision of Astartup is to provide a free Markdown version of the book to all, regardless of ability to pay; and earn money by selling paper books, solely because paper books are awesome and startups need money; any money generated will be used to fund Kabuki Starship.
 
-#### Mission and Vision State Analyses
+##### Mission and Vision State Analyses
 
 The mission is clear and easy to understand  because it is defined in mathematical terms of maximizing the chance of success. The book is completely useless if it lowers your chance of success, so maximizing the chance is the opposite of useless and therefor provides a solution to the user that is a pain that is great enough for the user to buy a paper copy of this book.
 
@@ -34,4 +36,4 @@ The Mission and Vision does not compete with the parent company for resources be
 
 Copyright 2014-9 (C) [Cale McCollough](https://calemccollough.github.io); all rights reserved (R).
 
-This is an open-source document, the Document, that was written by and contains intellectual property. The Document consists of documents, files, source code, technology design files, trade secrets, art, and other content contained this file, folder and engineering-invention-startups GitHub repository, the Repository. The Document is published under a generic non-commercial open-source license, the License, and is for educational and demonstration purposes only. You may use, reproduce, publicly display, and modify the Document so long as you submit and donate fixes and derived intellectual property, the Donated Ideas, to the Repository located at <https://github.com/kabuki-starship/astartup.cookbook> as an Issue ticket to become part of the Document. You may not sell the Document or otherwise profit from derivative works created from the Document without the expressed written permission of the copyright holder. Unless required by applicable law or agreed to in writing, the Document distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+This is an open-source document, the Document, that was written by and contains intellectual property. The Document consists of documents, files, source code, technology design files, art, and other content contained this file, folder and the GitHub repository located at <https://github.com/kabuki-starship/astartup.cookbook>, the Repository. The Document is published under a generic non-commercial open-source license, the License, and is for educational and demonstration purposes only. You may use, reproduce, publicly display, and modify the Document so long as you submit and donate fixes and derived intellectual property, the Donated Ideas, to the Repository as an Issue ticket to become part of the Document. You may not sell the Document or otherwise profit from derivative works created from the Document without the expressed written permission of the copyright holder. Unless required by applicable law or agreed to in writing, the Document distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.

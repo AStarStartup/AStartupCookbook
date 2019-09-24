@@ -1,6 +1,8 @@
-# Documentation
+# [Astartup Cookbook](../readme.md)
 
-## Moving Quickly
+## [Inventions](./readme.md)
+
+### Moving Quickly
 
 Some of the most important metrics to optimize for the success of your invention are time to market, confusion time, development time, testing time, feedback time, iteration time, and [@todo insert more common metrics]. It’s imperative to move quickly through the process and not get hung up on the way. This does not mean to rush the task, as that will almost guarantee an exponential amount of rework later on. Getting bogged down in the muck of a project can significantly decrease morale, which in turns leads to decreased productivity (quote from Getting Things Done – Allan).
 
@@ -20,4 +22,4 @@ One tip for when you’re on a computer writing. If you are working on a large d
 
 Copyright 2014-9 (C) [Cale McCollough](https://calemccollough.github.io); all rights reserved (R).
 
-This is an open-source document, the Document, that was written by and contains intellectual property. The Document consists of documents, files, source code, technology design files, trade secrets, art, and other content contained this file, folder and engineering-invention-startups GitHub repository, the Repository. The Document is published under a generic non-commercial open-source license, the License, and is for educational and demonstration purposes only. You may use, reproduce, publicly display, and modify the Document so long as you submit and donate fixes and derived intellectual property, the Donated Ideas, to the Repository located at <https://github.com/kabuki-starship/astartup.cookbook> as an Issue ticket to become part of the Document. You may not sell the Document or otherwise profit from derivative works created from the Document without the expressed written permission of the copyright holder. Unless required by applicable law or agreed to in writing, the Document distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+This is an open-source document, the Document, that was written by and contains intellectual property. The Document consists of documents, files, source code, technology design files, art, and other content contained this file, folder and the GitHub repository located at <https://github.com/kabuki-starship/astartup.cookbook>, the Repository. The Document is published under a generic non-commercial open-source license, the License, and is for educational and demonstration purposes only. You may use, reproduce, publicly display, and modify the Document so long as you submit and donate fixes and derived intellectual property, the Donated Ideas, to the Repository as an Issue ticket to become part of the Document. You may not sell the Document or otherwise profit from derivative works created from the Document without the expressed written permission of the copyright holder. Unless required by applicable law or agreed to in writing, the Document distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.

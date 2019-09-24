@@ -1,12 +1,14 @@
-# Documentation
+# [Astartup Cookbook](../readme.md)
 
-## Technical Writing
+## [Documentation](./readme.md)
 
-## Styles & Formats
+### Technical Writing
+
+#### Styles & Formats
 
 One of the jobs of a technical writer is to convey technical data in the most intuitive way possible. It is important that a user to be able to understand the information in as little amount of time as possible.
 
-#### Headings
+##### Headings
 
 Making proper use of headings can save you and your team a lot of time and increase productivity. You should think off headings as indentation levels on a bulleted list. You should never have to manually change all of the heading fonts to increase or decrease them.
 
@@ -26,7 +28,7 @@ Most people put off using headers until the end of their document in order to cr
 
 Content tables allow the user to jump around their document using the Navigation Pane. Modern word processing software automatically hyperlinks all heading metadata The Navigation Pane is not visible by default in Word, but can be viewed by clicking on the View Tab and clicking the checkbox that says “Navigation Pane”.
 
-### Styles
+#### Styles
 
 Any word processing document, PDF, or website can search the same way by a search engine. Part of effective writing is helping your audience effectively find the information they seek through proper use of metadata. It’s not too hard to do, as long as you know the basics of how search engines parse documents.
 Word Processing software makes this job much easier for writers through the use of styles. When a search engine parses a document,
@@ -35,21 +37,21 @@ Word Processing software makes this job much easier for writers through the use 
 
 An easy way to assist your viewers to find the content they need is to put a list of relevant keywords that a user would search for, in a comma-separated list at either the very end of the document or on one of the first handful of pages.
 
-##### Indexing Key Words
+###### Indexing Key Words
 
-## Mathematical Equations
+#### Mathematical Equations
 
 This section goes over the different ways of getting math equations into the computer.
 
-#### Word Processing Equations Editors
+##### Word Processing Equations Editors
 
-#### LaTeX
+##### LaTeX
 
 LaTex is the most popular math scripting language in use today. It’s a little bit like
 
-#### MathJax
+##### MathJax
 
-#### Online Tools
+##### Online Tools
 
 If you simply type in equation editor into Google, it will pop up a large query of websites where you can input math formulas. Some will output an image that you can either download or copy and paste into a document. Others will output LaTeX code.
 
@@ -61,4 +63,4 @@ If you are using LaTeX in a word processing document, you can insert the LaTex c
 
 Copyright 2014-9 (C) [Cale McCollough](https://calemccollough.github.io); all rights reserved (R).
 
-This is an open-source document, the Document, that was written by and contains intellectual property. The Document consists of documents, files, source code, technology design files, trade secrets, art, and other content contained this file, folder and engineering-invention-startups GitHub repository, the Repository. The Document is published under a generic non-commercial open-source license, the License, and is for educational and demonstration purposes only. You may use, reproduce, publicly display, and modify the Document so long as you submit and donate fixes and derived intellectual property, the Donated Ideas, to the Repository located at <https://github.com/kabuki-starship/astartup.cookbook> as an Issue ticket to become part of the Document. You may not sell the Document or otherwise profit from derivative works created from the Document without the expressed written permission of the copyright holder. Unless required by applicable law or agreed to in writing, the Document distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+This is an open-source document, the Document, that was written by and contains intellectual property. The Document consists of documents, files, source code, technology design files, art, and other content contained this file, folder and the GitHub repository located at <https://github.com/kabuki-starship/astartup.cookbook>, the Repository. The Document is published under a generic non-commercial open-source license, the License, and is for educational and demonstration purposes only. You may use, reproduce, publicly display, and modify the Document so long as you submit and donate fixes and derived intellectual property, the Donated Ideas, to the Repository as an Issue ticket to become part of the Document. You may not sell the Document or otherwise profit from derivative works created from the Document without the expressed written permission of the copyright holder. Unless required by applicable law or agreed to in writing, the Document distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
