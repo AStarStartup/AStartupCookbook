@@ -6,12 +6,8 @@ The Administrative, or Admin, Repository is the central folder for your startup 
 
 Project Repositories should be self contained, meaning they contain every file needed for the product to work correctly, with the exception of including third-party repos. The golden rules is that repeated files has repeated errors in them. It is best to have every module as self contained as possible, and import the primary repo so you get all of the most current files. This is not possible however in every situation but please keep in mind that it is a major pain in the rear to have to fix the same bug over and over again. The goal of the repo is to increase the quality of the product while reducing the labor costs so do what is  best to accomplish this goal.
 
-## The License
+## License
 
-A-Startup Copyright (C) 2018-9 Cale McCollough <<cale.mccollough@gmail.com>>.
+Copyright 2014-9 (C) [Cale McCollough](https://calemccollough.github.io); all rights reserved (R).
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along with this program.  If not, see <https://www.gnu.org/licenses/>.
+This is an open-source document, the Document, that was written by and contains intellectual property. The Document consists of documents, files, source code, technology design files, trade secrets, art, and other content contained this file, folder and engineering-invention-startups GitHub repository, the Repository. The Document is published under a generic non-commercial open-source license, the License, and is for educational and demonstration purposes only. You may use, reproduce, publicly display, and modify the Document so long as you submit and donate fixes and derived intellectual property, the Donated Ideas, to the Repository located at <https://github.com/kabuki-starship/markdown.cookbook> as an Issue ticket to become part of the Document. You may not sell the Document or otherwise profit from derivative works created from the Document without the expressed written permission of the copyright holder. Unless required by applicable law or agreed to in writing, the Document distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.

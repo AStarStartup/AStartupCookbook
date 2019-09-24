@@ -64,7 +64,7 @@ Seams must be tested in a specific order, or combination of orders, to ensure th
 
 * Keep your issue titles as short as possible: if your issue title is so long it doesn't fit in the one line, break it up into smaller issues. You need to be able to click on the issue ticket number to take you to the issue and you can explain the work in more detail on the issue description.
 
-### Old A-Startup Method @todo Fix me!
+### Old Astartup Method @todo Fix me!
 
 The approach used throughout this book is called AStar Driven Development (or MDD) and Astartup, which are a combination of the industry standard development processes with artificial intelligence. MDD gets it's name from the AStar function, a famous greedy lookahead game theory algorithm that is a fundamental theorem of Artificial Intelligence. It is at it's essence a variation of Dijkstra's Shortest Path Algorithm combined with some statistics. The essence of the algorithm is to minimize cost and maximize reward, so it is a suiting name.
 
@@ -79,14 +79,10 @@ The approach used throughout this book is called AStar Driven Development (or MD
 
 ##### Cons
 
-1. Some startup companies make it more expensive to get user analytics.
+1. Some startup companies make it more expensive to get user Analytics.
 
-## The License
+## License
 
-A-Startup Copyright (C) 2018-9 Cale McCollough <<cale.mccollough@gmail.com>>.
+Copyright 2014-9 (C) [Cale McCollough](https://calemccollough.github.io); all rights reserved (R).
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along with this program.  If not, see <https://www.gnu.org/licenses/>.
+This is an open-source document, the Document, that was written by and contains intellectual property. The Document consists of documents, files, source code, technology design files, trade secrets, art, and other content contained this file, folder and engineering-invention-startups GitHub repository, the Repository. The Document is published under a generic non-commercial open-source license, the License, and is for educational and demonstration purposes only. You may use, reproduce, publicly display, and modify the Document so long as you submit and donate fixes and derived intellectual property, the Donated Ideas, to the Repository located at <https://github.com/kabuki-starship/markdown.cookbook> as an Issue ticket to become part of the Document. You may not sell the Document or otherwise profit from derivative works created from the Document without the expressed written permission of the copyright holder. Unless required by applicable law or agreed to in writing, the Document distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.

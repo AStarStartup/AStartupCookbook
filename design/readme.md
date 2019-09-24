@@ -2,20 +2,16 @@
 
 A lot of people have really good ideas. For most entrepreneurs, ideas are a dime a dozen. There are countless ways to make large amounts of money hand over fist, but everyone who has been around long enough will tell you that most people underestimate how much work.
 
-1. [Case Study: The 50s Train Guy](case_study.md)
-1. [Design Patterns](design_patterns.md)
-1. [Design Processes](processes.md)
-1. [Requirements Identification](requirements_identification.md)
-1. [Feasibility](feasibility.md)
-1. [Pen and Paper Tricks](pen_and_paper_tricks.md)
-1. [Summary](summary.md)
+1. [Case Study: The 50s Train Guy](./case_study.md)
+1. [Design Patterns](./design_patterns.md)
+1. [Design Processes](./processes.md)
+1. [Requirements Identification](./requirements_identification.md)
+1. [Feasibility](./feasibility.md)
+1. [Pen and Paper Tricks](./pen_and_paper_tricks.md)
+1. [Summary](./summary.md)
 
-## The License
+## License
 
-A-Startup Copyright (C) 2018-9 Cale McCollough <<cale.mccollough@gmail.com>>.
+Copyright 2014-9 (C) [Cale McCollough](https://calemccollough.github.io); all rights reserved (R).
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along with this program.  If not, see <https://www.gnu.org/licenses/>.
+This is an open-source document, the Document, that was written by and contains intellectual property. The Document consists of documents, files, source code, technology design files, trade secrets, art, and other content contained this file, folder and engineering-invention-startups GitHub repository, the Repository. The Document is published under a generic non-commercial open-source license, the License, and is for educational and demonstration purposes only. You may use, reproduce, publicly display, and modify the Document so long as you submit and donate fixes and derived intellectual property, the Donated Ideas, to the Repository located at <https://github.com/kabuki-starship/markdown.cookbook> as an Issue ticket to become part of the Document. You may not sell the Document or otherwise profit from derivative works created from the Document without the expressed written permission of the copyright holder. Unless required by applicable law or agreed to in writing, the Document distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
