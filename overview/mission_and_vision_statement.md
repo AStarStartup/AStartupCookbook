@@ -1,4 +1,5 @@
 # Overview
+
 ## Mission and Vision Statement
 
 Mission Statements and Vision Statements are one of the most powerful documents your startup has; they are your startup's North Star that keeps everyone headed the same direction. When working with professionals, you shouldn't need to tell them how to do there job. You hired them because they know how to do that and you don't have the time to do that. This means that often times people have their heads down in the sand and everyone is digging towards the goal. This is the fastest way to get to the goal, but if the team is digging in the wrong direction it can lead the team astray, waste time, and jeopardize the project. The Mission and Vision should serve as the North Start that keeps the team coordinated and digging in the right direction.
@@ -29,12 +30,8 @@ In order to do what the book proposes, we need some open-source software and a r
 
 The Mission and Vision does not compete with the parent company for resources because the knowledge in the book is used to both train employees and make development processes more efficient.
 
-## The License
+## License
 
-A-Startup Copyright (C) 2018-9 Cale McCollough <<cale@astartup.net>>.
+Copyright 2014-9 (C) [Cale McCollough](https://calemccollough.github.io); all rights reserved (R).
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along with this program.  If not, see <https://www.gnu.org/licenses/>.
+This is an open-source document, the Document, that was written by and contains intellectual property. The Document consists of documents, files, source code, technology design files, trade secrets, art, and other content contained this file, folder and engineering-invention-startups GitHub repository, the Repository. The Document is published under a generic non-commercial open-source license, the License, and is for educational and demonstration purposes only. You may use, reproduce, publicly display, and modify the Document so long as you submit and donate fixes and derived intellectual property, the Donated Ideas, to the Repository located at <https://github.com/kabuki-starship/markdown.cookbook> as an Issue ticket to become part of the Document. You may not sell the Document or otherwise profit from derivative works created from the Document without the expressed written permission of the copyright holder. Unless required by applicable law or agreed to in writing, the Document distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.

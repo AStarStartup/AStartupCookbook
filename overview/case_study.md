@@ -26,14 +26,10 @@ I eventually made it back to PSU in 2016 because the tuition costs gave me some 
 
 Over this time I learned the techniques in this book in order to teach myself to stop getting distracted by shinny objects and actually get the work done. Much of this book is coming from the perspective of Chief Technology Officer who is a poor CEO and over explains fine details in a distracting confusing way. I had to learn to tone down the geek speech, be ultra productive, compete in today's rapidly changing technology landscape, and keep laser focus using the techniques described in this book.
 
-Eventually, because of getting back into engineering school and studying some AI, I came across the notion of treating startups like a finite state machine, and applying artificial intelligence to maximize the chances of success using the Business Model Canvases State Machine, and this book's place in history was then set. This book is about training your Startup State Machine to get accurate and precise cost and weight calculations and analytics and to minimize time to market and development costs and maximize flow state development time and product quality.
+Eventually, because of getting back into engineering school and studying some AI, I came across the notion of treating startups like a finite state machine, and applying artificial intelligence to maximize the chances of success using the Business Model Canvases State Machine, and this book's place in history was then set. This book is about training your Startup State Machine to get accurate and precise cost and weight calculations and Analytics and to minimize time to market and development costs and maximize flow state development time and product quality.
 
-## The License
+## License
 
-A-Startup Copyright (C) 2018-9 Cale McCollough <<cale@astartup.net>>.
+Copyright 2014-9 (C) [Cale McCollough](https://calemccollough.github.io); all rights reserved (R).
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along with this program.  If not, see <https://www.gnu.org/licenses/>.
+This is an open-source document, the Document, that was written by and contains intellectual property. The Document consists of documents, files, source code, technology design files, trade secrets, art, and other content contained this file, folder and engineering-invention-startups GitHub repository, the Repository. The Document is published under a generic non-commercial open-source license, the License, and is for educational and demonstration purposes only. You may use, reproduce, publicly display, and modify the Document so long as you submit and donate fixes and derived intellectual property, the Donated Ideas, to the Repository located at <https://github.com/kabuki-starship/markdown.cookbook> as an Issue ticket to become part of the Document. You may not sell the Document or otherwise profit from derivative works created from the Document without the expressed written permission of the copyright holder. Unless required by applicable law or agreed to in writing, the Document distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
