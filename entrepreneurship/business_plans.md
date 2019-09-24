@@ -1,6 +1,6 @@
 # Entrepreneurship
 
-## Business Business Plans
+## Business Plans
 
 Back in the day, it was all about the long Business Proposal. Nowadays long business proposals are only useful for very large businesses where the length is due to technical things that dictate it's length. Every business needs a plan, so simple proposals will always be very useful for yourself to organize your startup.
 
