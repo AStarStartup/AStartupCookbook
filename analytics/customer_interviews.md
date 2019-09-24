@@ -1,35 +1,38 @@
-# Analytics
+# [Astartup Cookbook](../readme.md)
 
-## Customer Interviews
+## [Analytics](./readme.md)
+
+### Customer Interviews
+
 Customer interviews and peer review are powerful engineering tools and are critical to AStartups success. Sometimes you don’t want to hear what the customer has to say, but you need to listen.
 
-### Interview Tips
+#### Interview Tips
 
 For most people, the first few times they conduct customer interviews they will ask loaded questions. You must be very careful to not ask questions you know and want to hear the answer to.
 
-### Interview Forms
+#### Interview Forms
 
-### Peer Review
+#### Peer Review
 
 It’s important that all of the work that you do be reviewed at least once in a group session. You can’t expect to just email an engineer your work and expect them to email you back useful information. It’s just too hard to type enough information to be useful. Important issues get overlooked. It’s also important to verbally discuss problems with designs and documents (Insert information about how talking about things makes a more accurate result).
 
-### Online Surveys
+#### Online Surveys
 
-### Engineering the Interview
+#### Engineering the Interview
 
 Make a list of who you think your customers might be.
 
-#### Brainstorm questions
+##### Brainstorm questions
 
 Pick the top 10 most important questions. Rate the questions on a scale of one to three and combine relevant questions. Only take the ones.
 
-#### Good types of questions
+##### Good types of questions
 * How much money does this usually cost you?
 * Am I barking up the wrong tree?
 Am I wasting my time?
 * Would this save you money?
 
-### Interview Materials
+#### Interview Materials
 
 * Pen and paper.
 * A speakerphone.
@@ -40,11 +43,11 @@ Tips:
 Don’t pigeonhole yourself into only talking about your product, but instead collect data about their use and needs.
 You need to do many interviews so plan on each interview
 
-### Phone Interviews
+#### Phone Interviews
 
 The idea of this section is that we want to write a document to give to someone so that they can do our phone survey for us.
 
-#### Followups
+##### Followups
 
 Thank them for their time.
 
@@ -56,7 +59,7 @@ Thank them for their time.
 Don’t close the door, leave it open for them to surprise you.
 
 
-#### Example Phone Interview
+##### Example Phone Interview
 
 [This is an example phone interview from Lab-2-Market with EA Partners]
 
@@ -90,4 +93,4 @@ San Diego based company Edar does most of the game test.
 
 Copyright 2014-9 (C) [Cale McCollough](https://calemccollough.github.io); all rights reserved (R).
 
-This is an open-source document, the Document, that was written by and contains intellectual property. The Document consists of documents, files, source code, technology design files, trade secrets, art, and other content contained this file, folder and engineering-invention-startups GitHub repository, the Repository. The Document is published under a generic non-commercial open-source license, the License, and is for educational and demonstration purposes only. You may use, reproduce, publicly display, and modify the Document so long as you submit and donate fixes and derived intellectual property, the Donated Ideas, to the Repository located at <https://github.com/kabuki-starship/astartup.cookbook> as an Issue ticket to become part of the Document. You may not sell the Document or otherwise profit from derivative works created from the Document without the expressed written permission of the copyright holder. Unless required by applicable law or agreed to in writing, the Document distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+This is an open-source document, the Document, that was written by and contains intellectual property. The Document consists of documents, files, source code, technology design files, art, and other content contained this file, folder and the GitHub repository located at <https://github.com/kabuki-starship/astartup.cookbook>, the Repository. The Document is published under a generic non-commercial open-source license, the License, and is for educational and demonstration purposes only. You may use, reproduce, publicly display, and modify the Document so long as you submit and donate fixes and derived intellectual property, the Donated Ideas, to the Repository as an Issue ticket to become part of the Document. You may not sell the Document or otherwise profit from derivative works created from the Document without the expressed written permission of the copyright holder. Unless required by applicable law or agreed to in writing, the Document distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.

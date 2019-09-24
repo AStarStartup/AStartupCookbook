@@ -1,8 +1,10 @@
-# [Kabuki Toolkit Cookbook](../readme.md)
+# [Astartup Cookbook](../../readme.md)
 
-## [Issue-driven Development](./readme.md)
+## [Development](../../readme.md)
 
-### Change Management
+### [Issue-driven Development](./readme.md)
+
+#### Change Management
 
 **[<< Previous Section:](./.md) | [Next Section: >>](./.md)**
 

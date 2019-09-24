@@ -1,16 +1,18 @@
-# Philosophy
+# [Astartup Cookbook](../readme.md)
 
-## Eastern Philosophy
+## [Philosophy](./readme.md)
 
-### Dharma
+### Eastern Philosophy
+
+#### Dharma
 
 Dharma is one's duty to society and is a beleif system shared between Hinuism, Buddism, Sekism. Everyone has their purpose in life. Running a startup company usually means living off of pennies, it takes a lot longer than in you initially think it will take you, and it's not so glamarous. If you have a long-term incubation startup then chances are by the time you finish your product you're life's trajectory will change and you will have different interests. Optimizing ahead of time for Dharma is a way that you can keep focused on the public good, which can give you long-term percerveriance. A side affect of the Dharma-centered design is that since you are helping people, it can often times make you more money in the end because your product is mass marketable.
 
-### Buddhism
+#### Buddhism
 
-#### Enlightenment
+##### Enlightenment
 
-#### Mindfulness
+##### Mindfulness
 
 One of the biggest time savers that increase productivity is simply being aware of things, or in other words, being mindful of things. Mindfulness is a Buddhist concept means awareness. The Buddha taught that it was one of the seven factors of enlightenment.
 
@@ -31,9 +33,9 @@ Humility
 
 One of the most important traits in an engineer is that they be humble. Representatives from major companies such as Google have been quoted as saying that students from really good schools who get really good grades often.
 
-### Taoism
+#### Taoism
 
-### 3.7.c The Wu Wei
+#### The Wu Wei
 
 The Wu Wei is a Taoist concept that means non-action, non-doing; also commonly referred to as action through inaction.
 Writing for most people when you first start doing is very arduous and frustrating because it takes so long. The reason for this is the same frustrating that almost anyone feels when learning a new skill. You aren’t proficient in that skill, so you have to try so much harder just to get the ball rolling, but after you learn how to do it, you don’t have to put in as much effort because you know how to start, and how to get the work done in a timely manner.
@@ -50,4 +52,4 @@ Meditation is much the same way. Buddhist have long taught that, touch that
 
 Copyright 2014-9 (C) [Cale McCollough](https://calemccollough.github.io); all rights reserved (R).
 
-This is an open-source document, the Document, that was written by and contains intellectual property. The Document consists of documents, files, source code, technology design files, trade secrets, art, and other content contained this file, folder and engineering-invention-startups GitHub repository, the Repository. The Document is published under a generic non-commercial open-source license, the License, and is for educational and demonstration purposes only. You may use, reproduce, publicly display, and modify the Document so long as you submit and donate fixes and derived intellectual property, the Donated Ideas, to the Repository located at <https://github.com/kabuki-starship/astartup.cookbook> as an Issue ticket to become part of the Document. You may not sell the Document or otherwise profit from derivative works created from the Document without the expressed written permission of the copyright holder. Unless required by applicable law or agreed to in writing, the Document distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+This is an open-source document, the Document, that was written by and contains intellectual property. The Document consists of documents, files, source code, technology design files, art, and other content contained this file, folder and the GitHub repository located at <https://github.com/kabuki-starship/astartup.cookbook>, the Repository. The Document is published under a generic non-commercial open-source license, the License, and is for educational and demonstration purposes only. You may use, reproduce, publicly display, and modify the Document so long as you submit and donate fixes and derived intellectual property, the Donated Ideas, to the Repository as an Issue ticket to become part of the Document. You may not sell the Document or otherwise profit from derivative works created from the Document without the expressed written permission of the copyright holder. Unless required by applicable law or agreed to in writing, the Document distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
