@@ -1,19 +1,33 @@
 # Astartup Cookbook
 
-***How to invent, launch, and run a high-tech startup with IMUL and the Astartup.***
+***How to invent, launch, and run a high-tech startup with IMUL.***
 
 By Cale McCollough
 
 ## Content Table
 
+1. [Mission and Vision](#mission-and-vision)
 1. [Overview](./getting_started/readme.md)
    1. [Case Study: Cale McCollough](./getting_started/case_study.md)
-   1. [Mission and Vision](./getting_started/mission_and_vision.md)
+   1. [Mission and Vision Statements](./getting_started/mission_and_vision_statements.md)
    1. [Repositories](./getting_started/repositories.md)
+   1. [Editors](./getting_started/editors.md)
    1. [Markdown](./getting_started/markdown.md)
+       1. [App Template](./getting_started/markdown/templates/app_template.md)
+       1. [Game Template](./getting_started/markdown/templates/game_template.md)
+       1. [Cookbook Template](./getting_started/markdown/templates/cookbook_template.md)
    1. [Workspace](./getting_started/workspace.md)
    1. [Summary](./getting_started/summary.md)
    1. [Exercises](./getting_started/exercises.md)
+1. [Documentation](./doc/readme.md)
+   1. [Case Study: Leonardo De Vinci](./doc/case_study.md)
+   1. [Markdown Templates](./doc/markdown_templates.md)
+   1. [Documentation Science](./doc/documentation_science.md)
+   1. [Development Logs](./doc/development_logs.md)
+   1. [Wikis](./doc/wikis.md)
+   1. [Technical Writing](./doc/technical_writing.md)
+   1. [Cookbooks](./docs/cookbooks.md)
+   1. [Summary](./doc/summary.md)
 1. [Psychology](./psychology/readme.md)
    1. [Case Study:](./psychology/case_study.md)
    1. [Classical Conditioning](./psychology/classical_conditioning.md)
@@ -34,14 +48,6 @@ By Cale McCollough
    1. [Critical Thinking](./philosophy/critical_thinking.md)
    1. [Summary](./philosophy/summary.md)
    1. [Exercises](./philosophy/exercises.md)
-1. [Documentation](./doc/readme.md)
-   1. [Case Study: Leonardo De Vinci](./doc/case_study.md)
-   1. [Documentation Science](./doc/documentation_science.md)
-   1. [Development Logs](./doc/development_logs.md)
-   1. [Wikis](./doc/wikis.md)
-   1. [Technical Writing](./doc/technical_writing.md)
-   1. [Cookbooks](./docs/cookbooks.md)
-   1. [Summary](./doc/summary.md)
 1. [Development](./dev/readme.md)
    1. [Case Study:](./dev/case_study.md)
    1. [Revision Control System](./dev/revision_control_system.md)
@@ -156,6 +162,10 @@ By Cale McCollough
    1. [Excises](./manufacturing/exercises.md)
 1. [Appendix](./appendix/readme.md)
 1. [Bibliography](./bibliography/readme.md)
+
+## Mission and Vision
+
+The mission of Astartup is to maximize the chances of success of your startup by teaching as many people as possible modern industry best practices, time optimization techniques, and Artificial Intelligence theory, and to provide free software tools to assist you in this task. Our vision is to provide a free Markdown version of the book to all, regardless of ability to pay; and earn money by selling paper books, solely because paper books are awesome and startups need money; any money generated will be used to fund Kabuki Starship.
 
 ## License
 

@@ -3,6 +3,7 @@
 ## Documentation
 
 1. [Case Study: Leonardo De Vinci](./case_study.md)
+1. [Markdown Templates](./doc/markdown_templates.md)
 1. [Documentation Science](./documentation_science.md)
 1. [Development Logs](./development_logs.md)
 1. [Wikis](./wikis.md)
