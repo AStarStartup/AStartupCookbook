@@ -2,7 +2,7 @@
 
 ## [Getting Started](./readme.md)
 
-### Mission and Vision Statement
+### Mission and Vision Statements
 
 Mission Statements and Vision Statements are one of the most powerful documents your startup has; they are your startup's North Star that keeps everyone headed the same direction. When working with professionals, you shouldn't need to tell them how to do there job. You hired them because they know how to do that and you don't have the time to do that. This means that often times people have their heads down in the sand and everyone is digging towards the goal. This is the fastest way to get to the goal, but if the team is digging in the wrong direction it can lead the team astray, waste time, and jeopardize the project. The Mission and Vision should serve as the North Start that keeps the team coordinated and digging in the right direction.
 

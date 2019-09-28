@@ -10,6 +10,12 @@ The Administrative, or Admin, Repository is the central folder for your startup 
 
 Project Repositories should be self contained, meaning they contain every file needed for the product to work correctly, with the exception of including third-party repos. The golden rules is that repeated files has repeated errors in them. It is best to have every module as self contained as possible, and import the primary repo so you get all of the most current files. This is not possible however in every situation but please keep in mind that it is a major pain in the rear to have to fix the same bug over and over again. The goal of the repo is to increase the quality of the product while reducing the labor costs so do what is  best to accomplish this goal.
 
+In the next section, we're going to walk you through the process of setting up you project's repository by starting out with Markdown templates and drafting your Mission and Vision Statement.
+
+## Navigation
+
+**<< [Previous Section:Mission and Vision](.\readme.md#mission-and-vision) | [Content Table](../readme.md) | [Next Section: Markdown][./markdown/readme.md) >>**
+
 ## License
 
 Copyright 2014-9 (C) [Cale McCollough](https://calemccollough.github.io); all rights reserved (R).
