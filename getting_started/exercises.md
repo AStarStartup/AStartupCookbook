@@ -4,15 +4,9 @@
 
 ### Exercises
 
-**1**. Get your computer ready:
+**1**. Complete the Quickstart Guide.
 
-**A**. Download and install the Visual Studio Code Editor editor at <https://code.visualstudio.com/>, Notepad++ for Windows, or similar text editor with Tree Filesystem Browser.
-
-**B**. Create a folder for your startup on your computer. The preferred workspace location is in `C:\workspace` or `\workspace\` on Unix-like systems because it helps preserve hard file links. This folder is going to be called the Repository.
-
-**Optional**: For those who use multiple computers who wish to do so, create your workspace on an external hard drive, preferably on an M2 External SSD, and create a symbolic link to the drive in the Workspace Directory. This will eliminate redundant pushes to the repository when you switch computers. Laptop users may wish to attach some magnetic tap to the M2 SSD so they can stick it to the back of their laptop monitor. Plan on loosing this drive at any time.
-
-**C**. In the `$root/workspace/$company_name` folder create a text file called README.md, open the file in a text editor, and write down the name of your business, or make up one if you don't have one.
+**2**. In the `$root/workspace/$company_name` folder create a text file called `readme.md`, open the file in a text editor, and write down the name of your business, or make up one if you don't have one.
 
 **2**. Define your product:
 
