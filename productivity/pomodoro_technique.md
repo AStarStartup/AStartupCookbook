@@ -1,14 +1,10 @@
 # [Astartup Cookbook](../readme.md)
 
-## [Inventions](./readme.md)
+## [Productivity](./readme.md)
 
-### Documenting Inventions
+### Pomodoro Technique
 
-The best way to document inventions is always going to be the easiest way to get a patent, with contemperanious pen-and-paper developm
-
-#### Posibile and Impossible Assumptions
-
-A good first place to start documenting a new inventing is to generate a list of what you think is possible and impossible, and add some descriptions of why you think that.
+The Pomodoro tehcnique is a productivity technique where you use a timer, triditionally a Pomodoro tomoato timer that ticks, and you set the timer for 25 minutes and attempt to do one issue per 25 minute cycle, which doesn't happen all the time. The inventor of the technique,Francesco Cirillo, showed in the late 1980s that 25 minutes is the amount of time that increases the number of issues you complete.
 
 ## License
 

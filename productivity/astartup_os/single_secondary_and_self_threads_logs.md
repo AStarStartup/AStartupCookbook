@@ -1,14 +1,14 @@
-# [Astartup Cookbook](../readme.md)
+# [Astartup Cookbook](../../)
 
-## [Inventions](./readme.md)
+## [Productivity](../)
 
-### Documenting Inventions
+### [Astartup OS](./)
 
-The best way to document inventions is always going to be the easiest way to get a patent, with contemperanious pen-and-paper developm
+#### Single, Secondary, and Self Threads and Logs
 
-#### Posibile and Impossible Assumptions
+The Astartup OS uses three logs to minimize the number of bulky logbooks required to do our job. You want to start out each day by starting your Self Log, which you use to do self-care and record things like todo lists, drawings, and ideas unrelated to work.
 
-A good first place to start documenting a new inventing is to generate a list of what you think is possible and impossible, and add some descriptions of why you think that.
+
 
 ## License
 
