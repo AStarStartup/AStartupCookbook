@@ -2,13 +2,13 @@
 
 ## [Inventions](./readme.md)
 
-### Documenting Inventions
+### Inventing Thought Process
 
-The best way to document inventions is always going to be the easiest way to get a patent, with contemperanious pen-and-paper developm
+There isn't one set formula for inventing obviously, but inventors and serial entrepreneurs do share some common traits, and percerverience is on the top of the list along with luck. Thomas Edison took thousands of tries until he finally invented the light bulb.
 
-#### Posibile and Impossible Assumptions
+#### Opening your Mind
 
-A good first place to start documenting a new inventing is to generate a list of what you think is possible and impossible, and add some descriptions of why you think that.
+The longer you go as inventer the easier it is to be open-minded because you slowly over the years discover that you were wrong about a lot of stuff on a regular basis and over the years a good inventor will slowly learn to be their own biggest skeptic.
 
 ## License
 

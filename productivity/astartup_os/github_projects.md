@@ -1,14 +1,12 @@
-# [Astartup Cookbook](../readme.md)
+# [Astartup Cookbook](../../)
 
-## [Inventions](./readme.md)
+## [Productivity](../)
 
-### Documenting Inventions
+### [Astartup OS](./)
 
-The best way to document inventions is always going to be the easiest way to get a patent, with contemperanious pen-and-paper developm
+#### GitHub Projects
 
-#### Posibile and Impossible Assumptions
-
-A good first place to start documenting a new inventing is to generate a list of what you think is possible and impossible, and add some descriptions of why you think that.
+Todo: Detail the GitHub projects for the Session tickets.
 
 ## License
 
