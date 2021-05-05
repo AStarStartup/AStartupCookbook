@@ -120,7 +120,7 @@ By Cale McCollough
 1. [Teams](./Teams/ReadMe.md)
    1. [Case Study:](./Teams/CaseStudy.md)
    1. [Team Structures](./Teams/TeamStructures.md)
-   1. [Team Etiquette](./TeamEtiquette.md)
+   1. [Team Etiquette](./Teams/TeamEtiquette.md)
    1. [Conflict Resolution](./Teams/ConflictResolution.md)
    1. [Communication](./Teams/Communication.md)
    1. [Recruiting](./Teams/Recruiting.md)
