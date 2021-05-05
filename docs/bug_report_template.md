@@ -10,7 +10,7 @@ The Solution to the Bug is...
 
 * CookingWithCale/CookingWithCale#1
 
-## Hierarchy
+## IssueHierarchy
 
 * This
 
