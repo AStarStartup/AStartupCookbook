@@ -1,22 +1,24 @@
-# Contributing Guide
+## Contributing Guide
+
+### Submitting Bugs
 
 **1.** Ensure the bug was not already reported by by reading the [Issues](https://github.com/abc_org/xyz_project/issues).
 
-**2.** Open `/docs/BUG_REPORT_TEMPLATE.md` and copy it's contents to the clipboard.
+**2.** Open `/docs/bug_report_template.md` and copy it's contents to the clipboard.
 
 **3.** Create an issue, paste the template into the Issue body and fill it out.
 
 ## Feature Requests
 
-**1.** Same as the instructions for submitting a bug report except with using `/docs/FEATURE_REQUEST.md`.
+**1.** Same as the instructions for submitting a bug report except with using `/docs/feature_request.md`.
 
 ### Completing Issues
 
-**1.** Clone the repo and create a branch for the IssueNuber:
+**1.** Clone the repo and create a branch for the IssueNumber:
 
 ```Console
-git clone https://github.com/abc_org/xyz_project.git
-cd script2
+git clone https://github.com/CookingWithCale/AStartupCookbook.git
+cd AStartupCookbook
 git checkout -b Issue123
 ```
 
@@ -24,7 +26,7 @@ git checkout -b Issue123
 
 ```Console
 git add --all
-git commit -m "module_id.Add feature XYZ. #123"
+git commit -m "ModuleID.Add feature XYZ. #123"
 git push origin Issue123
 ```
 
@@ -35,8 +37,13 @@ git push origin Issue123
 **5.** Merge the branch, complete another ticket, and delete the old branch.
 
 ```Console
-git checkout -b Issue125
+git branch -m Issue123 Issue125
 git add --all
-git commit "module_id:Fix feature ABC. #125"
-git branch -d Issue123
+git commit "ModuleID.Fix feature ABC. #125"
 ```
+
+**6.** Create a GitHub Pull Request to merge the new branch with the master at <https://github.com/CookingWithCale/AStartupCookbook/pulls>.
+
+## License
+
+Copyright 2021 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.
