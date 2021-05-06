@@ -2,13 +2,13 @@
 
 ### Submitting Bugs
 
-**1.** Ensure the bug was not already reported by by reading the [Issues](https://github.com/abc_org/xyz_project/issues).
+**1.** Ensure the bug was not already reported by by reading the [Issues](https://github.com/CookingWithCale/AStartupCookbook/issues).
 
 **2.** Open `/docs/bug_report_template.md` and copy it's contents to the clipboard.
 
 **3.** Create an issue, paste the template into the Issue body and fill it out.
 
-## Feature Requests
+### Feature Requests
 
 **1.** Same as the instructions for submitting a bug report except with using `/docs/feature_request.md`.
 
@@ -30,7 +30,7 @@ git commit -m "ModuleID.Add feature XYZ. #123"
 git push origin Issue123
 ```
 
-**3.** Create a Pull Requesting using the `/docs/PULL_REQUEST_TEMPLATE.md`
+**3.** Create a Pull Requesting using the `/docs/pull_request_template.md`
 
 **4.** Get others to inspect your changes and merge the branch to the master.
 
@@ -42,7 +42,7 @@ git add --all
 git commit "ModuleID.Fix feature ABC. #125"
 ```
 
-**6.** Create a GitHub Pull Request to merge the new branch with the master at <https://github.com/CookingWithCale/AStartupCookbook/pulls>.
+**6.** Create a GitHub Pull Request at <https://github.com/CookingWithCale/AStartupCookbook/pulls>.
 
 ## License
 
