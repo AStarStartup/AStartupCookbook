@@ -10,9 +10,13 @@ The Solution to the Problem is...
 
 * CookingWithCale/CookingWithCale#1
 
-## IssueHierarchy
+## Hierarchy
 
 * This
+
+## Instructions
+
+For instruction on how to perform Issue-driven Development and contribute to this project please read the Contributing Guide at <>.
 
 ## License
 
