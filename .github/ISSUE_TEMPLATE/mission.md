@@ -1,10 +1,9 @@
 ---
 name: Mission
 about: A mission with a problem-solution analysis
-title: ''
+title: 'Mission'
 labels: ''
 assignees: ''
-
 ---
 
 ### A
@@ -27,7 +26,7 @@ The solution that I'm addressing on this mission is...
 
 #### Tags
 
-Mission
+Mission, Newb
 
 #### Sessions
 
