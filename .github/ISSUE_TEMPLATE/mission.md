@@ -34,7 +34,7 @@ Mission
 
 ### Sessions
 
-* CookingWithCale/CookingWithCale#2
+* CookingWithCale/CookingWithCale#9
 
 ## License
 
