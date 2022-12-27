@@ -1,37 +1,41 @@
 ---
 name: Mission
 about: A mission with a problem-solution analysis
-title: 'Mission'
+title: ''
 labels: ''
-assignees: ''
+assignees: 'CookingWithCale'
 ---
 
-### A
+# 
 
-#### Problem
+## Problem
 
 The problem I am addressing on this mission is...
 
-#### Solution
+## Solution
 
 The solution that I'm addressing on this mission is...
 
-##### File Affected
+### File Affected
 
-1. `*.*`
+1. `?`
 
-#### Hierarchy
+## Hierarchy
 
 * #1
 
-#### Tags
+## Tags
 
-Mission, Newb
+Mission
 
-#### Sessions
+## A
 
-* CookingWithCale/CookingWithCale#1
+
+
+### Sessions
+
+* CookingWithCale/CookingWithCale#2
 
 ## License
 
-Copyright 2022 © [Cale McCollough](https://cookingwithcale.org); all rights reserved.
+Copyright 2023 [AStartup](https://astartup.net); all rights reserved.
