@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Case Study: Bill Gates"
+status: draft
 ---
 
 # [Astartup Cookbook](../)

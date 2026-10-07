@@ -7,8 +7,9 @@ title: "Modeling"
 
 ## Modeling
 
-1. [Case Study:](./case_study.md)
-1. [Abstraction](./abstraction.md)
-1. [Business Models](./business_models.md)
-1. [Data Structures](./data_structures.md)
-1. [Summary](./summary.md)
+1. [Case Study:](./CaseStudy.md)
+1. [Abstraction](./Abstraction.md)
+1. [Business Models](./BusinessModels.md)
+1. [Data Structures](./DataStructures.md)
+1. [Summary](./Summary.md)
+1. [Exercises](./Exercises.md)

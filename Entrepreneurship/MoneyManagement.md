@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Money Management"
+status: draft
 ---
 
 # [Astartup Cookbook](../)

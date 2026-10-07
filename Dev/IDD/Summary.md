@@ -5,7 +5,7 @@ title: "Summary"
 
 # [Astartup Cookbook](../../)
 
-## [Development](../../)
+## [Development](../)
 
 ### [Agentic Driven Development](./)
 

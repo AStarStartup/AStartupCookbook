@@ -9,8 +9,9 @@ title: "Servicing"
 
 Servicing produce includes Maintenance, repair, and interacting with customers and service-sector workers and owners.
 
-1. [Case Study:](./case_study.md)
-1. [Right to Repair](./right_to_repair.md)
-1. [Repair Documentation](./repair_documentation.md)
-1. [Outsourcing](./outsourcing.md)
-1. [Summary](./summary.md)
+1. [Case Study:](./CaseStudy.md)
+1. [Right to Repair](./RightToRepair.md)
+1. [Repair Manual](./RepairManual.md)
+1. [Outsourcing](./Outsourcing.md)
+1. [Summary](./Summary.md)
+1. [Exercises](./Exercises.md)

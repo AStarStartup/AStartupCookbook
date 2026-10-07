@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Development Patterns"
+status: draft
 ---
 
 # [Astartup Cookbook](../)
@@ -13,7 +14,7 @@ Development patterns are patterns to follow while developing a product, and are 
 
 #### Waterfall Development
 
-The Waterfall Development Pattern is where a project progresses sequentially through development stages without working on any prior stages. This is the fastest possible time-to-market development pattern, but is not flexible to incorporate knowledge learned during the development process. For some projects this may or may not matter or be a good or bad thing, it all depends of if the correct user requirements where collected ahead of time. More about this will be elaborated upon in Chapter 8: Design.
+The Waterfall Development Pattern is where a project progresses sequentially through development stages without working on any prior stages. It can be appropriate when requirements and dependencies are stable, but it is less flexible when new information requires revisiting earlier decisions. It is not universally the fastest route to market. For some projects this may or may not matter or be a good or bad thing, it all depends of if the correct user requirements where collected ahead of time. More about this will be elaborated upon in Chapter 8: Design.
 
 A good example of when a Waterfall Development Pattern may be useful is when you know ahead of time exactly what the customer will buy based on inside market information, and you need to rush to market as fast possible, and you're a team of professionals who have build many similar products. In this situation the Waterfall would be preferred.
 
@@ -45,9 +46,23 @@ Not to be confused with Design for Test, though they are often used together.
 
 #### Agentic Driven Development
 
-Agentic Driven Development (ADD, formerly Issue Driven Development, IDD, and Mission-Driven Development, MDD) is a method that relies on a Kanban board and issue tracking system (ITS) to keep you on track by you only working on a single issue at a time, and no work is allowed to happen without an issue first being inputted into the ITS.
+Agentic Driven Development (ADD, formerly Issue Driven Development, IDD, and Mission-Driven Development, MDD) is a method that relies on a Kanban board and issue tracking system (ITS) to keep you on track by only working on a single issue at a time, and no work is allowed to happen without an issue first being inputted into the ITS.
 
-The process starts anytime you are doing work on code, you first create an Issue in the ITS. This issue gets associated with a Project Kanban board. When work begins you place the issue in the todo . The issue needs to be small enough that one or more issues can be tackled per day. If an issue is so big that it takes more than one day to complete then that issue is said to be an *Out of Control Issue*.
+ADD is the agentic-era evolution of the method. The core principle is unchanged: the mission drives the development. What has changed is who executes the mission. In the pre-agentic era, a human read the ticket, wrote the code, ran the tests, and committed. In the agentic era, an AI agent reads the ticket, writes the code, runs the tests, and commits. The human's role shifts from executor to director: the human defines the mission, reviews the agent's work, and merges the pull request.
+
+The agentic workflow:
+
+1. The human creates the issue ticket with a clear Problem and Solution.
+2. The human assigns the ticket to an agent on the kanban board.
+3. The agent reads the ticket, creates a branch, and executes the sub-commits.
+4. The agent pushes the branch and opens a pull request.
+5. The CI pipeline runs automatically.
+6. The human reviews the pull request and merges it.
+7. The agent updates the session ticket.
+
+The human may still code, investigate, sell, and support customers. A precise ticket helps but does not guarantee correct output; evidence, implementation quality, tests, and review also matter. The ticket records an authorized next step, not proof of customer demand.
+
+The process starts anytime you are doing work on code, you first create an Issue in the ITS. This issue gets associated with a Project Kanban board. When work begins you place the issue in the todo . The issue needs to be small enough that one or more issues can be tackled per day. Long missions are not automatically out of control. Split them into reviewable steps with checkpoints when that improves verification and coordination.
 
 When the developer wishes to commit files, the developer then copies and pastes the title of the issue from the ITS along with the issue's unique ID (UID), and submits the commit with the issue a message consisting of the title and the UID. In GitHub, clicking on the UID in the commit log will take you to the issue page, which allows developers to chat about the issue and for teams and solo developers to use a digital development log.
 
@@ -63,27 +78,16 @@ Seams must be tested in a specific order, or combination of orders, to ensure th
 
 * Don't let your issues build up: A project with thousands of back-logged issues is by definition not Agile. Use StarUML to backlog issues and add features in the model first before polluting the ITS.
 
-* Only do work on the files with sections that the issue requires: while you're not an inherently bad person for doing so you do lose some useful information from the revision commit history. Some of the most important work that has occurred is the work that occurred directly before what you're doing, so if you make that information harder for the team to see, it greatly increases the chance they won't see the information and make some choice that slows the team down or at worst causes irreparable damage. This, however, does not apply to work done on sections not addressed by the issue that are in the same file because it would not alter the file commit log.
+* Only do work on the files with sections that the issue requires: while you're not an inherently bad person for doing so you do lose some useful information from the revision commit history. Some of the most important work that has occurred is the work that occurred directly before what you're doing, so if you make that information harder for the team to see, it greatly increases the chance they won't see the information and make some choice that slows the team down or at worst causes irreparable damage. This scope discipline also applies to unrelated sections in the same file; sharing a filename does not make a change part of the mission.
 
 * Organize your Major Seams using a UML Package Diagram that visibly separates the packages based on seam: UML Package Diagrams are useful because they are a dependency diagram, which helps put the hoarse in front of the cart and decouple the seam layers as much as possible.
 
-![Kabuki Toolkit UML Seam and Package Diagram.](images/kabuki_package_diagram.jpg)
+The original Kabuki Toolkit seam diagram is missing from this repository; do not infer its structure from a broken image reference.
 
 * Keep your issue titles as short as possible: if your issue title is so long it doesn't fit in the one line, break it up into smaller issues. You need to be able to click on the issue ticket number to take you to the issue and you can explain the work in more detail on the issue description.
 
-#### Old Astartup Method @todo Fix me!
+#### Historical AStar naming
 
-The approach used throughout this book is called AStar Driven Development (or MDD) and Astartup, which are a combination of the industry standard development processes with artificial intelligence. MDD gets it's name from the AStar function, a famous greedy lookahead game theory algorithm that is a fundamental theorem of Artificial Intelligence. It is at it's essence a variation of Dijkstra's Shortest Path Algorithm combined with some statistics. The essence of the algorithm is to minimize cost and maximize reward, so it is a suiting name.
+The earlier AStar-driven terminology inspired the method's name. It is not a proof that following this workflow produces the shortest or cheapest startup path. A startup has uncertain outcomes and incomplete information; a graph-search analogy does not establish a success probability.
 
-##### Tradeoffs
-
-###### Pros
-
-1. Built on industry standard AI and Machine Learning techniques.
-2. Good a minimizing cost and maximizing reward.
-3. Works with existing startups to allow them to transition into a lean state.
-4. Can work by using a pen-and-paper development log.
-
-###### Cons
-
-1. Some startup companies make it more expensive to get user Analytics.
+Keep the original seam and logging concepts above as material to review and adapt. For current execution authority and verification, use [Agent Operations](./AgentOperations.md). For choosing an outcome before writing a ticket, use [Problem Solving](../Engineering/ProblemSolving.md).

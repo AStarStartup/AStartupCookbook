@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Night and Day Sessions"
+title: "Flow State"
+status: draft
 ---
 
 # [Astartup Cookbook](../)
@@ -40,3 +41,16 @@ This point of this section is that you should go through the list, and write one
 #### Taking Notes Over Your Reading
 
 The art of technical writing can also be described as the art of turning carefully taken notes into an official document. One of the best things that you can do is take good notes over your resource materials. You can’t just expect to read the material, do some homework, cram for an exam, and get a passing grade. Technical writing requires attention to detail and the best way to do that is through documenting your notes correctly. Not taking a little bit of extra effort into taking better notes help.
+
+#### When Not to Do a HoSe
+
+The Hour of Seconds, the HoSe, is a timed work sprint. You set a timer, you work, you stop when the timer rings. It is a powerful tool for maintaining pace and preventing the "one more thing" drift that eats entire afternoons.
+
+But the HoSe is the wrong tool for certain types of work. Skip the HoSe when:
+
+1. **You need to watch a video or a tutorial to learn the skill.** The HoSe assumes you already know how to do the task and are executing. If you are learning, the video is the task, and pausing the video to check the timer breaks the learning loop. Be an active learner: watch, pause, practice, repeat. The timer is irrelevant when you are absorbing, not executing.
+2. **You were not set up the night before.** The HoSe assumes you walked in knowing exactly what to do. If you spent the first twenty minutes figuring out what the task is, the timer is measuring setup, not work. Set up the night before: read the issue, identify the files, plan the first commit. Then the HoSe measures execution, not orientation.
+3. **The task is a single long operation.** If the task is "wait for the build to finish" or "run the migration," the HoSe is theater. You are not working; you are watching. Let the operation run and do something else while you wait.
+4. **You are in the middle of a debugging session that is close to a breakthrough.** The HoSe timer ringing at the moment you are about to understand the bug is the worst possible interruption. If you are deep in a debug and you can feel the answer coming, turn off the timer. Finish the thought. Then restart the HoSe for the next unit.
+
+The rule: the HoSe is for execution, not for learning, not for waiting, not for setup. If the task is not execution, use a different time management strategy. Block scheduling for learning. Task batching for waiting. The night-before setup for orientation.

@@ -9,8 +9,8 @@ title: "Self-care"
 
 ***How to prevent from hurting yourself and destroying your startup.***
 
-1. [Case Study:](./case_study.md)
-1. [Energy Management](./energy_management.md)
-1. [Mental Floss](./mental_floss.md)
-1. [Summary](./summary.md)
-1. [Exercises](./exercises.md)
+1. [Case Study:](./CaseStudy.md)
+1. [Mental Floss](./MentalFloss.md)
+1. [Energy Management](./EnergyManagement.md)
+1. [Summary](./Summary.md)
+1. [Exercises](./Exercises.md)

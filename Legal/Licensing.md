@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Licensing"
+status: draft
 ---
 
 # [Astartup Cookbook](../)

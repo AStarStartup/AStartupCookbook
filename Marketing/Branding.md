@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Branding"
+status: draft
 ---
 
 # [Astartup Cookbook](../)

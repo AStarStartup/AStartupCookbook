@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Formal Arguments"
+status: draft
 ---
 
 # [Astartup Cookbook](../)

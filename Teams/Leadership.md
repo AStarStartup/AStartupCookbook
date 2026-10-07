@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Prioritization"
+title: "Leadership"
 ---
 
 # [Astartup Cookbook](../)

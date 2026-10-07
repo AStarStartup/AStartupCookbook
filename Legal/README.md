@@ -7,7 +7,8 @@ title: "Legal"
 
 ## Legal
 
-1. [Case Study: Albert Einstein](./case_study.md)
-2. [Intellectual Property](./intellectual_property.md)
-3. [Contracts](./contracts.md)
-4. [Summary](./summary.md)
+1. [Case Study: Albert Einstein](./CaseStudy.md)
+1. [Intellectual Property](./IntellectualProperty.md)
+1. [Licensing](./Licensing.md)
+1. [Summary](./Summary.md)
+1. [Exercises](./Exercises.md)

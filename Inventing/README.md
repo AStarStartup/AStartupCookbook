@@ -7,11 +7,11 @@ title: "Inventing"
 
 ## Inventing
 
-1. [Case Study: Thomas Edison](./case_study.md)
-1. [Documenting Inventions](./documenting_inventions.md)
-1. [Story Boards](./story_board)
-1. [Inventing Techniques](./inventing_techniques)
-1. [Moving Quickly](./moving_quickly)
-1. [Basic Drawing Skills](./basic_drawing_skills.md)
-1. [Philosophy](./philosophy.md)
-1. [Summary](./summary.md)
+1. [Case Study: Thomas Edison](./CaseStudy.md)
+1. [Documenting Inventions](./DocumentingInventions.md)
+1. [Story Boards](./StoryBoard.md)
+1. [Inventing Techniques](./InventingTechniques.md)
+1. [Moving Quickly](./MovingQuickly.md)
+1. [Basic Drawing Skills](./BasicDrawingSkills.md)
+1. [Philosophy](./Philosophy.md)
+1. [Summary](./Summary.md)

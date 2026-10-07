@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "DRY"
+title: "Common Acronyms"
 ---
 
 # [Astartup Cookbook](../)

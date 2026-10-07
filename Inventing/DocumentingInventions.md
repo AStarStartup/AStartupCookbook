@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Documenting Inventions"
+status: draft
 ---
 
 # [Astartup Cookbook](../)

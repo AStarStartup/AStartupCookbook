@@ -7,17 +7,19 @@ title: "Psychology"
 
 ## Psychology
 
-1. [Case Study:](./case_study.md)
-1. [Classical Conditioning](./classical_conditioning.md)
-1. [Compulsion Loops](./compulsion_loops.md)
-1. [Reciprocity](./reciprocity.md)
-1. [Commitment and Consistency](./commitment_and_consistency.md)
-1. [Story Telling](./story_telling.md)
-1. [Personalization](./personalization.md)
-1. [Novelty Experience](./novelty_experience.md)
-1. [Social Proof](./social_proof.md)
-1. [Summary](./summary.md)
-1. [Exercises](./exercises.md)
+1. [Case Study:](./CaseStudy.md)
+1. [Attention](./Attention.md)
+1. [Classical Conditioning](./ClassicalConditioning.md)
+1. [Compulsion Loops](./CompulsionLoops.md)
+1. [Reward Loops](./RewardLoops.md)
+1. [Reciprocity](./Reciprocity.md)
+1. [Commitment and Consistency](./CommitmentAndConsistency.md)
+1. [Personalization](./Personalization.md)
+1. [Novelty Experience](./NoveltyExperience.md)
+1. [Social Proof](./SocialProof.md)
+1. [Temporal Learning](./TemporalLearning.md)
+1. [Summary](./Summary.md)
+1. [Exercises](./Exercises.md)
 
 ## Resources
 

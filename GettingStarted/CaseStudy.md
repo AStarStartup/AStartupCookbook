@@ -1,13 +1,16 @@
 ---
 layout: page
-title: "Case Study:"
+title: "Case Study: Cale McCollough"
+status: draft
 ---
 
 # [Astartup Cookbook](../)
 
 ## [Getting Started](./)
 
-### Case Study:
+### Case Study: Cale McCollough
+
+This is the author's personal account. Historical, medical, and legal statements in this narrative have not been independently verified and are not general startup instructions.
 
 This book was born from a string of failures with my first startup company, Blue Storm Engineering. Blue Storm is the sign on the Mayan calendar that represents the epic struggle between good and evil. It was part of George Lucas's inspiration to write Star Wars. The Blue Storm is the evil empire with the support of the Storm Troopers. The Blue Storm is followed by the Yellow Sun, which is the age of enlightenment, which is when the Dark Side has been defeated.
 
@@ -24,6 +27,8 @@ My baby's mother went down the toilet and I lost custody of my son to my son's m
 I eventually transferred Portland State University (PSU) in 2010 for a BS in computer engineering, and shortly after stopped playing music and did engineering non-stop as a basement dweller in the PSU Engineering Building. I was fortunate enough to get a small grant from the Oregon Lottery IDA Program to get enough electronics making equipment where I had a nice lab to be a broke college student and invent in. I worked tirelessly all day for years.
 
 Everything was going good until half way through my junior year. I used up too much financial aid at LCC, the school didn't tell me I was going to run out, and I had to drop out in 2013, which is when the work on this book began. I got into the Eugene Startup scene through startup events at the Fertilab Thinkubator, a business accelerator in Eugene and I worked on my technology and went to startup events for years.
+
+I interviewed startup founders while I was involved with the Fertilab startup community in Eugene and kept notes in a composition book. I could not find collaborators with enough expertise to help with the sections I could not write, and eventually I put the book aside. The agent-first edition resumes that work; it should preserve the notes while checking the claims and filling gaps with evidence, not invented interviews.
 
 During this time I invented Script and started the Kabuki Toolkit from my 3D graphics work. From the years of 2008 through 2018 I worked all by myself with no help and it was miserable. I was stuck at my mom's house, I could only see my son 1/3 of the time. I was so traumatizing that I developed PTSD from Legal Abuse Syndrome, which is where you're traumatized by being innocent and convicted guilty because you have to live in a prolonged state of trauma.
 

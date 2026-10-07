@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Sharing the Wealth"
+status: draft
 ---
 
 # [Astartup Cookbook](../)

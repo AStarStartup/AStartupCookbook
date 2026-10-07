@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "503(c)(3) vs 503(c)(4)"
+title: "Organization Structures"
+status: draft
 ---
 
 # [Astartup Cookbook](../)

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Development Logs"
+status: draft
 ---
 
 # [Astartup Cookbook](../)
@@ -86,3 +87,38 @@ Common Sections
 ##### Log Reviews
 
 Every good development log should have a peer review their logs. We're all trying to get better but we can't without constructive criticism.
+
+#### Secondary Log: Prior Session Progress Report
+
+The secondary log is the brief summary at the start of each session that tells you where you left off. Without it, every session starts with the same cold open: "What was I working on? What did I do yesterday? Where am I in the project?" The progress report eliminates the cold open.
+
+The format is one to three sentences:
+
+```markdown
+## Prior Session Progress
+
+Yesterday I worked on the AStartup Toolkit MCP server and got the
+authentication flow passing all tests. The CI pipeline is green.
+Today I am moving to the session ticket template.
+```
+
+This is not a restatement of the issue ticket. The issue ticket says what the problem is and what the solution is. The progress report says where you are in the solution: what you did, what is done, what is next. It is the handoff note from yesterday-you to today-you.
+
+The rule: if you did not write a progress report at the end of the session, you write one at the start of the next session before you do anything else. Two sentences. What you did. What is next. Then you get to work.
+
+#### Primary Log: List Your Projects
+
+The primary log starts with a list of the projects you will work on that day and the approximate times. This is not a to-do list; it is a schedule. The difference: a to-do list is "things to do sometime," a schedule is "I will do this thing at this time."
+
+```markdown
+## Projects
+
+* 08:00 - 10:00 AStarStartup/AStartupCookbook — Content: Psychology chapters
+* 10:00 - 12:00 AStarStartup/AStartupToolkit — Code: MCP server auth
+* 14:00 - 15:00 AStarStartup/AStartupWorld_ — Code: Next.js landing page
+* 15:00 - 16:00 Admin — Email, kanban review, next session setup
+```
+
+The times are approximate, not rigid. If the first project runs long, the second starts late. The point is not to hit the times; the point is to know which projects you are working on and in what order. If you did not get a session for a listed project, the next day's log starts with a plan for why it did not happen and how to make it happen.
+
+The organization-level rule: you push the organization name on the stack, not the individual repo. This is because getting a session number for each repo individually is too much friction. The organization is the unit of logging. The individual repo is noted in the project line.

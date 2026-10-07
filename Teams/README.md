@@ -7,12 +7,13 @@ title: "Teams"
 
 ## Teams
 
-1. [Case Study:](./case_study.md)
-1. [Team Structures](./team_structures.md)
-1. [Team Etiquette](./team_etiquette.md)
-1. [Conflict Resolution](./conflict_resolution.md)
-1. [Communication](./communication.md)
-1. [Recruiting](./recruiting.md)
-1. [Leadership](./leadership.md)
-1. [Summary](./summary.md)
-1. [Exercises](./exercises.md)
+1. [Case Study:](./CaseStudy.md)
+1. [Team Structures](./TeamStructures.md)
+1. [Team Etiquette](./TeamEtiquette.md)
+1. [Communication](./Communication.md)
+1. [Meetings](./Meetings.md)
+1. [Recruiting](./Recruiting.md)
+1. [Leadership](./Leadership.md)
+1. [Scaling](./Scaling.md)
+1. [Summary](./Summary.md)
+1. [Exercises](./Exercises.md)

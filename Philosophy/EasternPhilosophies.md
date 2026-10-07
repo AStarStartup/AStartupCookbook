@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Dharma"
+title: "Eastern Philosophy"
+status: draft
 ---
 
 # [Astartup Cookbook](../)

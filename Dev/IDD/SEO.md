@@ -5,7 +5,7 @@ title: "Search Engine Optimization"
 
 # [Astartup Cookbook](../../)
 
-## [Development](../../)
+## [Development](../)
 
 ### [Agentic Driven Development](./)
 

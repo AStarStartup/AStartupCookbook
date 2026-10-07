@@ -7,10 +7,12 @@ title: "Marketing"
 
 ## Marketing
 
-1. [Case Study:](./case_study.md)
-1. [Marketing Documents](./marketing_documents.md)
-1. [Websites](./websites.md)
-1. [Pitches](./pitches.md)
-1. [Presentations](./presentations.md)
-1. [Summary](./summary.md)
-1. [Exercises](./exercises.md)
+1. [Case Study:](./CaseStudy.md)
+1. [Branding](./Branding.md)
+1. [Marketing Documents](./MarketingDocuments.md)
+1. [Websites](./Websites.md)
+1. [QR Codes](./QRCodes.md)
+1. [Vendor Documentation](./VendorDocumentation.md)
+1. [Marketing Presentations](./MarketingPresentations.md)
+1. [Summary](./Summary.md)
+1. [Exercises](./Exercises.md)

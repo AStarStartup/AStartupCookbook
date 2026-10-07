@@ -7,12 +7,14 @@ title: "Productivity"
 
 ## Productivity
 
-1. [Case Study:](./case_study.md)
-1. [Flow State](.//flow_state.md)
-1. [Consolidation](./consolidation.md)
-1. [Completion](./completion.md)
-1. [Lean Workspace](./lean_workspace.md)
-1. [Operating Systems](./operating_systems.md)
-1. [Summary](./summary.md)
+1. [Case Study:](./CaseStudy.md)
+1. [Flow State](./FlowState.md)
+1. [Context Window Engineering](./ContextWindowEngineering.md)
+1. [Consolidation](./Consolidation.md)
+1. [Lean Workspace](./LeanWorkspace.md)
+1. [Operating Systems](./OperatingSystems.md)
+1. [Broken Windows](./BrokenWindows.md)
+1. [Summary](./Summary.md)
+1. [Exercises](./Exercises.md)
 
 This section is about productivity tips and stuff like note taking. There is going to be a lot of documentation to write over the course of this book, and one of the most important things that you can do is to finish what you started while it's fresh in your memory.

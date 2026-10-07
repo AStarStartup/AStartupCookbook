@@ -5,22 +5,39 @@ title: "Getting Started"
 
 # [Astartup Cookbook](../)
 
-## Getting Started
+## [Getting Started](./)
 
-1. [Case Study: Cale McCollough](./case_study.md)
-1. [Mission and Vision](./mission_and_vision.md)
-1. [Repositories](./repositories.md)
-1. [Markdown](./markdown.md)
-1. [Workspace](./workspace.md)
-1. [Summary](./summary.md)
-1. [Exercises](./exercises.md)
+### Getting Started
 
-This is a living book that contains engineering best practices to launch a startup based on an invention with a little bit of help from artificial intelligence using a piece of software called the Astartup-bot, named after the A-Star (A*) Algorithm. The book's purpose is in the hopes of helping you and your company does not make the same mistakes I made with my first startup company that was such a heartache for me and my son.
+This book grew out of the author's startup work and mistakes. Its aim is to help a founder decide what to do, then build, run, maintain, and improve a startup with evidence and suitable tools. Agents read the Markdown and explain the relevant material to humans in their language and at their skill level.
 
-This book works in combination with other references documents throughout this book and is not meant to be a primary source of information for any of the subjects cited; you need to go to engineering school for that and the book would span several foreboding volumes. Each skill area touched upon is a full-time job in and of itself. This book is aiming to introduce you to the industry best practices from various disciplines and to use a little bit of AI theory to help optimize your scheduler to help you quickly scale your project/startup to compete in the rapidly evolving **EXTREMELY** competitive international market.
+The cookbook is a working draft. Some pages are notes or empty outlines, and some companion-tool descriptions are plans rather than released capabilities. Read the root [agent entry point](../README.md#agent-entry-point) and draft policy before treating a page as instructions.
 
-In a way, your entire life is a startup company, you just didn't know it. Startups usually have an 85% chance of failure, which is unacceptable to you. One way to boost your odds is to use AI, so if this interests you this is the book for you.
+#### Start from the decision
 
-Each chapter in the book (will) contain(s) a case study of a inventor or entrepreneur that has a valuable lesson to learn about the subject of that chapter #WorkInProgress. Kabuki Toolkit (will then) contain(s) some open-source tools to help you optimize your schedule with that technique. Want to invent like Thomas Edison or Albert Einstein, or be as quirky as Elon Musk? Keep reading and submit your code to the Kabuki Toolkit at <https://github.com/KabukiStarship/KabukiToolkit/>.
+1. Read [Problem Solving](../Engineering/ProblemSolving.md). Define the problem, baseline, constraints, alternatives, economics, and smallest useful test.
+2. Use [Customer Interviews](../Analytics/CustomerInterviews.md) to investigate actual behavior and [Market Validation](../Entrepreneurship/MarketValidation.md) to separate demand, payment, and delivery claims.
+3. Only after choosing an authorized next step, define a [Mission Ticket](../Dev/IDD/MissionTickets.md) with files and acceptance checks.
+4. Use [Agent Operations](../Dev/AgentOperations.md) for build/run/maintain/innovation procedures and [Local LLM Tasks](../Dev/LocalLLM.md) for bounded drafting.
+5. Verify outputs with real tools and source records. Explain what is known, assumed, and not checked; a plausible answer is not a result.
 
-**<<** [](..\) **|** [Intro][intro.md) **>>**
+#### Read only what the task needs
+
+The chapter index is a retrieval map, not a required reading order. Load the relevant page, the project's local rules, and the source evidence. Consult current primary references for a technology or a legal, tax, employment, or securities conclusion. The cookbook does not replace specialist review.
+
+Front matter and headings help retrieval, but do not certify accuracy or completeness. Treat `status: draft` pages as incomplete source material, not an execution contract. Unmarked legacy pages are not automatically fact-checked either.
+
+Preserve the author's history and interview notes without converting anecdotes or questions into measured findings. Add evidence for a missing section instead of filling it with generated facts.
+
+#### Chapter links
+
+1. [Case Study: Cale McCollough](./CaseStudy.md)
+1. [Mission and Vision](./MissionAndVision.md)
+1. [Repositories](./Repositories.md)
+1. [Workspace](./Workspace.md)
+1. [Workspace Structure](./WorkspaceStructure.md)
+1. [Markdown](./Markdown.md)
+1. [AStartup Toolkit](./AStartupToolkit.md)
+1. [Contributor Guide](./ContributorGuide.md)
+1. [Summary](./Summary.md)
+1. [Exercises](./Exercises.md)

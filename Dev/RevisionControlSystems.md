@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Revision Control Systems"
+status: draft
 ---
 
 # [Astartup Cookbook](../)
@@ -17,12 +18,7 @@ This chapter talks about revision control systems and how they are used on proje
 
 Git is a RCS programmed in C that is the gold standard for RCS. Git is very easy to use when working by yourself. You can get away with only knowing a handful of commands. Reverting changes does take a little bit of a learning curve but if you use a web-based Git tool like GitHub you may use the website to look at past changes and copy and paste or download the original raw data. Git is the primary revision control system that shall be used throughout this book.
 
-```
-git init
-git add --all
-git commit -m "First commit."
-git push
-```
+For an existing project, inspect `git status` and follow [Contributing](./Contributing.md). Initializing a repository, staging files, committing, and pushing are distinct actions; none is automatically authorized by reading this page. Use explicit paths and preserve unrelated changes.
 
 This works great when you're working by yourself as long as you keep your code working and documented, but it will not fly when working with others. When working with others you will need to use an Issue Tracking System and make a Pull Request for an Issue which you then merge back into the Master branch; we'll cover this more below.
 

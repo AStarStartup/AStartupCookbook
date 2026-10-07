@@ -47,6 +47,7 @@ bld/
 _site/
 
 # Python files
+.venv/
 Include/
 Lib/
 Scripts/

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Flywheel"
+title: "Lean Workspace"
 ---
 
 # [Astartup Cookbook](../)

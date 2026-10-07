@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Styles & Formats"
+title: "Technical Writing"
+status: draft
 ---
 
 # [Astartup Cookbook](../)

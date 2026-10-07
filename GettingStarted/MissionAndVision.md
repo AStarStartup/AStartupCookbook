@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Mission and Vision Statement"
+status: draft
 ---
 
 # [Astartup Cookbook](../)

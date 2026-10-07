@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Critical Thinking"
+status: draft
 ---
 
 # [Astartup Cookbook](../)
