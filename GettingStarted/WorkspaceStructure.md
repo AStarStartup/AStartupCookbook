@@ -9,59 +9,37 @@ title: "Workspace Structure"
 
 ### Workspace Structure
 
-Your workspace is the root folder that contains every file you work on for your startup, your side projects, and your third-party dependencies. The folder structure is a mono-repo: one root, multiple workspaces, clear boundaries between what you own, what you collaborate on, and what you depend on.
+`Workspace1`, `Workspace2`, and `Workspace3` are this method's labels for first-, second-, and third-party material. They describe ownership and collaboration, not grammatical tenses, filesystem permissions, or a required Git topology.
 
-#### The Three Tenses
+* `Workspace1`: material your organization maintains.
+* `Workspace2`: collaboration projects, tutorials, or other work where responsibility is shared.
+* `Workspace3`: vendor code, dependencies, references, and tools with their own upstream owners.
 
-The workspace uses three tenses to separate first-party, second-party, and third-party code:
+A common root folder can contain independent Git repositories. That is a multi-repository workspace, not a monorepo. A monorepo stores multiple projects in one Git repository. The current AStarStartup workspace uses independent project repositories; verify the root and origin before each Git operation.
 
-1. **Workspace1 (first person)** — your company's code. Everything you own. The startup's product, its tooling, its documentation, its infrastructure. This is the folder you push to your company's GitHub organization.
-2. **Workspace2 (second person)** — collaboration projects. Tutorials you are writing for someone else, a project you are contributing to as a guest, a joint venture with a partner. These are projects where you are not the sole owner but you are an active participant.
-3. **Workspace3 (third person)** — dependencies. Libraries, frameworks, vendor code, anything you use but do not own. This folder is for reference and version pinning. You do not edit files in Workspace3; you pin them to a version and let the build system resolve them.
+#### Illustrative layout
 
-The naming is intentional: first, second, third. It maps to the grammatical tenses of ownership. You write in the first person. You collaborate in the second person. You consume in the third person.
-
-#### Folder Layout
-
-```
+```text
 Workspace/
   Workspace1/
-    astartup/              # company admin repo
-    astartup.toolkit/      # product repos
-    astartup.net/          # website
+    CompanyDocs/       # independent administrative repository
+    Product/           # independent product repository
   Workspace2/
-    tutorial.project/      # collaboration projects
-    joint.venture/
+    Collaboration/    # agreed owner and remote
   Workspace3/
-    dependencies/          # vendored libraries
-    references/            # documentation, specs
-    tools/                 # build tools, CI runners
+    VendorLibrary/    # reference or explicitly maintained fork
 ```
 
-#### Why a Mono-Repo
+This is an example, not the literal AStartup Toolkit directory tree. Existing projects do not need a mass move to adopt the ownership labels. Large datasets or build caches can live on another drive with documented paths.
 
-A mono-repo, one root folder for all workspaces, has three advantages for a solo founder or a small team:
+#### Boundaries
 
-1. **One backup.** You back up one folder, not five scattered directories. If the drive dies, you lose one folder, not five.
-2. **One search.** When you need to find a file, you search one root. `grep -r "pattern" ~/Workspace/` finds it regardless of which project it is in.
-3. **Cross-project context.** When you are working on a feature in Workspace1 that depends on a library in Workspace3, the library is one `../` away. You do not need to clone it, symlink it, or remember where it lives.
+Keep administrative coordination and product history distinct. Discover the organization's actual coordination repository, session-log location, and board from its instructions; do not assume an organization always has a repository with the same name.
 
-The disadvantage is that the root folder can get large. The mitigation is to keep Workspace3 on a separate drive or a separate mount point if the dependencies are large (game engines, machine learning datasets). The code you write in Workspace1 should be small enough to live on the boot drive.
+A workspace root helps search and backup planning, but one folder is not a backup. Test restoration and include data outside that root. Do not vendor or modify a dependency unless the project defines that policy; use its package manager, pinned upstream version, or an explicit fork.
 
-#### The Workspace Repo
+#### Agents and local models
 
-Each workspace has a corresponding GitHub repository. The Workspace repo shares the name of the GitHub organization. For the AStartup organization, the Workspace repo is `AStarStartup/AStarStartup`. The Workspace repo contains:
+Start a task in the target project and pass only the relevant files. A working directory is not a security sandbox. Enforce filesystem, network, and tool permissions separately. Reading a shared dependency can be necessary; permission to read it is not permission to edit it.
 
-* The administrative files for the organization: AGENTS.md, the kanban board configuration, the contributing guide.
-* The session tickets: the daily development logs for every project in the organization.
-* The coordination files: AGENT_PLAN.md, COORDINATION.md, any multi-agent task assignments.
-
-The Workspace repo is not a product repo. It is the operating system for the organization. Product code lives in its own repo. The Workspace repo is where the agents and the founder coordinate.
-
-#### Workspace and Local LLM
-
-When running a local LLM, the workspace structure matters for context management. The agent should only see the files it needs for the current task. If the agent is working on a feature in `Workspace1/astartup.toolkit/`, it should not be reading files from `Workspace3/dependencies/` unless the task requires it.
-
-The practical rule: the agent's working directory is the project folder, not the workspace root. `cd ~/Workspace/Workspace1/astartup.toolkit/` before starting the agent session. The agent sees the project, not the entire mono-repo. If the agent needs a file from Workspace3, you pass it explicitly: "Read `~/Workspace/Workspace3/dependencies/llama.cpp/README.md` for the build instructions."
-
-This keeps the context window clean and the agent focused. The mono-repo is for your convenience as a human who needs to search across projects. The agent does not need the convenience; it needs the constraint.
+See [Agent Operations](../Dev/AgentOperations.md) and [Context Window Engineering](../Productivity/ContextWindowEngineering.md).

@@ -19,6 +19,6 @@ To make a story board:
 2. Draw five to ten frames, one per step in the use case.
 3. In each frame, show what the user sees and what the user does.
 4. Add a caption under each frame: the user's thought at that moment.
-5. Show the board to a friend. Watch their face. Where do they frown? Where do they ask "then what?" Those are your gaps.
+5. Show the board to an intended user. Ask them to explain the steps and compare with a recent real situation. Record ambiguities and alternatives; a friend's approval is not customer validation.
 
-The story board is the cheapest possible test of your concept. If you cannot explain the product in five to ten frames, you do not understand the product well enough to build it.
+A story board is a low-cost test of whether a proposed journey is understandable. It does not establish demand, feasibility, or payment. Use [Problem Solving](../Engineering/ProblemSolving.md) to decide what additional evidence is needed.

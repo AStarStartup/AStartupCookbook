@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Bootstrapping"
+title: "Funding"
+status: draft
 ---
 
 # [Astartup Cookbook](../)

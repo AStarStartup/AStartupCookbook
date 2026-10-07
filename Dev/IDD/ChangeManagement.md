@@ -5,10 +5,10 @@ title: "Change Management"
 
 # [Astartup Cookbook](../../)
 
-## [Development](../../)
+## [Development](../)
 
 ### [Agentic Driven Development](./)
 
 #### Change Management
 
-**[<< Previous Section:](./.md) | [Next Section: >>](./.md)**
+**[<< Previous Section: Mission Tickets](./MissionTickets.md) | [Next Section: Change Control Procedure >>](./ChangeControlCrocedure.md)**

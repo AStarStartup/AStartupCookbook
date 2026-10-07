@@ -1,18 +1,15 @@
 ---
 layout: page
-title: "Group Ownership Agreements"
+title: "Business Strategies"
+status: draft
 ---
 
 # [Astartup Cookbook](../)
 
 ## [Entrepreneurship](./)
 
-### Agreements
+### Business Strategies
 
-#### Group Ownership Agreements
+This page is an unfinished outline. Its earlier body duplicated [Agreements](./Agreements.md); those original notes remain there and require legal review. Strategy material has not been completed here.
 
-#### Non-disclosure Agreements
-
-#### No-competition Agreements
-
-No-competition Agreements (NCA or NCAs) are agreements you sign that prevent you from competing with an agent. Most engineer’s and project managers think that they're a complete joke but it's not. NCAs can shut you're startup down! Never sign an NCA without an attorney and manager looking at it first.
+For a current, bounded resource-allocation decision, use [Problem Solving](../Engineering/ProblemSolving.md) to compare alternatives, economics, capacity, and the next experiment. That guide is not a replacement for a complete strategy chapter.

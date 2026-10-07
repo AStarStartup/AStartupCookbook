@@ -5,7 +5,7 @@ title: "Agentic Driven Development"
 
 # [Astartup Cookbook](../../)
 
-## [Development](../../)
+## [Development](../)
 
 ### Agentic Driven Development
 

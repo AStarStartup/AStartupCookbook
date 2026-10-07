@@ -7,10 +7,8 @@ title: "Manufacturing"
 
 ## Manufacturing
 
-1. [Case Study:](./case_study.md)
-1. [Review Documentation](./review_documentation.md)
-1. [Manufacturing Documentation](./manufacturing_documentation.md)
-1. [Deployment Documentation](./deployment_documentation.md)
-1. [Business Replication](./business_replication.md)
-1. [Summary](./summary.md)
-1. [Excises](./exercises.md)
+1. [Case Study:](./CaseStudy.md)
+1. [Manufacturing Documents](./ManufacturingDocuments.md)
+1. [Deployment Documentation](./DeploymentDocumentation.md)
+1. [Summary](./Summary.md)
+1. [Exercises](./Exercises.md)

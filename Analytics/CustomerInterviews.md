@@ -9,60 +9,64 @@ title: "Customer Interviews"
 
 ### Customer Interviews
 
-Customer interviews and peer review are powerful engineering tools and are critical to AStartups success. Sometimes you don’t want to hear what the customer has to say, but you need to listen.
+Listen before pitching. The author's original warning about loaded questions is the starting rule: do not ask a question designed to produce the answer you want.
 
-#### Interview Tips
+#### Before the interview
 
-For most people, the first few times they conduct customer interviews they will ask loaded questions. You must be very careful to not ask questions you know and want to hear the answer to.
+State the decision and the claim you need to investigate. Define who qualifies, including the user, buyer, and context. Keep a recruitment log so refusals and convenient sampling are visible. An invented persona can help design questions, but cannot stand in for a participant.
 
-#### Interview Forms
+Agree on permitted outreach, notes, recording, storage, and sharing. Collect only necessary information. Do not assume recording is permitted because a tool supports it; route consent and legal questions to `attorney`. Keep identifying information out of public Markdown and model prompts unless its use is explicitly authorized.
 
-#### Peer Review
+#### Ask about a recent real event
 
-It’s important that all of the work that you do be reviewed at least once in a group session. You can’t expect to just email an engineer your work and expect them to email you back useful information. It’s just too hard to type enough information to be useful. Important issues get overlooked. It’s also important to verbally discuss problems with designs and documents (Insert information about how talking about things makes a more accurate result).
+Use a neutral opening such as "Tell me about the last time you handled this." Then ask:
 
-#### Online Surveys
+1. What triggered the task, and what happened next?
+2. Can you walk me through the steps and the tools you used?
+3. Where did it become difficult? What did you do instead?
+4. How often does this occur, and over what period?
+5. What did it cost in time, money, errors, or missed obligations? Is there a record we are allowed to inspect?
+6. Who chooses the tool or process, who approves it, and who pays?
+7. What have you already tried or paid for? What made you keep or abandon it?
+8. When does this problem not matter? What would make a change worse?
 
-#### Engineering the Interview
+Keep quotations, observations, and your interpretations separate. Ask for clarification rather than supplying the answer. "Would our app save money?" and "Would you buy this?" are hypothetical reactions, not evidence of savings or payment.
 
-Make a list of who you think your customers might be.
+After exploring the current behavior, you may discuss a proposed offer and ask for a concrete, authorized next step. Describe its limitations honestly. Record a paid trial, referral, or refusal as the particular behavior it is; a promise is not collected cash.
 
-##### Brainstorm questions
+#### Interview record
 
-Pick the top 10 most important questions. Rate the questions on a scale of one to three and combine relevant questions. Only take the ones.
-
-##### Good types of questions
-* How much money does this usually cost you?
-* Am I barking up the wrong tree?
-Am I wasting my time?
-* Would this save you money?
-
-#### Interview Materials
-
-* Pen and paper.
-* A speakerphone.
-* Another person with you to take notes so you don’t have to record it.
-
-Tips:
-
-Don’t pigeonhole yourself into only talking about your product, but instead collect data about their use and needs.
-You need to do many interviews so plan on each interview
-
-#### Phone Interviews
-
-The idea of this section is that we want to write a document to give to someone so that they can do our phone survey for us.
-
-##### Followups
-
-Thank them for their time.
-
-```
-“Is there anyone else I should be talking to about this?”
-“Is there anything else that you think we should know?”
+```text
+Participant ID (anonymized), role, segment, and recruitment source:
+Date, interviewer, consent/storage record, and source path:
+Recent event and current workaround:
+Direct quotations (clearly separated from paraphrases):
+Frequency / cost / time with units, period, and source:
+User, buyer, payer, approval process:
+Contradicting or absent evidence:
+Follow-up permission and next action:
+Interpretations / hypotheses / unresolved questions:
 ```
 
-Don’t close the door, leave it open for them to surprise you.
+Do not turn "several people liked it" into a population percentage. Record the actual count and denominator for the sample, and do not infer market representativeness. Preserve negative cases.
 
+#### Peer review and surveys
+
+Ask a reviewer to trace conclusions back to notes, challenge loaded questions, and identify alternative explanations. Written and live review can both be useful; choose the format that exposes mistakes rather than declaring that useful written feedback is impossible.
+
+Use surveys when the question, sampling frame, and measurement need them. Do not substitute a convenience survey for observed behavior or purchasing evidence. Keep the original questions and denominator with any reported result.
+
+Thank the participant, ask whether someone else might have a different perspective, and request permission for follow-up. The author's question "Is there anything else that you think we should know?" remains useful because it leaves room for surprise.
+
+#### Turn notes into a decision
+
+Use [Problem Solving](../Engineering/ProblemSolving.md) to compare explanations, alternatives, economics, and a bounded experiment. Link the evidence record into the mission rather than pasting a sales pitch into the Problem section.
+
+Agents can summarize anonymized notes with source IDs and excerpts. A human must verify quotations, costs, and unsupported inferences against the records. The agent must not invent interviews, consent, or participant statements.
+
+#### Original phone-interview notes
+
+The following is the author's original Lab-2-Market/EA Partners example, preserved verbatim. It is a historical note fragment, not independently verified research, a current vendor recommendation, or a completed problem–solution analysis. Do not turn its questions into measured findings or fill its gaps with generated quotations.
 
 ##### Example Phone Interview
 

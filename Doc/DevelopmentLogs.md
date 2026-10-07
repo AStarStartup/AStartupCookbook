@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Development Logs"
+status: draft
 ---
 
 # [Astartup Cookbook](../)

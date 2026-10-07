@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Case Study: Elon Musk"
+status: draft
 ---
 
 # [Astartup Cookbook](../)

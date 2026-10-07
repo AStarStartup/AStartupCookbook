@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Vendor Documentation"
+status: draft
 ---
 
 # [Astartup Cookbook](../)

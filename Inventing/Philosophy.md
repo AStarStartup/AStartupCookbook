@@ -9,12 +9,10 @@ title: "Philosophy of Invention"
 
 ### Philosophy of Invention
 
-Invention is not a lightning bolt. It is a process, and the process has a philosophy: the belief that the solution exists before you find it, and that your job is to narrow the search space until the solution is the only thing left.
+Treat invention as a search for a useful solution under constraints. A precise problem narrows the options; it does not guarantee that a feasible or profitable solution exists.
 
-The three principles:
+State who needs the outcome and why the current workaround is inadequate. Compare doing nothing, changing a process, buying an existing tool, and building something new. Identify the constraint most likely to make the idea fail and test it before committing to a large build.
 
-1. **The problem is the invention.** The solution is a consequence of the problem. If you define the problem precisely, the solution constrains itself. Most failed startups did not fail because the solution was bad; they failed because the problem was wrong.
-2. **Constraints are creative.** A constraint is a boundary, and boundaries shape the solution. "It must work offline" is a constraint that eliminates a class of solutions and forces you to find the one that works. Without the constraint, you would have spent months building a solution that requires a server.
-3. **The first version is a question, not an answer.** The first version of your invention is not the product. It is the question you ask the market. The market answers, and the answer shapes the second version. The first version is cheap, fast, and wrong. That is the point.
+A prototype is evidence about the question it was designed to test. It is not automatically evidence of willingness to pay, safety, or repeat use. Keep disconfirming results and choose the next step from what you learned.
 
-The inventor's mindset is not "I have an idea." It is "I have a question, and I am going to find the answer." The question is the problem. The answer is the product. The process between the question and the answer is the invention.
+Use [Problem Solving](../Engineering/ProblemSolving.md) for the decision record and [Story Boards](./StoryBoard.md) to make a proposed user journey concrete.

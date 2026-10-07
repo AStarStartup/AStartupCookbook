@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Pen and Paper Tricks"
+status: draft
 ---
 
 # [Astartup Cookbook](../)

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Group Ownership Agreements"
+title: "Agreements"
+status: draft
 ---
 
 # [Astartup Cookbook](../)

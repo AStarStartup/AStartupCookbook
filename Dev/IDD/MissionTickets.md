@@ -5,7 +5,7 @@ title: "Mission Tickets"
 
 # [Astartup Cookbook](../../)
 
-## [Development](../../)
+## [Development](../)
 
 ### [Agentic Driven Development](./)
 
@@ -33,7 +33,7 @@ For every problem, there should be at least one solution. A good solution statem
 
 The Files Affected section is an enumerated list of the files the mission touches. It is the contract between the ticket and the commit: you stage only what the ticket lists, and nothing else. Wildcards are part of the contract:
 
-* `*.*` (or `*`) means any file, so stage everything with `git add --all`.
+* `*.*` (or `*`) indicates broad proposed scope, not permission to stage unrelated changes. Resolve the actual changed paths and stage them explicitly.
 * `?` means unknown or to be determined. Resolve it before committing: replace the `?` in the ticket with the actual list of files affected, then stage exactly those files.
 
 If no files are altered, leave the list empty.
@@ -53,9 +53,9 @@ Issue #26: `Rename the methodology from Issue-driven Development to Agentic Driv
 3. Commit messages, in order:
 
 ```BASH
-git commit -m "Rename IDD to ADD in Development Patterns #26.A Updated the chapter to name Agentic Driven Development with a formerly IDD/MDD note."
-git commit -m "Rename IDD to ADD in the Development chapter #26.B Updated the chapter heading and links with a formerly IDD/MDD note."
-git commit -m "Rename IDD to ADD in the root README #26.C Updated the tagline and content table with a formerly IDD/MDD note."
+git commit -m "#26.A Rename IDD to ADD in Development Patterns"
+git commit -m "#26.B Update the Development chapter heading and links"
+git commit -m "#26.C Update the root README methodology references"
 ```
 
 The letter must match the section in the ticket: a commit letter with no section (or a section with no commit) is a broken ticket. If the suffix sequence becomes unwieldy, open a new issue instead of extending the same mission.
@@ -82,7 +82,7 @@ contradicts the mission of making startup tooling accessible to solo
 founders. [Mission: Make startup tooling free and open for solo founders.]
 ```
 
-The mission reference in brackets is a link back to the mission statement in the project's AGENTS.md or README. This creates a traceable chain: the issue serves the mission, the mission serves the vision, the vision serves the founder.
+The bracketed text above is a placeholder, not a working link. Replace it with the actual mission record in the project's AGENTS.md or README. This creates a traceable chain: the issue serves the mission, the mission serves the vision, the vision serves the founder.
 
 If an issue cannot be traced to the mission, it is either a parking ticket (see ParkingTickets.md) or it belongs in a different project.
 
@@ -99,7 +99,7 @@ The standard mission ticket template, in full:
 
 ## Solution
 
-<How the problem will be solved. One paragraph minimum.>
+<Proposed or implemented approach, evidence, alternatives, and acceptance checks.>
 
 ### Files Affected
 
@@ -125,40 +125,31 @@ The standard mission ticket template, in full:
 
 The letter sections (A, B, C) are the sub-commits. Each letter section describes one commit. The Sessions subsection records which session ticket the work happened in.
 
-#### Session Numbering: A through Z
+#### A through Z references
 
-Sessions are numbered with letters, not numbers. The session ticket number is the H1 heading, and each section within the session is referred to by its first word.
+The A–Z notation is a local way to identify issue sections and sub-commits. For example, `#82.A` names sub-commit A, while `#82.Problem` names the Problem section. They are not separate GitHub issue numbers or automatically working deep links. To link a heading, use the actual issue URL and its rendered heading anchor.
 
-* `#82.A` refers to sub-commit A of issue 82.
-* `#82.Problem` refers to the Problem section of issue 82.
-* `#82.Solution` refers to the Solution section of issue 82.
-
-This replaces the old `#1.2` numbering, which was ambiguous: did `.2` mean the second sub-commit or the second session? The letter system is unambiguous: A is always the first sub-commit, B is always the second.
+Keep issue numbers, session-log identifiers, and commit letters distinct. A session can contain work on several missions; a mission can span several sessions. Do not invent a date or suffix to make them line up.
 
 #### Session.Created
 
-Every session ticket has a `Session.Created` field that records when the session was opened. This is the timestamp for when the issue ticket was created, not when the work was done. The format:
+The `Created` list records the issues created during the session:
 
 ```markdown
-#### Created
+## Created
 
 * <Org>/<Repo>#<IssueNumber>
 ```
 
-The `Session.Created` field is set once, when the session ticket is created, and is not updated. If the session spans multiple days, the creation date is the first day.
+The list is not itself a timestamp. Use the issue's recorded creation time when a timestamp is needed. Session-open time and work times are separate fields. Preserve prior entries; append corrections rather than erasing what happened.
+
+The author's session convention allows a session to span multiple days until it contains at least one meaningful commit. Do not manufacture a commit or hide blocked research to satisfy this rule. Record useful findings and blockers honestly while the session remains open.
 
 #### Groundhog Day
 
-A groundhog day is a day where you make no progress. The log is empty. Nothing was committed. No issue was closed. The demoralization of a groundhog day is real: it feels like the project is stuck, like you are running in place.
+The author's groundhog-day technique is a restart routine after a stalled session. Read the last handoff, pick a small authorized action, do it, and record the verified result. The action can expose a blocker rather than close an issue.
 
-The solution is to start the groundhog day with a small, guaranteed win. The sequence:
-
-1. Open the session ticket and write the time you started.
-2. Pick the smallest open issue you can close in under fifteen minutes. A typo fix, a missing link, a broken reference.
-3. Close the issue. Commit. The log now has an entry.
-4. The momentum from the small win carries you into the larger work.
-
-The groundhog day is not a failure. It is a reset. The small win breaks the paralysis, and the rest of the day follows.
+Keep the previous day's evidence and timestamps. Do not rewrite yesterday's work as if it happened today or close an issue before its acceptance check. A restart routine is a suggestion, not a guaranteed psychological effect.
 
 #### Session Ticket Template
 
@@ -197,42 +188,25 @@ The Next Session section is the Kevin O'Leary rule: you set up three tasks at th
 
 #### Milestones
 
-Every project has milestones. The first milestone is always GitHub Workspace: the point where the repository is set up, the templates are filled out, the kanban board is configured, and the first issue is created. This is a small milestone, and that is the point. You get a quick psychological reward for completing it, and it proves that the system works before you invest in the larger milestones.
+The author's starting convention is a GitHub Workspace milestone: repository, templates, coordination, and the first mission are set up and checked. This is an organizational checkpoint, not proof of demand.
 
-The milestone sequence for every startup:
+Define additional milestones with explicit exit criteria:
 
-1. **GitHub Workspace** — repo created, templates filled, board configured.
-2. **Mockup** — a visual or interactive prototype that proves the concept. Not a design; a testable artifact.
-3. **Proof of Concept** — the mockup plus failing tests. The tests define what the product should do, and they fail because the product does not exist yet.
-4. **Alpha** — the first version that works end-to-end for the primary use case. Not polished, not feature-complete, but functional.
-5. **Beta** — the version that is ready for external users. Bug-free for the primary use case, documented, deployable.
-6. **Debut** — the public launch. The version that is marketed, sold, and supported.
+1. Mockup: a scenario can be demonstrated or discussed with intended users.
+2. Proof of concept: the riskiest feasibility claim has been tested. Failing acceptance tests can document unimplemented behavior, but are not evidence that the product works.
+3. Alpha: the agreed primary journey works in a controlled environment.
+4. Beta: a bounded external trial has suitable support, safety, documentation, and rollback. Do not promise it is bug-free.
+5. Debut: public launch is approved with an operator and measurable acceptance criteria.
 
-Between GitHub Workspace and Alpha, add milestones as needed. The milestones are the checkpoints that tell you the project is progressing. If you are between milestones and cannot name the next one, you are lost.
+Adapt this sequence to the startup. Connect it to [problem–solution analysis](../../Engineering/ProblemSolving.md); do not build each milestone simply because it is in a template.
 
-#### Issue Ticket Ordering
+#### Issue ordering and project records
 
-The first thirteen issue tickets in every repository have reserved roles. You do not get to choose what they are; the system defines them. This is the memory aid: the first seven are days of the week, the next two are session placeholders, and the last four are project lifecycle markers.
+The historical weekday/session/project numbering schemes evolved in issues #87 and #91 and do not define a reliable universal mapping. GitHub assigns issue numbers in creation order, including pull requests; an agent cannot reserve or renumber existing numbers by writing this chapter.
 
-| Issue | Role |
-|---|---|
-| #1 | Session.Next.Monday |
-| #2 | Session.Next.Tuesday |
-| #3 | Session.Next.Wednesday |
-| #4 | Session.Next.Thursday |
-| #5 | Session.Next.Friday |
-| #6 | Session.Next.Saturday |
-| #7 | Session.Next.Sunday |
-| #8 | Session.Next.Weeks |
-| #9 | Session.Next |
-| #10 | Project.Open |
-| #11 | Project.Self |
-| #12 | Project.Close |
-| #13 | Questions |
+Use descriptive titles and an index of actual issue links for weekday plans, next/future sessions, Project.Open, Project.Self, Project.Close, and Questions. Discover the configured record instead of assuming Questions is always #13. Preserve the author's naming system without overwriting existing issue identities.
 
-Issue #10, Project.Open, is where the project is defined: the mission, the vision, the target customer, the value proposition. Issue #11, Project.Self, is where the project describes itself: the assumptions, the constraints, the success metrics. Issue #12, Project.Close, is where the project is wound down: the lessons learned, the handoff notes, the final state. Issue #13, Questions, is the running list of open questions that do not fit in any other ticket.
-
-After #13, issues are numbered in creation order. The reserved slots are the skeleton; the other issues are the flesh.
+The exact numbered bootstrap scheme and additional records proposed in issue #91 need the Captain's decision before they are treated as current policy. Do not migrate a board or create dozens of placeholder issues during a content task.
 
 #### Questions and Hypotheses
 
@@ -242,55 +216,36 @@ A Question is an open item that needs an answer. A Hypothesis is a proposed answ
 * `Q1H2` — the second hypothesis for the first question.
 * `Q2H1` — the first hypothesis for the second question.
 
-Once a question and its hypotheses are recorded, they cannot be removed. They can only be answered (the hypothesis is confirmed or refuted) or sluffed off (the question is deprioritized and marked as such). This creates a permanent record of what you asked, what you thought the answer might be, and what you actually found.
+Once a question and its hypotheses are recorded, they cannot be removed. Record whether evidence supports, contradicts, or leaves a hypothesis inconclusive, or mark the question as sluffed off (deprioritized). This creates a permanent record of what you asked, what you thought the answer might be, and what you actually found.
 
-The Questions ticket (#13) is the index. Each question gets a line:
+The configured Questions record is the index. Each question gets a line:
 
 ```markdown
-* Q1: Will solo founders pay for a CI pipeline? (Answered: Yes, see Q1H1)
+* Q1: Will the selected customer segment pay for this workflow? (Open; proposed test Q1H1)
 * Q2: Do agents need a merge gate? (Open, see Q2H1, Q2H2)
 ```
 
 The Hypothesis is not a separate ticket. It is a section within the Question ticket, or a reference from the Question ticket to the experiment that tests it.
 
-#### Agent Workflow for Mission Tickets
+#### Agent workflow
 
-When an AI agent picks up a mission ticket:
+Follow [Contributing](../Contributing.md) and [Agent Operations](../AgentOperations.md). Read the full mission and comments, inspect local state, agree on the file list and checks, then implement only the authorized scope. The workspace commit grammar is `#<N> <title>` or `#<N>.A <sub-commit title>` with a matching issue section. Remote writes, merge, deployment, and issue closure require their own authority.
 
-1. Read the ticket: Problem, Solution, Files Affected, sub-commit sections.
-2. Create the branch: `Issue<N>`.
-3. Read the files listed in Files Affected.
-4. Execute sub-commit A: make the change, run the linter, run the tests.
-5. Commit: `<Description> #<N>.A <Explanation>`.
-6. Execute sub-commit B (if any): repeat.
-7. Push the branch.
-8. Open the pull request.
-9. Update the session ticket with what was done.
+Before choosing a solution, use [Problem Solving](../../Engineering/ProblemSolving.md). Link the decision and evidence from the ticket so an executable mission does not silently become a claim of market validation.
 
-The agent does not merge the pull request. The agent does not create issues that are not on the kanban board. The agent does not modify files that are not in Files Affected. The agent is a contractor: it does the work described in the ticket, nothing more, nothing less.
+#### Session ticket hierarchy
 
-#### Session Ticket Hierarchy Format
+Session logs belong in the organization's designated coordination repository. Discover that location from its instructions; a same-name organization repository is a convention, not a guarantee.
 
-The Hierarchy section of a session ticket links to the issues that the session worked on. The format is:
+A session's Hierarchy list links to the actual mission issues worked on, which may live in different product repositories. The display label and URL must identify the same issue:
 
 ```markdown
 ## Hierarchy
 
-* [<Org>#<IssueNumber>](https://github.com/<org>/<repo>/issues/<number>)
+* [<Org>/<ProductRepo>#<MissionNumber>](https://github.com/<Org>/<ProductRepo>/issues/<MissionNumber>)
 ```
 
-The link points to the issue in the Workspace repo, not the product repo. The Workspace repo shares the name of the organization: `AStarStartup/AStarStartup`. Session tickets live in the Workspace repo because they are the organization's development log, not a single product's log.
-
-***Example***
-
-```markdown
-## Hierarchy
-
-* [AStarStartup#42](https://github.com/AStarStartup/AStarStartup/issues/42)
-* [AStarStartup#47](https://github.com/AStarStartup/AStarStartup/issues/47)
-```
-
-The session ticket is the log. The issue tickets are the specs. The Hierarchy section connects the two: this session worked on these issues.
+Use real links in a filled record. Do not redirect all product missions to a workspace issue with the same number.
 
 #### Issue Tags
 

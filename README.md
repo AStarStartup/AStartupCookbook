@@ -4,6 +4,22 @@
 
 By Cale McCollough
 
+## Agent entry point
+
+This is an agent-first startup decision and operating guide. Read only the procedure relevant to the current task, combine it with verified project evidence and local instructions, and explain the result to the human in their language and at their skill level.
+
+1. [Problem–solution analysis](./Engineering/ProblemSolving.md): define the problem and winning condition, compare alternatives, model cash and founder capacity, and set an experiment/stop rule.
+2. [Customer interviews](./Analytics/CustomerInterviews.md) and [market validation](./Entrepreneurship/MarketValidation.md): collect behavior and test the important unknowns.
+3. [Mission tickets](./Dev/IDD/MissionTickets.md) and [agent operations](./Dev/AgentOperations.md): turn a chosen next step into authorized, verified work.
+4. [Local LLM tasks](./Dev/LocalLLM.md) and [documentation checks](./Doc/DocumentationChecks.md): draft with bounded inputs and check the output with tools.
+
+## Evidence and draft status
+
+The book is a working draft, not a claim that every chapter or open issue is complete. Pages marked `status: draft` contain unfinished or unreviewed material. Agents may use them to identify questions and preserve the author's notes, but must not execute their recommendations or report their claims as verified without primary evidence and appropriate approval. A page without that marker is not automatically authoritative; legacy content still needs domain review.
+
+Keep observations, reported experiences, assumptions, and hypothetical teaching examples distinct. Do not invent interviews, benchmarks, model capabilities, registration status, or tool results to fill a gap. Preserve the original case-study material and trace new factual claims to their sources. Repository/workspace instructions and explicit permissions take precedence over cookbook examples.
+
+
 ## Content Table
 
 1. [Getting Started](./GettingStarted)
@@ -45,6 +61,7 @@ By Cale McCollough
    1. [Technical Writing](./Doc/TechnicalWriting.md)
    1. [Writing Neuroscience](./Doc/WritingNeuroscience.md)
    1. [Cookbooks](./Doc/Cookbooks.md)
+   1. [Documentation Checks](./Doc/DocumentationChecks.md)
    1. [White Papers](./Doc/WhitePapers.md)
    1. [Summary](./Doc/Summary.md)
 1. [Development](./Dev)
@@ -56,6 +73,7 @@ By Cale McCollough
    1. [Continuous Integration](./Dev/ContinuousIntegration.md)
    1. [Contributing](./Dev/Contributing.md)
    1. [Agent Operations](./Dev/AgentOperations.md)
+   1. [Local LLM Tasks](./Dev/LocalLLM.md)
    1. [Agentic Driven Development](./Dev/IDD)
       1. [Parking Tickets](./Dev/IDD/ParkingTickets.md)
       1. [Mission Tickets](./Dev/IDD/MissionTickets.md)
@@ -129,7 +147,7 @@ By Cale McCollough
    1. [Engineering Teams](./Engineering/EngineeringTeams.md)
    1. [Precision Engineering](./Engineering/PrecisionEngineering.md)
    1. [Common Acronyms](./Engineering/CommonAcronyms.md)
-   1. [Problem Solving](./Engineering/ProblemSolving.md)
+   1. [Problem Solving / Problem–Solution Analysis](./Engineering/ProblemSolving.md)
    1. [Summary](./Engineering/Summary.md)
    1. [Exercises](./Engineering/Exercises.md)
 1. [Legal](./Legal)
@@ -188,17 +206,14 @@ By Cale McCollough
 
 ## Quickstart
 
-1. Clone the AStarStartup GitHub Organization workspace.
+Clone the cookbook itself; no assumed organization workspace or submodules are needed to read it.
 
-```BASH
-git clone https://github.com/AStarStartup/AStartStartup.git --recursive
+```bash
+git clone https://github.com/AStarStartup/AStartupCookbook.git
+cd AStartupCookbook
 ```
 
-1. Clone the AStartupCookbook git repo.
-
-```BASH
-git clone https://github.com/AStarCale/AStartupCookbook.git
-```
+Start with [Getting Started](./GettingStarted/README.md) or the agent entry point above. Jekyll front matter is present, but this repository does not currently supply a verified site build configuration. Follow [Documentation Checks](./Doc/DocumentationChecks.md) for the offline gate and its limits.
 
 ## License
 

@@ -12,4 +12,4 @@ assignees: 'AStarCale'
 
 ## Files Affected
 
-1. `*.*
+1. `*.*`

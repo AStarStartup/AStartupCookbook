@@ -5,7 +5,7 @@ title: "Parking Tickets"
 
 # [Astartup Cookbook](../../)
 
-## [Development](../../)
+## [Development](../)
 
 ### [Agentic Driven Development](./)
 

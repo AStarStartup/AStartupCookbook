@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Beginners Mindset"
+status: draft
 ---
 
 # [Astartup Cookbook](../)

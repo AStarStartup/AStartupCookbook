@@ -9,34 +9,17 @@ title: "Cookbooks"
 
 ### Cookbooks
 
-Creating a cookbook can increase your project's chance of success by creating the Honey pot to attract users to your products by providing the user with free documentation, and the documentation will also have the affect of increasing the quality of your product with Don't Repeat Yourself (DRY) documentation. This chapter will cover the creation of a Cookbook using the Markdown Cookbook.
+A cookbook is a set of practical procedures with inputs, outputs, limits, and checks. It can help people and agents use a project, but usefulness must be tested rather than inferred from the number of pages.
 
-#### Markdown Cookbook Template
+#### Create an agent-readable cookbook
 
-The Markdown Cookbook is a template used to create this Cookbook.
+1. State the decisions and tasks it supports, the audience, and the boundary between advice and permission to act.
+2. Organize each procedure around prerequisites, steps, a checkable result, failure handling, and a source record where facts depend on external evidence.
+3. Use Markdown links and stable identifiers. Keep one canonical procedure and point related pages to it instead of copying slightly different rules.
+4. Preserve author notes as notes. Mark incomplete pages `status: draft`, distinguish examples from findings, and never fabricate case studies to make the outline look finished.
+5. Test links, metadata, worked calculations, and executable recipes. See [Documentation Checks](./DocumentationChecks.md). An offline check is not a factual audit or a rendered-site build.
+6. Ask an agent to use one procedure on permitted test inputs and explain the result to a human. Record what it misunderstood, then fix the procedure.
 
-**1.**  Clone the Markdown Cookbook recursively.
+If adapting existing material, confirm the permitted use and ownership before copying or publishing it; ask the owner and `attorney` when unclear. Public access does not establish permission to sell derivative work or change its terms. Do not delete a source checkout's `.git` history or mass-rename every file as a quickstart shortcut.
 
-```Bash
-git clone --recursive <https://github.com/AStarCale/AStartupCookbook>
-```
-
-**2.** Rename all files with `markdown.cookbook` to your cookbook's name.
-
-For windows users use the PowerShell command:
-
-```PowerShell
-Dir -recurse | Rename-Item -NewName { $_.Name -replace "markdown.cookbook","your_project.cookbook" }
-```
-Mac users will use the command:
-
-```PowerShell
-```
-
-**3.** Download and install [StarUML](staruml.io), open the `your_project.cookbook.mdj` file, and rename the root to `your_company_name`, and replace all of the copyright information in the Markdown documentation with to copyright holder's name.
-
-**4.** Download and install [Visual Studio Code](https://code.visualstudio.com).
-
-**5.** Open Visual Studio, right click on the workspace and click on `Add Folder to Workspace`, navigate to the clone of this repo and click `Add`.
-
-**6.** Find and replace "Markdown Cookbook" in all files with the name of your Cookbook and `Your Name` with the name of the copyright holder. The license in this book is designed to allow you to sell the Cookbook to fund your project. If you want to change the license just find and replace the entire license line with the desired license.
+The companion [AStartup Toolkit](../GettingStarted/AStartupToolkit.md) contains documentation templates. Inspect the actual template and its current build instructions rather than assuming a model file or editor extension exists.

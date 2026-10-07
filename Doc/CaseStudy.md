@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Case Study: Leonardo De Vinci"
+status: draft
 ---
 
 # [Astartup Cookbook](../)

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "White Paper"
+title: "Marketing Documents"
 ---
 
 # [Astartup Cookbook](../)

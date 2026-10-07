@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "The Lean Startup Method"
+title: "Startups"
 ---
 
 # [Astartup Cookbook](../)

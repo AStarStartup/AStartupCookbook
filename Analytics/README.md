@@ -7,7 +7,7 @@ title: "Analytics"
 
 ## Analytics
 
-1. [Case Study:](./case_study.md)
-2. [Customer Interviews](./customer_interviews.md)
-3. [Market Validation](./market_validation.md)
-4. [Summary](./summary.md)
+1. [Case Study:](./CaseStudy.md)
+1. [Customer Interviews](./CustomerInterviews.md)
+1. [Summary](./Summary.md)
+1. [Exercises](./Exercises.md)
