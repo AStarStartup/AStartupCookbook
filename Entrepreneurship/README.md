@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Entrepreneurship"
+---
+
 # [Astartup Cookbook](../)
 
 ## Entrepreneurship
@@ -19,7 +24,3 @@
 1. [Aggressive Patience](./aggressive_patience.md)
 1. [Summary](./summary.md)
 1. [Exercises](./exercises.md)
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.

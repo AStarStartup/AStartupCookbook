@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Bootstrapping"
+---
+
 # [Astartup Cookbook](../)
 
 ## [Entrepreneurship](./)
@@ -54,8 +59,4 @@ When all is said and done, will I own enough to make this worth my while.
 ### Definitions
 
 * **Syndicate** - A group of investors
-* **Redemption Right** – Investors have the right to force you to pay them out now. Not very common.
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.
+* **Redemption Right** ï¿½ Investors have the right to force you to pay them out now. Not very common.

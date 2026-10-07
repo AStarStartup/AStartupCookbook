@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Critical Thinking"
+---
+
 # [Astartup Cookbook](../)
 
 ## [Philosophy](./)
@@ -9,8 +14,3 @@ Critical thinking is something that should be taught to school children from a v
 [Insert info about how critical thinking can help you write here.]
 
 Critical Thinking is the staple of every technical writer. The most important thing to take away from it is to be able to recognize when you’re in fact territory. You can’t cite every last technical detail, because that would distract readers from the overall point, so it’s important to be able to identify the important fact critical to your argument, from common knowledge.
-
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.

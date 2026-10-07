@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Night and Day Sessions"
+---
+
 # [Astartup Cookbook](../)
 
 ## [Productivity](./)
@@ -35,7 +40,3 @@ This point of this section is that you should go through the list, and write one
 #### Taking Notes Over Your Reading
 
 The art of technical writing can also be described as the art of turning carefully taken notes into an official document. One of the best things that you can do is take good notes over your resource materials. You can’t just expect to read the material, do some homework, cram for an exam, and get a passing grade. Technical writing requires attention to detail and the best way to do that is through documenting your notes correctly. Not taking a little bit of extra effort into taking better notes help.
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.

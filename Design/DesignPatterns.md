@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Design Patterns"
+---
+
 # [Astartup Cookbook](../)
 
 ## [Design](./)
@@ -90,7 +95,3 @@ Software design patterns come in handy with most STEM-ED disciplines on a daily 
 * Global Anti-aliasing
 
 ### Symmetry
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.

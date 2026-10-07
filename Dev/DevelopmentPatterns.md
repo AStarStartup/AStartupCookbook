@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Development Patterns"
+---
+
 # [Astartup Cookbook](../)
 
 ## [Development](./)
@@ -38,9 +43,9 @@ The Lean Startup Method, invented by Eric Ries, is the new rage in business, fro
 
 Not to be confused with Design for Test, though they are often used together.
 
-#### Issue Driven Development
+#### Agentic Driven Development
 
-Issue Driven Development (IDD) is a method that relies on a Kanban board and issue tracking system (ITS) to keep you on track by you only working on a single issue at a time, and no work is allowed to happen without an issue first being inputted into the ITS.
+Agentic Driven Development (ADD, formerly Issue Driven Development, IDD, and Mission-Driven Development, MDD) is a method that relies on a Kanban board and issue tracking system (ITS) to keep you on track by you only working on a single issue at a time, and no work is allowed to happen without an issue first being inputted into the ITS.
 
 The process starts anytime you are doing work on code, you first create an Issue in the ITS. This issue gets associated with a Project Kanban board. When work begins you place the issue in the todo . The issue needs to be small enough that one or more issues can be tackled per day. If an issue is so big that it takes more than one day to complete then that issue is said to be an *Out of Control Issue*.
 
@@ -82,7 +87,3 @@ The approach used throughout this book is called AStar Driven Development (or MD
 ###### Cons
 
 1. Some startup companies make it more expensive to get user Analytics.
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.

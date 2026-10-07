@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Wiki Roles"
+---
+
 # [Astartup Cookbook](../)
 
 ## [Documentation](./)
@@ -70,7 +75,3 @@ The first question that you need to ask is whether it even matters if it meets t
 ## Malicious Changes
 
 Sometimes, people like to break things and mess with people. Don’t think that your project is immune from stupid people. Anytime you open up your files to another person, you run the risk of that person maliciously harming your files. Sometimes it’s your best friend trying to mess with you, sometimes it’s a random internet vandal, and sometimes it’s a disgruntled soon to be former team member hell bent on destroying your project because you didn’t like their idea. In any situation, you need to be able to monitor users for this type of behavior and reverse any damage they have done.
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.

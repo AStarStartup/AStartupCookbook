@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Mission and Vision Statement"
+---
+
 # [Astartup Cookbook](../)
 
 ## [Getting Started](./)
@@ -31,7 +36,3 @@ The giving away of the book for free in markdown form does not conflict with the
 In order to do what the book proposes, we need some open-source software and a revenue stream. It's not a super difficult implementation and it would be pretty easy to knock off, and we would greatly benefit from crowd-sourcing the book to tap the knowledge of the international community by making it easy to contribute. By open-sourcing the software that goes with the book the chances of success go up and the cost of the development go down through the floor. This is compatible with the MinMax math behind Astartup.
 
 The Mission and Vision does not compete with the parent company for resources because the knowledge in the book is used to both train employees and make development processes more efficient.
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.

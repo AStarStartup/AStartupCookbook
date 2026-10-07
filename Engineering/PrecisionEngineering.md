@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Precision Engineering"
+---
+
 # [Astartup Cookbook](../)
 
 ## [Engineering](./)
@@ -12,7 +17,3 @@ The most important lesson to take away from this is that it is extremely importa
 My first experience manufacturing electronics was in spring and summer of 2013. I have friends who throw music festivals, and my buddy had asked me to create a large spider web structure that had LEDs that lit up.
 
 As I progressed further into engineering school, I tried to copy the other guys' technique of putting off everything till the last minute, with absolutely horrible results. It is safe to say that precision engineering just doesn't work that well because it adds risk and increases resistance over time.
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.

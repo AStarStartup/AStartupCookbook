@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Development Logs"
+---
+
 # [Astartup Cookbook](../)
 
 ## [Documentation](./)
@@ -81,7 +86,3 @@ Common Sections
 ##### Log Reviews
 
 Every good development log should have a peer review their logs. We're all trying to get better but we can't without constructive criticism.
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.

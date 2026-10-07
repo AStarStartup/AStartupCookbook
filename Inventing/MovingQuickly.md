@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Moving Quickly"
+---
+
 # [Astartup Cookbook](../)
 
 ## [Inventions](./)
@@ -16,8 +21,3 @@ This is one of the main themes of the book: how to document your ideas properly.
 Often, when you take on a large project, and you take a break and come back to it later, you will forget what you did. Now image if you are working as an engineer for a big company coming into to replace the spacey engineer who just got fired. If you can’t even remember what you did on your own project, how can you expect someone else to be able to come in and take over your job?
 
 One tip for when you’re on a computer writing. If you are working on a large document and you get the inspiration to work on another section and you need to write down your thought before move search for the place you were going to insert it into. The reason for this being is that often when you are working with a large document, it takes a while to find the place where you want to insert it. This can often time take enough time to find the place that you will forget what you were going to write. If you write the idea down ahead of time, you can just copy and paste it into where it should be.
-
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.

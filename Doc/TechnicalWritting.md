@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Styles & Formats"
+---
+
 # [Astartup Cookbook](../)
 
 ## [Documentation](./)
@@ -58,7 +63,3 @@ If you simply type in equation editor into Google, it will pop up a large query 
 If you are using LaTeX in a word processing document, you can insert the LaTex code as a comment through the following method that I will write about later.
 
 [Insert how to store LaTeX code in word documents and spreadsheets.]
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.

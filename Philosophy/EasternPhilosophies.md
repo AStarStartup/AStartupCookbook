@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Dharma"
+---
+
 # [Astartup Cookbook](../)
 
 ## [Philosophy](./)
@@ -47,7 +52,3 @@ Anyone who has done a lot of math can tell you if it is taking you a really long
 Meditation is much the same way. Buddhist have long taught that, touch that
 
 [Insert official literature about mediation]
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.

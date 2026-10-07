@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Cookbooks"
+---
+
 # [Astartup Cookbook](../)
 
 ## [Documentation](./)
@@ -13,7 +18,7 @@ The Markdown Cookbook is a template used to create this Cookbook.
 **1.**  Clone the Markdown Cookbook recursively.
 
 ```Bash
-git clone --recursive <https://github.com/CookingWithCale/AStartupCookbook>
+git clone --recursive <https://github.com/AStarCale/AStartupCookbook>
 ```
 
 **2.** Rename all files with `markdown.cookbook` to your cookbook's name.
@@ -35,7 +40,3 @@ Mac users will use the command:
 **5.** Open Visual Studio, right click on the workspace and click on `Add Folder to Workspace`, navigate to the clone of this repo and click `Add`.
 
 **6.** Find and replace "Markdown Cookbook" in all files with the name of your Cookbook and `Your Name` with the name of the copyright holder. The license in this book is designed to allow you to sell the Cookbook to fund your project. If you want to change the license just find and replace the entire license line with the desired license.
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.

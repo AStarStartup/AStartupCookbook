@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Common Pitfalls"
+---
+
 # [Astartup Cookbook](../)
 
 ## [Entrepreneurship](./)
@@ -20,7 +25,3 @@ If you’re nocturnal, this does actually still apply to you, one in reverse. Th
 #### Not Prototyping Right Away
 
 It is extremely important for you to get to work right away. One thing that dooms both startups and engineers is not having something to work with soon enough and then not having to opportunity to have that learning experience and first development iteration cycle. It is extremely important that you get your hands on, instead of wasting that time daydreaming about how it works while looking at your wish list. You need to do anything you can to get physical progress on something… anything. This is not to say waste a bunch of precious man-hours on a useless prototype, but you can’t let long periods of time go by when you could have don’t some of the heavy lifting required to get a company off the ground.
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.
