@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Inventing"
+---
+
 # [Astartup Cookbook](../)
 
 ## Inventing
@@ -10,7 +15,3 @@
 1. [Basic Drawing Skills](./basic_drawing_skills.md)
 1. [Philosophy](./philosophy.md)
 1. [Summary](./summary.md)
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.

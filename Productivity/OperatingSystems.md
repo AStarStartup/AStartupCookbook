@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Operating System"
+---
+
 # [Astartup Cookbook](../)
 
 ## [Productivity](./)
@@ -211,7 +216,3 @@ The pen-and-paper stack machines when combined with IssueTicket tags then optimi
 The final element is the daily, weekly, and monthly log review and daily shutdown procedure. Each day you must review the previous day's log, and each week, you must review the logs from the week before, and review the entire month's logs on the first of each month. This allows neurons that fire together to wire together. At the end of each day, you must shut down, clean up, and get ready for the next day's primary thread. The time you need for this depends on your job, but typically it's less than one hour. This again uses the night-and-day principle where you focus on random technical tasks that create resistance in the system. It is more important that you shut down at 5PM (or night-shift equivalent) and take a break from 5:00PM-8:30PM and take the weekends off because this allows your brain to shut down for a few hours and return to normal life so that you can relax and take care of eliminating resistance in your home life.
 
 The schedule is slightly different on Friday. On Friday you must do your night HoSe from 4PM-5PM and have your to-do list ready and prepped with all your homework done ahead of time like an A grad student, ready to HoSe on Monday with your grove on like a HoSer. And if you get all your work done, you get to go out dancing, spend time with your partner(s), and MAXIMIZE the time with your friends and family.
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.

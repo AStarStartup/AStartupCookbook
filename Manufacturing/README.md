@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Manufacturing"
+---
+
 # [Astartup Cookbook](../)
 
 ## Manufacturing
@@ -9,7 +14,3 @@
 1. [Business Replication](./business_replication.md)
 1. [Summary](./summary.md)
 1. [Excises](./exercises.md)
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.

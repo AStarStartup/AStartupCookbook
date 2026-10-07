@@ -3,7 +3,7 @@ name: Feature request
 about: Suggest an idea for this project
 title: ''
 labels: ''
-assignees: 'CookingWithCale'
+assignees: 'AStarCale'
 ---
 
 ### A
@@ -16,7 +16,7 @@ The problem this feature solves is...
 
 The solution is to implement a feature that...
 
-##### File Affected
+##### Files Affected
 
 1. `*.*`
 
@@ -30,8 +30,4 @@ RequestFeature
 
 #### Sessions
 
-* CookingWithCale/CookingWithCale#2
-
-## License
-
-Copyright 2023 [AStartup](https://astartup.net); all rights reserved.
+* AStarCale/.github#2

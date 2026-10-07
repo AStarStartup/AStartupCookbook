@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Business Plans"
+---
+
 # [Astartup Cookbook](../)
 
 ## [Entrepreneurship](./)
@@ -55,7 +60,3 @@ Develop a cash flow statement so you understand what your needs are now and will
 Conclusion that wraps everything together (this also could be an executive summary at the beginning of the plan).
 
 [1]. http://www.forbes.com/sites/patrickhull/2013/02/21/10-essential-business-plan-components
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.

@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help us improve
 title: ''
 labels: ''
-assignees: 'CookingWithCale'
+assignees: 'AStarCale'
 ---
 
 
@@ -43,7 +43,7 @@ Add any other context about the problem here.
 
 The solution to the bug is...
 
-##### File Affected
+##### Files Affected
 
 1. `*.*`
 
@@ -57,8 +57,4 @@ RequestFeature
 
 #### Sessions
 
-* CookingWithCale/CookingWithCale#1
-
-## License
-
-Copyright 2023 [AStartup](https://astartup.net); all rights reserved.
+* AStarCale/.github#1

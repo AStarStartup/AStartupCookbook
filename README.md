@@ -1,6 +1,6 @@
 # AStartup Cookbook
 
-***How to invent, launch, and run a modern startup with Issue-driven development and I am You Language.***
+***How to invent, launch, and run a modern startup with Agentic Driven Development (formerly IDD/MDD) and I am You Language.***
 
 By Cale McCollough
 
@@ -49,8 +49,9 @@ By Cale McCollough
    1. [Development Patterns](./Dev/DevelopmentPatterns.md)
    1. [Development Style](./Dev/DevelopmentStyle.md)
    1. [Project Management](./Dev/ProjectManagement.md)
-   1. [Issue-driven Development](./Dev/IDD)
+   1. [Agentic Driven Development](./Dev/IDD)
       1. [Parking Tickets](./Dev/IDD/ParkingTickets.md)
+      1. [Mission Tickets](./Dev/IDD/MissionTickets.md)
       1. [Search Engine Optimization](./Dev/IDD/SEO.md)
       1. [Summary](./Dev/IDD/Summary.md)
    1. [Summary](./Dev/Summary.md)
@@ -168,13 +169,9 @@ git clone https://github.com/AStarStartup/AStartStartup.git --recursive
 1. Clone the AStartupCookbook git repo.
 
 ```BASH
-git clone https://github.com/CookingWithCale/AStartupCookbook.git
+git clone https://github.com/AStarCale/AStartupCookbook.git
 ```
 
 ## License
 
-Copyright ©2014-22 [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.
-
-### Legal Agreement
-
-This source code form is an open-source document, the Writings and Discoveries, that was written by and contains intellectual property belonging to the IP Owner. The Writings and Discoveries consist of documents, files, source code, technology design files, art, trademarks, and other content contained this file, folder and the GitHub repository, the Repo, located at <https://github.com/CookingWithCale/AStartupCookbook>. The Writings and Discoveries are published under the Kabuki Strong Source-available License, the License, which is a non-commercial open-source license and is for educational and demonstration purposes only. To use the Writings and Discoveries for commercial purposes, you must download the Writings and Discoveries from <https://cookingwithcale.org/AStartupCookbook> or approved Third-party vendor and you will be bound to the license agreed upon before downloading the Writings and Discoveries. You may use, reproduce, publicly display, and modify the Writings and Discoveries so long as you submit and donate fixes and derived intellectual property, the Donated Ideas, to the Repo as an Issue ticket to become part of the Writings and Discoveries. You may not sell the Writings and Discoveries or otherwise profit from derivative works created from the Writings and Discoveries, refereed to as Third-party Monetization or Third-party Monetize, without the expressed written permission of the copyright holder. Unless required by applicable law or agreed to in writing, the Writings and Discoveries distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+Copyright [Cale McCollough](https://cookingwithcale.org); licensed under the [Kabuki Strong Source-available License](./license.md).

@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Case Study:"
+---
+
 # [Astartup Cookbook](../)
 
 ## [Getting Started](./)
@@ -31,7 +36,3 @@ I eventually made it back to PSU in 2016 because the tuition costs gave me some 
 Over this time I learned the techniques in this book in order to teach myself to stop getting distracted by shinny objects and actually get the work done. Much of this book is coming from the perspective of Chief Technology Officer who is a poor CEO and over explains fine details in a distracting confusing way. I had to learn to tone down the geek speech, be ultra productive, compete in today's rapidly changing technology landscape, and keep laser focus using the techniques described in this book.
 
 Eventually, because of getting back into engineering school and studying some AI, I came across the notion of treating startups like a finite state machine, and applying artificial intelligence to maximize the chances of success using the Business Model Canvases State Machine, and this book's place in history was then set. This book is about training your Startup State Machine to get accurate and precise cost and weight calculations and Analytics and to minimize time to market and development costs and maximize flow state development time and product quality.
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.

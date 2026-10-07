@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Exercises"
+---
+
 # [Astartup Cookbook](../)
 
 ## [Getting Started](./)
@@ -41,7 +46,3 @@
 **D**. Verify that your missions and visions do not conflict with one another.
 
 **E**. Tell to at least five friends, family members, or fellow students your mission and vision statements and take notes about what they told.
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.

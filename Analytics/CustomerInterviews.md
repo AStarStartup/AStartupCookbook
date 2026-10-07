@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Customer Interviews"
+---
+
 # [Astartup Cookbook](../)
 
 ## [Analytics](./)
@@ -88,7 +93,3 @@ Would work better with smaller developers.
 
 Is there some sort of physical/emotion metric that can be tracked?
 San Diego based company Edar does most of the game test.
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.

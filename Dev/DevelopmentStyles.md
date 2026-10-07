@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Development Styles"
+---
+
 # [Astartup Cookbook](../)
 
 ## [Development](./)
@@ -45,7 +50,3 @@ Redmine is a world-class Ruby-on-Rails based Web-based PMS that is very useful f
 ##### Slack
 
 Slack does not provide Gantt charts but it is exceptionally useful for development. Slack gives you just enough free features to get startups going to the point where they can startup making money, but then you'll be forced to upgrade to save your data. Slack is mostly useful for sharing information in chat such as code snippets and documents. Other than working well with high tech chat needs, there is little else that separates Slack from a traditional chat application.
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.

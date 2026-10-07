@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Documenting Inventions"
+---
+
 # [Astartup Cookbook](../)
 
 ## [Inventions](./)
@@ -16,7 +21,3 @@ Soft Skills
 [Insert some quote about how engineering graduates are graduating with more technical knowledge, but not enough soft skills]
 
 Soft skills include communication skills, and the ability to work in groups. This is why I have included the sections on group collaboration tools. Technical writing in the industry is done around the schedule of business and technology and product development. It is important when writing documentation for your invention that you have practice using these tools while you are working on projects. By becoming familiar with the tools and techniques, you will become better at writing more useful documentation for the people who are going to read it.
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.

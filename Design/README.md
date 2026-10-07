@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Design"
+---
+
 # [Astartup Cookbook](../)
 
 ##  Design
@@ -11,7 +16,3 @@ A lot of people have really good ideas. For most entrepreneurs, ideas are a dime
 1. [Feasibility](./feasibility.md)
 1. [Pen and Paper Tricks](./pen_and_paper_tricks.md)
 1. [Summary](./summary.md)
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.

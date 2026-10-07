@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Broken Windows"
+---
+
 # [Astartup Cookbook](../)
 
 ## [Productivity](./)
@@ -17,7 +22,3 @@ The key metrics we are concerned with to maximize tasks completion rate are
 #### Setting Up a Productive Work Environment
 
 #### Setting Priorities
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.

@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Servicing"
+---
+
 # [Astartup Cookbook](../)
 
 ## Servicing
@@ -9,7 +14,3 @@ Servicing produce includes Maintenance, repair, and interacting with customers a
 1. [Repair Documentation](./repair_documentation.md)
 1. [Outsourcing](./outsourcing.md)
 1. [Summary](./summary.md)
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.

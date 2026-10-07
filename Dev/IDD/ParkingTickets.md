@@ -1,12 +1,17 @@
+---
+layout: page
+title: "Parking Tickets"
+---
+
 # [Astartup Cookbook](../../)
 
 ## [Development](../../)
 
-### [Issue-driven Development](./)
+### [Agentic Driven Development](./)
 
 #### Parking Tickets
 
-An Parking Ticket is a standard tree markdown template for IDD that helps clarify the details of an issue. It is called a Parking Ticket as a pun on Driven Development. An Parking Ticket is composed of a one-sentence mission statement title, an Issue Type as the H1 heading and there is one H2 heading for the Problem, Solution, Mission Details, and Hierarchy.
+A Parking Ticket is a standard tree markdown template for ADD (Agentic Driven Development, formerly IDD and MDD) that helps clarify the details of an issue. It is called a Parking Ticket as a pun on Driven Development. An Parking Ticket is composed of a one-sentence mission statement title, an Issue Type as the H1 heading and there is one H2 heading for the Problem, Solution, Mission Details, and Hierarchy.
 
 #### One-sentence Mission Statement
 
@@ -48,7 +53,3 @@ The Missions Details section details about the mission you can't fit in the one-
 #### Hierarchy
 
 If an issue is part of a hierarchy of issues it can help developers by linking to the parent and child issues. Hierarchies are very useful for breaking up larger issues into more manageable sub-issues. If an issue tree doesn't contain a Hierarchy section it is assumed to be a flat hierarchy.
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.

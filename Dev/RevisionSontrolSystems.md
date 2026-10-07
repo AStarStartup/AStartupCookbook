@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Revision Control Systems"
+---
+
 # [Astartup Cookbook](../)
 
 ## [Development](./)
@@ -24,7 +29,3 @@ This works great when you're working by yourself as long as you keep your code w
 #### Mercurial
 
 Mercurial is programmed in Python and is similar to Git in functionality but provides a higher level command line interface. Mercurial distinguishes itself from git in how it manages revision history. Mercurial only allows users to roll back changes and not to modify the history. This may be more useful for more useful for documentation purposes.
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.

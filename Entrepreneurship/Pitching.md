@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Pitches"
+---
+
 # [Astartup Cookbook](../)
 
 ## [Entrepreneurship](./)
@@ -30,7 +35,3 @@ Judging Criteria
 #### Pitching to Investors
 
 There are four main classes of investors: Friends and Family, Nest Egg Investors, Bord Investors, Venture Capitalists, and Angel Investors.
-
-## License
-
-Copyright 2014-22 © [Cale McCollough](https://cookingwithcale.org); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/CookingWithCale/AStartupCookbook>.
