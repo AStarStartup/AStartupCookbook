@@ -23,4 +23,38 @@ In a way, your entire life is a startup company, you just didn't know it. Startu
 
 Each chapter in the book (will) contain(s) a case study of a inventor or entrepreneur that has a valuable lesson to learn about the subject of that chapter #WorkInProgress. Kabuki Toolkit (will then) contain(s) some open-source tools to help you optimize your schedule with that technique. Want to invent like Thomas Edison or Albert Einstein, or be as quirky as Elon Musk? Keep reading and submit your code to the Kabuki Toolkit at <https://github.com/KabukiStarship/KabukiToolkit/>.
 
+
+#### How to Use This Book
+
+This book is organized as a sequence of chapters, each chapter covering one skill area. The chapters are ordered by the sequence in which you need them:
+
+1. **Getting Started** — you are here. Set up your workspace, your repositories, your tools.
+2. **Psychology** — understand how you think, learn, and stay motivated. This is the foundation for everything else.
+3. **Philosophy** — the thinking frameworks: critical thinking, formal arguments, decision-making under uncertainty.
+4. **Documentation** — how to write, organize, and maintain technical documents. The development log is the heartbeat of the project.
+5. **Development** — the methodology: Agentic Driven Development, issue tracking, CI, code style.
+6. **Inventing** — how to go from a fuzzy idea to a documented invention. Story boards, drawing skills, inventing techniques.
+7. **Entrepreneurship** — the business: business models, funding, persuasion, common pitfalls.
+8. **Productivity** — flow state, time management, the AStartup Method.
+9. **Modeling** — abstraction, business models, data structures. Thinking in systems.
+10. **Design** — design patterns, UX principles, feasibility, prototyping.
+11. **Engineering** — engineering think, prototyping, precision engineering, problem solving.
+12. **Legal** — intellectual property, licensing, contracts, trademarks.
+13. **Teams** — team structures, communication, leadership, recruiting.
+14. **Analytics** — customer interviews, market validation, data-driven decisions.
+15. **Marketing** — branding, websites, pitches, presentations.
+16. **Servicing** — right to repair, repair documentation, outsourcing.
+17. **Manufacturing** — deployment, business replication, production documentation.
+
+You do not have to read the book in order. If you are an engineer who needs the legal chapter, go to the legal chapter. If you are a designer who needs the psychology chapter, go to the psychology chapter. The order is a recommendation, not a requirement.
+
+Each chapter has the same structure:
+
+* **Case Study** — a real example from a real founder or inventor. The case study is the story; the rest of the chapter is the lesson.
+* **Content** — the principles, techniques, and instructions.
+* **Exercises** — practical tasks that test your understanding. Do the exercises. Reading about a technique does not make you capable of the technique. Doing the technique makes you capable.
+* **Summary** — a one-paragraph recap of the chapter.
+
+The book is optimized for agents. The markdown is clean, the front matter is consistent, and the structure is regular. An AI agent can read a chapter, extract the relevant sections, and apply the instructions to your project. The agent does not need to read the whole book; it reads the chapter that matches the task.
+
 **<<** [](..\) **|** [Intro][intro.md) **>>**

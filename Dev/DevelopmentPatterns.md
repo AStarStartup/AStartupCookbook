@@ -45,7 +45,21 @@ Not to be confused with Design for Test, though they are often used together.
 
 #### Agentic Driven Development
 
-Agentic Driven Development (ADD, formerly Issue Driven Development, IDD, and Mission-Driven Development, MDD) is a method that relies on a Kanban board and issue tracking system (ITS) to keep you on track by you only working on a single issue at a time, and no work is allowed to happen without an issue first being inputted into the ITS.
+Agentic Driven Development (ADD, formerly Issue Driven Development, IDD, and Mission-Driven Development, MDD) is a method that relies on a Kanban board and issue tracking system (ITS) to keep you on track by only working on a single issue at a time, and no work is allowed to happen without an issue first being inputted into the ITS.
+
+ADD is the agentic-era evolution of the method. The core principle is unchanged: the mission drives the development. What has changed is who executes the mission. In the pre-agentic era, a human read the ticket, wrote the code, ran the tests, and committed. In the agentic era, an AI agent reads the ticket, writes the code, runs the tests, and commits. The human's role shifts from executor to director: the human defines the mission, reviews the agent's work, and merges the pull request.
+
+The agentic workflow:
+
+1. The human creates the issue ticket with a clear Problem and Solution.
+2. The human assigns the ticket to an agent on the kanban board.
+3. The agent reads the ticket, creates a branch, and executes the sub-commits.
+4. The agent pushes the branch and opens a pull request.
+5. The CI pipeline runs automatically.
+6. The human reviews the pull request and merges it.
+7. The agent updates the session ticket.
+
+The human does not write the code. The human writes the ticket. The quality of the output is determined by the quality of the ticket: a vague ticket produces vague code, a precise ticket produces precise code. The ticket is the spec, the agent is the contractor, and the CI pipeline is the quality gate.
 
 The process starts anytime you are doing work on code, you first create an Issue in the ITS. This issue gets associated with a Project Kanban board. When work begins you place the issue in the todo . The issue needs to be small enough that one or more issues can be tackled per day. If an issue is so big that it takes more than one day to complete then that issue is said to be an *Out of Control Issue*.
 
