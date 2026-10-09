@@ -5,11 +5,10 @@ title: 'Artifact'
 labels: ''
 assignees: 'AStarCale'
 ---
+## Description
 
-# Artifact Description
-
-
+The artifact that is left over from a change is...
 
 ## Files Affected
 
-1. `*.*`
+1. `?`
