@@ -3,10 +3,6 @@ layout: page
 title: "Psychology"
 ---
 
-# [Astartup Cookbook](../)
-
-## Psychology
-
 1. [Case Study:](./CaseStudy.md)
 1. [Attention](./Attention.md)
 1. [Classical Conditioning](./ClassicalConditioning.md)

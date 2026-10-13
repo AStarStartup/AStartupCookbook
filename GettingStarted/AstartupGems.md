@@ -3,12 +3,6 @@ layout: page
 title: "Astartup Gems"
 ---
 
-# [Astartup™ Cookbook](../)
-
-## [Getting Started](./)
-
-### Astartup Gems
-
 Astartup Gems are packages of information about a subject that are ranked in order or importance. There are a total of 10 Astartup Gem Types, ranked in order or the rarity of the real-world gem.
 
 1. Pink Star Diamond

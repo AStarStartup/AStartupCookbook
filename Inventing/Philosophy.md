@@ -3,12 +3,6 @@ layout: page
 title: "Philosophy of Invention"
 ---
 
-# [Astartup Cookbook](../)
-
-## [Inventing](./)
-
-### Philosophy of Invention
-
 Treat invention as a search for a useful solution under constraints. A precise problem narrows the options; it does not guarantee that a feasible or profitable solution exists.
 
 State who needs the outcome and why the current workaround is inadequate. Compare doing nothing, changing a process, buying an existing tool, and building something new. Identify the constraint most likely to make the idea fail and test it before committing to a large build.

@@ -3,10 +3,6 @@ layout: page
 title: "Marketing"
 ---
 
-# [Astartup Cookbook](../)
-
-## Marketing
-
 1. [Case Study:](./CaseStudy.md)
 1. [Branding](./Branding.md)
 1. [Marketing Documents](./MarketingDocuments.md)

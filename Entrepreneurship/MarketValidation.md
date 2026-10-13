@@ -3,12 +3,6 @@ layout: page
 title: "Market Validation"
 ---
 
-# [Astartup Cookbook](../)
-
-## [Entrepreneurship](./)
-
-### Market Validation
-
 Market validation is accumulating evidence for a specific business decision. It is not a badge earned by a survey, a demo, or a model-generated market estimate.
 
 Use [Problem Solving](../Engineering/ProblemSolving.md) as the canonical analysis procedure. It connects the problem, baseline, buyer, alternatives, economics, and next experiment. Use [Customer Interviews](../Analytics/CustomerInterviews.md) to collect accounts of actual behavior and current workarounds.

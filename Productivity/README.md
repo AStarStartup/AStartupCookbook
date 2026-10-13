@@ -3,10 +3,6 @@ layout: page
 title: "Productivity"
 ---
 
-# [Astartup Cookbook](../)
-
-## Productivity
-
 1. [Case Study:](./CaseStudy.md)
 1. [Flow State](./FlowState.md)
 1. [Context Window Engineering](./ContextWindowEngineering.md)

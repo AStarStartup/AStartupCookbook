@@ -3,21 +3,15 @@ layout: page
 title: "Customer Interviews"
 ---
 
-# [Astartup Cookbook](../)
-
-## [Analytics](./)
-
-### Customer Interviews
-
 Listen before pitching. The author's original warning about loaded questions is the starting rule: do not ask a question designed to produce the answer you want.
 
-#### Before the interview
+## Before the interview
 
 State the decision and the claim you need to investigate. Define who qualifies, including the user, buyer, and context. Keep a recruitment log so refusals and convenient sampling are visible. An invented persona can help design questions, but cannot stand in for a participant.
 
 Agree on permitted outreach, notes, recording, storage, and sharing. Collect only necessary information. Do not assume recording is permitted because a tool supports it; route consent and legal questions to `attorney`. Keep identifying information out of public Markdown and model prompts unless its use is explicitly authorized.
 
-#### Ask about a recent real event
+## Ask about a recent real event
 
 Use a neutral opening such as "Tell me about the last time you handled this." Then ask:
 
@@ -34,7 +28,7 @@ Keep quotations, observations, and your interpretations separate. Ask for clarif
 
 After exploring the current behavior, you may discuss a proposed offer and ask for a concrete, authorized next step. Describe its limitations honestly. Record a paid trial, referral, or refusal as the particular behavior it is; a promise is not collected cash.
 
-#### Interview record
+## Interview record
 
 ```text
 Participant ID (anonymized), role, segment, and recruitment source:
@@ -50,7 +44,7 @@ Interpretations / hypotheses / unresolved questions:
 
 Do not turn "several people liked it" into a population percentage. Record the actual count and denominator for the sample, and do not infer market representativeness. Preserve negative cases.
 
-#### Peer review and surveys
+## Peer review and surveys
 
 Ask a reviewer to trace conclusions back to notes, challenge loaded questions, and identify alternative explanations. Written and live review can both be useful; choose the format that exposes mistakes rather than declaring that useful written feedback is impossible.
 
@@ -58,17 +52,17 @@ Use surveys when the question, sampling frame, and measurement need them. Do not
 
 Thank the participant, ask whether someone else might have a different perspective, and request permission for follow-up. The author's question "Is there anything else that you think we should know?" remains useful because it leaves room for surprise.
 
-#### Turn notes into a decision
+## Turn notes into a decision
 
 Use [Problem Solving](../Engineering/ProblemSolving.md) to compare explanations, alternatives, economics, and a bounded experiment. Link the evidence record into the mission rather than pasting a sales pitch into the Problem section.
 
 Agents can summarize anonymized notes with source IDs and excerpts. A human must verify quotations, costs, and unsupported inferences against the records. The agent must not invent interviews, consent, or participant statements.
 
-#### Original phone-interview notes
+## Original phone-interview notes
 
 The following is the author's original Lab-2-Market/EA Partners example, preserved verbatim. It is a historical note fragment, not independently verified research, a current vendor recommendation, or a completed problem–solution analysis. Do not turn its questions into measured findings or fill its gaps with generated quotations.
 
-##### Example Phone Interview
+### Example Phone Interview
 
 [This is an example phone interview from Lab-2-Market with EA Partners]
 

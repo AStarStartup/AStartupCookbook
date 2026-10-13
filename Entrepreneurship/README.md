@@ -3,10 +3,6 @@ layout: page
 title: "Entrepreneurship"
 ---
 
-# [Astartup Cookbook](../)
-
-## Entrepreneurship
-
 1. [Case Study: Bill Gates](./CaseStudy.md)
 1. [Beginner's Mindset](./BeginnersMindset.md)
 1. [Persuasion](./Persuasion.md)

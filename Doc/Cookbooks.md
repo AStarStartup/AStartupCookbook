@@ -3,15 +3,9 @@ layout: page
 title: "Cookbooks"
 ---
 
-# [Astartup Cookbook](../)
-
-## [Documentation](./)
-
-### Cookbooks
-
 A cookbook is a set of practical procedures with inputs, outputs, limits, and checks. It can help people and agents use a project, but usefulness must be tested rather than inferred from the number of pages.
 
-#### Create an agent-readable cookbook
+## Create an agent-readable cookbook
 
 1. State the decisions and tasks it supports, the audience, and the boundary between advice and permission to act.
 2. Organize each procedure around prerequisites, steps, a checkable result, failure handling, and a source record where facts depend on external evidence.

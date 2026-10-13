@@ -3,12 +3,6 @@ layout: page
 title: "Agentic Driven Development"
 ---
 
-# [Astartup Cookbook](../../)
-
-## [Development](../)
-
-### Agentic Driven Development
-
 Agentic Driven Development (ADD), formerly Issue-driven Development (IDD) and Mission-Driven Development (MDD).
 
 1. [Parking Tickets](./ParkingTickets.md)

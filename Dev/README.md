@@ -3,10 +3,6 @@ layout: page
 title: "Development"
 ---
 
-# [Astartup Cookbook](../)
-
-## Development
-
 This chapter outlines the most important industry standard development processes every beginning tech entrepreneur and inventor needs to know about.
 
 Development Processes are the engineering processes used to design, develop and manage the life cycles of products. Development processes are used to minimize cost and maximize reward. Development processes often times borrow concepts from each other, and are commonly refereed to as the two traditionally distance classes of Development processes, Waterfall-like vs Agile-like Processes.

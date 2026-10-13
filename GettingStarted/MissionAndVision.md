@@ -4,12 +4,6 @@ title: "Mission and Vision Statement"
 status: draft
 ---
 
-# [Astartup Cookbook](../)
-
-## [Getting Started](./)
-
-### Mission and Vision Statement
-
 Mission Statements and Vision Statements are one of the most powerful documents your startup has; they are your startup's North Star that keeps everyone headed the same direction. When working with professionals, you shouldn't need to tell them how to do there job. You hired them because they know how to do that and you don't have the time to do that. This means that often times people have their heads down in the sand and everyone is digging towards the goal. This is the fastest way to get to the goal, but if the team is digging in the wrong direction it can lead the team astray, waste time, and jeopardize the project. The Mission and Vision should serve as the North Start that keeps the team coordinated and digging in the right direction.
 
 There is a difference between a goal and mission. Often times people confuse the Mission and Vision with what ever goal they are excited about at that time and whatever they think will bring in more customers. This is not the Mission and Vision, it's **A** vision and **A** mission, and in fact may jeopardize the mission. The mission is whatever is best for your product and customer, and every professional mission includes the sub-mission to keep team from getting distracted and digging off coarse.
@@ -18,13 +12,13 @@ You really do want to start off with the right dream and not a pipe dream. It is
 
 Another critical aspect of the Mission and Vision is that they must be complimentary and they must not compete with each other for the teams precious time. If your mission is to produce world-class software and your vision is to give it away for free, this may or may not be a conflict of interest. The very least you should do up front is write down at least one sentence addressing if a conflict of interest exists and if so what is the mitigating factor that makes the conflict not critical.
 
-#### Astartup Mission and Vision
+## Astartup Mission and Vision
 
 The mission of Astartup is to maximize the chances of success of your startup by teaching as many people as possible modern industry best practices, time optimization techniques, and Artificial Intelligence theory, and to provide free software tools to assist you in this task.
 
 The vision of Astartup is to provide a free Markdown version of the book to all, regardless of ability to pay; and earn money by selling paper books, solely because paper books are awesome and startups need money; any money generated will be used to fund Kabuki Starship.
 
-##### Mission and Vision State Analyses
+### Mission and Vision State Analyses
 
 The mission is clear and easy to understand  because it is defined in mathematical terms of maximizing the chance of success. The book is completely useless if it lowers your chance of success, so maximizing the chance is the opposite of useless and therefor provides a solution to the user that is a pain that is great enough for the user to buy a paper copy of this book.
 

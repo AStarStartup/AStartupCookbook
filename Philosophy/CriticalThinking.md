@@ -4,12 +4,6 @@ title: "Critical Thinking"
 status: draft
 ---
 
-# [Astartup Cookbook](../)
-
-## [Philosophy](./)
-
-### Critical Thinking
-
 Critical thinking is something that should be taught to school children from a very young age. Our society is often times used faith as a crutch, often to entrench and protect our own paradigms. The phrase “I read it on the internet so it must be true” optimizes problem to the status of a meme. Far too often, people assume that everything that was spoken in a serious tone is true. Often times this is so far from the truth you in between wanting to laugh or being afraid. While this book is not a book about critical thinking or eastern philosophy, they are important for anyone wanting to invent or bring an innovative product to market.
 
 [Insert info about how critical thinking can help you write here.]

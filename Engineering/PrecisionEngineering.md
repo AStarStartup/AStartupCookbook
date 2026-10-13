@@ -3,12 +3,6 @@ layout: page
 title: "Precision Engineering"
 ---
 
-# [Astartup Cookbook](../)
-
-## [Engineering](./)
-
-### Precision Engineering
-
 Bill Gates was quoted as saying, “To be a good professional engineer, always start to study late for exams, because it teaches you how to manage time and tackle emergencies.” When I first got into engineering school, most of the smartest people in the program would always do this. I didn’t get it at all. I was busting my butt off, studying ahead of time, and when I would study with the guys a week before the test, all of them would be like, “I just opened the book yesterday, I’m not ready to study yet.” I would be the only one prepared, but somehow they got better grades on the test than I did.
 
 But how could this be so? Were they smarter than me? After getting to the know the guys, years later I realized that I was just as smart as them, it’s just that they had a better grasp on exactly how much time it takes to learn something.

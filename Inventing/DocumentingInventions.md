@@ -4,12 +4,6 @@ title: "Documenting Inventions"
 status: draft
 ---
 
-# [Astartup Cookbook](../)
-
-## [Inventions](./)
-
-### Documenting Inventions
-
 The content of this book is a combination of technical writing, engineering, mixed with a crash course in running a startup company. The purpose of this book is to teach students how to leverage writing as a tool to aid in the inventing process, create a superior product, and launch a successful business off of your invention. It is not meant to serve as your primary source of information about the subjects in this book. For all of those subjects, it is recommended that you read the primary literature referenced in this book. The idea of this book is to teach students to document their ideas correctly in the correct way. Learning how to solve problems is not something that they teach you in primary school. The purpose of this book is to train you to think like an engineer, inventor, and entrepreneur from the very start.
 
 The book is written to the audience of people who already have inventions that they have been working on but those who do not have a project please plan on creating one to work or join another team to work through the book. Heavy emphasis is put on writing. Writing is arguably one of the most important tools you have in your toolkit in every professional and scientist’s life. The perspective of this book is coming from an amateur inventor attempting to launch a startup company off of their invention. While I am focusing on the amateur inventor, this book also applies to engineers, scientists, and masters of business. If you have an MBA, the book will function as a quick review of the Lean Startup Method, and also some valuable insight into how engineers and inventors invent, and how you can document your ideas for your next hot new startup company.

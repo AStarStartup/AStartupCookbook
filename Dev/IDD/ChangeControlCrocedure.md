@@ -3,14 +3,6 @@ layout: page
 title: "Change Control Procedure"
 ---
 
-# [Astartup Cookbook](../../)
-
-## [Development](../)
-
-### [Agentic Driven Development](./)
-
-#### Change Control Procedure
-
 The Change control procedure ensures that train wrecks don't happen when Major or Minor changes are made to the code base. The extra steps required to implement the procedure are in your best interests to comply with because they were invented because of some really painful and embarrassing train wrecks.
 
 1. The Change Request ticket shall be added to the Changes project kanban board by submitting an Issue Ticket that shall include a one-sentence Mission statement for the Title along with Problem, Solution, Cost, and Benefits analyses and, if needed, further Mission Details that clarify the one-sentence Mission statement.

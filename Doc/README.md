@@ -3,10 +3,6 @@ layout: page
 title: "Documentation"
 ---
 
-# [Astartup Cookbook](../)
-
-## Documentation
-
 1. [Case Study: Leonardo da Vinci](./CaseStudy.md)
 1. [Development Logs](./DevelopmentLogs.md)
 1. [Wikis](./Wikis.md)

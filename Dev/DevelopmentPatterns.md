@@ -4,15 +4,9 @@ title: "Development Patterns"
 status: draft
 ---
 
-# [Astartup Cookbook](../)
-
-## [Development](./)
-
-### Development Patterns
-
 Development patterns are patterns to follow while developing a product, and are not to be confused with design patterns.
 
-#### Waterfall Development
+## Waterfall Development
 
 The Waterfall Development Pattern is where a project progresses sequentially through development stages without working on any prior stages. It can be appropriate when requirements and dependencies are stable, but it is less flexible when new information requires revisiting earlier decisions. It is not universally the fastest route to market. For some projects this may or may not matter or be a good or bad thing, it all depends of if the correct user requirements where collected ahead of time. More about this will be elaborated upon in Chapter 8: Design.
 
@@ -22,29 +16,27 @@ A good example of when you should never use a Waterfall Development Pattern is w
 
 In the second example, years of work could be avoided by just asking your customer up front what features are the solution they are willing to pay for.
 
-#### Iterative Development
+## Iterative Development
 
 This is your standard waterfall talk.
 
-#### Agile Development Method
+## Agile Development Method
 
 The agile software development method.
 
-##### Tradeoffs
+### Tradeoffs
 
 Agile is awesome if you’re a computer programmer.
 
-### Lean Manufacturing
-
-#### Lean Startup
+## Lean Startup
 
 The Lean Startup Method, invented by Eric Ries, is the new rage in business, from small garage startups, to mammoth corporations. It’s something that all inventors, engineers, and entrepreneurs should know about.
 
-### Test Driven Development
+## Test Driven Development
 
 Not to be confused with Design for Test, though they are often used together.
 
-#### Agentic Driven Development
+## Agentic Driven Development
 
 Agentic Driven Development (ADD, formerly Issue Driven Development, IDD, and Mission-Driven Development, MDD) is a method that relies on a Kanban board and issue tracking system (ITS) to keep you on track by only working on a single issue at a time, and no work is allowed to happen without an issue first being inputted into the ITS.
 
@@ -70,11 +62,11 @@ IDD may make use of multiple enumerated seams, borrowed from Agile Development. 
 
 IDD's most useful feature is that any project can start using it right away and it helps projects transition into an Agile state where the product always works and new features and changes can be made without breaking everything. The amount of overhead time managing IDD is far less than the time wasted with IDD, I was even able to write books in the extra saved time!
 
-##### Working on Non-contiguous Seams
+### Working on Non-contiguous Seams
 
 Seams must be tested in a specific order, or combination of orders, to ensure they are working, do not require that you only work on that seam. It may be advantageous to work on seams that are one or more major seams away from the code you are working on because it helps to avoid reworking the same files because you didn't look ahead. It works best to create a prototype of the work on the higher seam numbers, then go back to working on the sequential seam. This may also allow you to work on something a little bit more fun for a while to break the monotony. The big thing is that you be prepared for changes on previous seam numbers to potentially propagate through to higher number seams.
 
-##### Tips
+### Tips
 
 * Don't let your issues build up: A project with thousands of back-logged issues is by definition not Agile. Use StarUML to backlog issues and add features in the model first before polluting the ITS.
 
@@ -86,7 +78,7 @@ The original Kabuki Toolkit seam diagram is missing from this repository; do not
 
 * Keep your issue titles as short as possible: if your issue title is so long it doesn't fit in the one line, break it up into smaller issues. You need to be able to click on the issue ticket number to take you to the issue and you can explain the work in more detail on the issue description.
 
-#### Historical AStar naming
+## Historical AStar naming
 
 The earlier AStar-driven terminology inspired the method's name. It is not a proof that following this workflow produces the shortest or cheapest startup path. A startup has uncertain outcomes and incomplete information; a graph-search analogy does not establish a success probability.
 

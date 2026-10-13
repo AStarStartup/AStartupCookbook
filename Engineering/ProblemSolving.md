@@ -3,23 +3,17 @@ layout: page
 title: "Problem Solving"
 ---
 
-# [Astartup Cookbook](../)
-
-## [Engineering](./)
-
-### Problem Solving
-
 Use problem–solution analysis to decide whether to investigate, change a process, buy, build, or stop. The output is a decision with evidence and limits, not a polished description of an idea.
 
 The author's original prompts remain useful: identify the rules, identify the winning condition, and identify the next step. Apply them in that order so the next step is worth taking.
 
-#### 1. Identify the rules and the decision
+## 1. Identify the rules and the decision
 
 State the decision owner, deadline, available cash and founder hours, permissions, and constraints. Include operational ownership: who handles a failure or a support ticket on Monday morning? Record regulatory, safety, data, and contractual questions for the appropriate specialist; route legal conclusions to `attorney`.
 
 Define what is outside scope. A problem-analysis mission is not permission to buy software, contact customers, collect sensitive data, or start implementing the most exciting option.
 
-#### 2. Describe the problem without smuggling in a solution
+## 2. Describe the problem without smuggling in a solution
 
 Use this form:
 
@@ -36,7 +30,7 @@ Separate the symptom from the proposed cause. Late payment might reflect missing
 
 Name the user, buyer, payer, and any approver separately. The person with the problem may not control a budget or have permission to install your product.
 
-#### 3. Build an evidence record
+## 3. Build an evidence record
 
 Use [Customer Interviews](../Analytics/CustomerInterviews.md) to investigate a recent real event, the current workaround, frequency, consequences, and buying process. Where permitted, compare the account with records, observation, or a small workflow test.
 
@@ -54,7 +48,7 @@ Avoid a universal interview count. Define eligibility and recruitment channels, 
 
 Keep private identities and raw records in an approved store. Use anonymized IDs in shared Markdown, and link rather than copy sensitive material into every task packet.
 
-#### 4. Identify the winning condition
+## 4. Identify the winning condition
 
 Define the outcome independently of the product. Establish a baseline, measure, unit, population, time horizon, and acceptance threshold. For example, measure staff minutes per invoice and error rate over a specified billing cycle, not whether a prototype has a reminder button.
 
@@ -62,7 +56,7 @@ Agree on a guardrail: errors, cash exposure, support burden, privacy, safety, or
 
 Do not treat stated enthusiasm as willingness to pay. A paid trial or repeated use is stronger behavioral evidence for that limited offer, but still does not prove a large market, retention, or scalable economics.
 
-#### 5. Compare alternatives, including not building
+## 5. Compare alternatives, including not building
 
 At minimum compare the current workaround/do nothing, a manual or process change, an existing product or partner, and a new build when relevant. Define the same outcome for every option.
 
@@ -77,7 +71,7 @@ At minimum compare the current workaround/do nothing, a manual or process change
 
 Use scores only when their scales and weights are explicit. A weighted average must not override a hard safety or cash constraint. A complex operating model is a cost even if its API bill is small.
 
-#### 6. Model viability with units and scenarios
+## 6. Model viability with units and scenarios
 
 Separate customer benefit from your ability to capture it. Time saved may free capacity without reducing payroll. Faster cash collection is not additional revenue. Bookings, recognized revenue, profit, and money in the bank are different measures.
 
@@ -85,7 +79,7 @@ Record formulas and input provenance. Use downside, base, and upside assumptions
 
 Identify the assumption that can reverse the recommendation. Calculate a break-even or capacity threshold where useful. If the result depends on ignoring support or assuming instant sales, change the plan before asking an agent to build it.
 
-#### 7. Test the most consequential uncertainty
+## 7. Test the most consequential uncertainty
 
 Choose a bounded experiment that can change the decision. State it before observing results:
 
@@ -106,13 +100,13 @@ Use the method's `QnHm` references when the project uses them. Test problem freq
 
 A technical test can fail because of an implementation error without disproving demand. An interview can support a problem without supporting your preferred solution. Check the mechanism and confounders before interpreting a result. Missing data is inconclusive, not a pass.
 
-#### 8. Choose the next step and an accountable handoff
+## 8. Choose the next step and an accountable handoff
 
 Choose proceed to another bounded test, revise the hypothesis, defer, buy/use the workaround, or stop. State what evidence would change the decision and when it will be reviewed.
 
 Only then create an implementation mission. Link its Problem and Solution to the decision record, list the affected files, and define executable acceptance checks. See [Mission Tickets](../Dev/IDD/MissionTickets.md) and [Agent Operations](../Dev/AgentOperations.md). Do not let an issue title turn a hypothesis into a confirmed requirement.
 
-#### Copyable decision record
+## Copyable decision record
 
 Use the following headings in a project record. Replace the prompts with evidence or explicit unknowns; this fenced worksheet is a template, not a completed analysis.
 
@@ -148,7 +142,7 @@ Use the following headings in a project record. Replace the prompts with evidenc
 <Approved scope, issue links, files, checks, and permissions still needed.>
 ```
 
-#### Worked example: invoice follow-up service
+## Worked example: invoice follow-up service
 
 This entire example is hypothetical. No interviews, paid pilots, savings, or sales reported here occurred. The numbers are teaching assumptions, not benchmarks or the author's founder-interview results.
 
@@ -200,7 +194,7 @@ Predeclare a gate for a larger pilot: at least three eligible agencies actually 
 
 Fail or inconclusive results lead to a cause investigation, process change, different offer, or stopping. Passing this small gate supports only a larger bounded pilot, not market-size estimates or a production launch. Review excluded acquisition costs and actual collection timing before committing to automation.
 
-#### Agent and local-model use
+## Agent and local-model use
 
 Give the model the decision, this procedure, the approved constraints, and sanitized source records. Ask for an evidence ledger, missing inputs, competing explanations, options, a calculation plan, and a proposed experiment. Require source IDs for factual assertions and explicit labels on assumptions.
 

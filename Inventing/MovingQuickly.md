@@ -4,12 +4,6 @@ title: "Moving Quickly"
 status: draft
 ---
 
-# [Astartup Cookbook](../)
-
-## [Inventions](./)
-
-### Moving Quickly
-
 Some of the most important metrics to optimize for the success of your invention are time to market, confusion time, development time, testing time, feedback time, iteration time, and [@todo insert more common metrics]. It’s imperative to move quickly through the process and not get hung up on the way. This does not mean to rush the task, as that will almost guarantee an exponential amount of rework later on. Getting bogged down in the muck of a project can significantly decrease morale, which in turns leads to decreased productivity (quote from Getting Things Done – Allan).
 
 In order to move quickly, it’s important to document what you are doing. Keeping detailed notes and journals.

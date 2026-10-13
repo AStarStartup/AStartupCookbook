@@ -3,17 +3,9 @@ layout: page
 title: "Mission Tickets"
 ---
 
-# [Astartup Cookbook](../../)
-
-## [Development](../)
-
-### [Agentic Driven Development](./)
-
-#### Mission Tickets
-
 A Mission Ticket is the standard tree markdown template for ADD (Agentic Driven Development, formerly IDD and MDD) that defines the contract between the ticket, the branch, and the commit. It is called a Mission Ticket because the mission drives the development: every mission solves a problem, and not every issue is a mission. A human or an agent must explicitly take an issue on as a mission before any work begins. A Mission Ticket is composed of a one-sentence mission statement title, a Problem section, a Solution section, a Files Affected section, and one H2 heading per sub-commit.
 
-#### One-sentence Mission Statement
+## One-sentence Mission Statement
 
 Every mission ticket should have for its title a one-sentence mission statement. A mission is easiest to describe in terms of a military combat operation. You don't just want to go out fighting the enemy in the abstract, you need to target specific parts of the enemy and attack the enemy until it is defeated. If possible every issue should only address one discrete mission; this however is not possible without addressing a coupled issue, or sometimes you're just too lazy to make an extra issue ticket, so when there is more than one mission they should be separated by a semicolon. In IMUL every mission starts with a verb, such as Rename, Add, Delete, etc.
 
@@ -21,15 +13,15 @@ Every mission ticket should have for its title a one-sentence mission statement.
 
 `Title: Rename IDD to Agentic Driven Development; Add Mission Tickets chapter.`
 
-#### Problem
+## Problem
 
 Every mission ticket must address a problem. Sometimes the problem is the same as the one-sentence mission statement. We only want to go on a mission if there is a problem, and if there isn't a problem then the mission itself is a problem. A problem statement should be as short as possible to express why we're going on the mission. The Problem section may be empty when the issue title fully states the problem.
 
-#### Solution
+## Solution
 
 For every problem, there should be at least one solution. A good solution statement should address why this is the appropriate solution for the problem statement. You should describe what the properties of a solution are that will achieve the effect desired. When you're mapping out and prioritizing issues you might not know which solution you'll use, so you should use one H2 heading for each solution. The Solution section is required; a mission ticket without a Solution is not a mission ticket.
 
-#### Files Affected
+## Files Affected
 
 The Files Affected section is an enumerated list of the files the mission touches. It is the contract between the ticket and the commit: you stage only what the ticket lists, and nothing else. Wildcards are part of the contract:
 
@@ -38,11 +30,11 @@ The Files Affected section is an enumerated list of the files the mission touche
 
 If no files are altered, leave the list empty.
 
-#### Sub-commits: A, B, C
+## Sub-commits: A, B, C
 
 Multiple commits on one ticket are allowed. One ordered H2 section per sub-commit, in issue order, states what that sub-commit solves and how. A single-commit ticket has no letter sections.
 
-#### Worked Example
+## Worked Example
 
 ***Example***
 
@@ -60,7 +52,7 @@ git commit -m "#26.C Update the root README methodology references"
 
 The letter must match the section in the ticket: a commit letter with no section (or a section with no commit) is a broken ticket. If the suffix sequence becomes unwieldy, open a new issue instead of extending the same mission.
 
-#### Commit Discipline
+## Commit Discipline
 
 1. Read the mission ticket before committing, including the Problem, Solution, and the matching sub-commit section for the commit you are about to make.
 2. Stage only what Files Affected lists. Explicit paths stage those paths; do not stage unrelated changes, generated or build noise, binaries, or secrets.
@@ -68,7 +60,7 @@ The letter must match the section in the ticket: a commit letter with no section
 4. One coherent solution step per commit, one reason to exist. Don't make one giant mixed commit to reduce count, and don't make meaningless micro-commits to inflate count. Let the mission define the unit.
 5. Verify with real checks appropriate to the step. Human verification is the merge gate; a green run is evidence, not permission to integrate.
 
-#### Adding Mission and Vision to Issue Tickets
+## Adding Mission and Vision to Issue Tickets
 
 Every project has a mission and a vision. The mission is what the project does. The vision is where the project is going. Every issue ticket should trace back to the mission: if the issue does not serve the mission, it is not an issue for this project.
 
@@ -86,7 +78,7 @@ The bracketed text above is a placeholder, not a working link. Replace it with t
 
 If an issue cannot be traced to the mission, it is either a parking ticket (see ParkingTickets.md) or it belongs in a different project.
 
-#### Mission Ticket Template
+## Mission Ticket Template
 
 The standard mission ticket template, in full:
 
@@ -125,13 +117,13 @@ The standard mission ticket template, in full:
 
 The letter sections (A, B, C) are the sub-commits. Each letter section describes one commit. The Sessions subsection records which session ticket the work happened in.
 
-#### A through Z references
+## A through Z references
 
 The A–Z notation is a local way to identify issue sections and sub-commits. For example, `#82.A` names sub-commit A, while `#82.Problem` names the Problem section. They are not separate GitHub issue numbers or automatically working deep links. To link a heading, use the actual issue URL and its rendered heading anchor.
 
 Keep issue numbers, session-log identifiers, and commit letters distinct. A session can contain work on several missions; a mission can span several sessions. Do not invent a date or suffix to make them line up.
 
-#### Session.Created
+## Session.Created
 
 The `Created` list records the issues created during the session:
 
@@ -145,13 +137,13 @@ The list is not itself a timestamp. Use the issue's recorded creation time when 
 
 The author's session convention allows a session to span multiple days until it contains at least one meaningful commit. Do not manufacture a commit or hide blocked research to satisfy this rule. Record useful findings and blockers honestly while the session remains open.
 
-#### Groundhog Day
+## Groundhog Day
 
 The author's groundhog-day technique is a restart routine after a stalled session. Read the last handoff, pick a small authorized action, do it, and record the verified result. The action can expose a blocker rather than close an issue.
 
 Keep the previous day's evidence and timestamps. Do not rewrite yesterday's work as if it happened today or close an issue before its acceptance check. A restart routine is a suggestion, not a guaranteed psychological effect.
 
-#### Session Ticket Template
+## Session Ticket Template
 
 The standard session ticket template:
 
@@ -186,7 +178,7 @@ The Projects section lists the repos you will work on that day and what you plan
 
 The Next Session section is the Kevin O'Leary rule: you set up three tasks at the end of each session that get done before anything else in the next session. This eliminates the cold start problem. You do not wake up and figure out what to do; you wake up and do the three things you already decided to do. The list is done by the end of the day, passed to the next session (or to a coworker or agent) with enough context that they can pick it up without asking.
 
-#### Milestones
+## Milestones
 
 The author's starting convention is a GitHub Workspace milestone: repository, templates, coordination, and the first mission are set up and checked. This is an organizational checkpoint, not proof of demand.
 
@@ -200,7 +192,7 @@ Define additional milestones with explicit exit criteria:
 
 Adapt this sequence to the startup. Connect it to [problem–solution analysis](../../Engineering/ProblemSolving.md); do not build each milestone simply because it is in a template.
 
-#### Issue ordering and project records
+## Issue ordering and project records
 
 The historical weekday/session/project numbering schemes evolved in issues #87 and #91 and do not define a reliable universal mapping. GitHub assigns issue numbers in creation order, including pull requests; an agent cannot reserve or renumber existing numbers by writing this chapter.
 
@@ -208,7 +200,7 @@ Use descriptive titles and an index of actual issue links for weekday plans, nex
 
 The exact numbered bootstrap scheme and additional records proposed in issue #91 need the Captain's decision before they are treated as current policy. Do not migrate a board or create dozens of placeholder issues during a content task.
 
-#### Questions and Hypotheses
+## Questions and Hypotheses
 
 A Question is an open item that needs an answer. A Hypothesis is a proposed answer to a question that needs testing. The relationship: every question has a set of hypotheses, addressed as `QnHm` where n is the question number and m is the hypothesis number.
 
@@ -227,13 +219,13 @@ The configured Questions record is the index. Each question gets a line:
 
 The Hypothesis is not a separate ticket. It is a section within the Question ticket, or a reference from the Question ticket to the experiment that tests it.
 
-#### Agent workflow
+## Agent workflow
 
 Follow [Contributing](../Contributing.md) and [Agent Operations](../AgentOperations.md). Read the full mission and comments, inspect local state, agree on the file list and checks, then implement only the authorized scope. The workspace commit grammar is `#<N> <title>` or `#<N>.A <sub-commit title>` with a matching issue section. Remote writes, merge, deployment, and issue closure require their own authority.
 
 Before choosing a solution, use [Problem Solving](../../Engineering/ProblemSolving.md). Link the decision and evidence from the ticket so an executable mission does not silently become a claim of market validation.
 
-#### Session ticket hierarchy
+## Session ticket hierarchy
 
 Session logs belong in the organization's designated coordination repository. Discover that location from its instructions; a same-name organization repository is a convention, not a guarantee.
 
@@ -247,7 +239,7 @@ A session's Hierarchy list links to the actual mission issues worked on, which m
 
 Use real links in a filled record. Do not redirect all product missions to a workspace issue with the same number.
 
-#### Issue Tags
+## Issue Tags
 
 Issue tickets are tagged, not typed. The old system used IssueType (Bug, Feature, Mission), which was a single-value field. The new system uses IssueTags, which is a multi-value field. A ticket can have multiple tags:
 

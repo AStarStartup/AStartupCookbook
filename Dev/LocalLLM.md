@@ -3,15 +3,9 @@ layout: page
 title: "Local LLM Tasks"
 ---
 
-# [Astartup Cookbook](../)
-
-## [Development](./)
-
-### Local LLM Tasks
-
 Use local inference to draft an analysis, explain a chapter, or classify sanitized records. Keep execution tools outside this first workflow. Model output is a draft to check, not evidence, permission, or a completed business task.
 
-#### Prerequisites and privacy
+## Prerequisites and privacy
 
 Use an installed runtime and a locally stored model whose terms and capabilities fit the task. Choose it by testing representative work, not by an arbitrary parameter-count threshold. Do not download large weights or install a system service without the operator's agreement.
 
@@ -31,7 +25,7 @@ curl --fail --silent --show-error http://127.0.0.1:11434/api/tags
 
 Keep credentials, customer identities, private contracts, and proprietary records out of the example packet. Obtain permission for any sensitive use. A local model does not make browser extensions, telemetry, remote GitHub tools, or CI private.
 
-#### Read-only Ollama analysis recipe
+## Read-only Ollama analysis recipe
 
 Run from a clone of this cookbook with Python 3. Create a separate, sanitized evidence file with real source IDs, dates, excerpts, limits, and explicit unknowns. Replace both placeholders below; the recipe does not create evidence or invent an installed model.
 
@@ -103,7 +97,7 @@ Even `done: true` can mean generation stopped at its output limit. Inspect `done
 
 Do not paste the draft into a shell or let it change project files. Check every claimed fact and quotation against the evidence, run the arithmetic separately, and record unsupported assertions. Then explain the reviewed conclusion to the human in their language without changing identifiers, units, or approval requirements.
 
-#### llama.cpp alternative
+## llama.cpp alternative
 
 If the operator already has `llama-server` and a compatible local GGUF, use an explicit loopback bind and bounded context/parallelism. Replace the model path and check the installed binary's `--help`; flags and memory requirements vary by version.[7]
 
@@ -114,7 +108,7 @@ curl --fail --silent --show-error http://127.0.0.1:8080/health
 
 Its OpenAI-compatible chat endpoint is `/v1/chat/completions`, not Ollama's `/api/chat`.[7] Adapt the packet to the runtime's documented request/response schema: `messages`, `stream: false`, `temperature`, `max_tokens`, and the response's `choices` and finish reason. Do not treat the Ollama Python recipe as a drop-in llama.cpp client.
 
-#### Other startup tasks
+## Other startup tasks
 
 Keep the same pattern: one relevant procedure, approved inputs, a bounded draft, independent verification, then a human decision. For operations, summarize incidents with source IDs and omissions. For financial work, extract inputs and formulas, then calculate in code. For learning, draft practice questions with a trusted answer source. For maintenance, propose changes with exact file locations and regression checks. For innovation, compare hypotheses and low-cost experiments before requesting a build.
 

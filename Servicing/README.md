@@ -3,10 +3,6 @@ layout: page
 title: "Servicing"
 ---
 
-# [Astartup Cookbook](../)
-
-## Servicing
-
 Servicing produce includes Maintenance, repair, and interacting with customers and service-sector workers and owners.
 
 1. [Case Study:](./CaseStudy.md)

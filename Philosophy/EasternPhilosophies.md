@@ -4,21 +4,11 @@ title: "Eastern Philosophy"
 status: draft
 ---
 
-# [Astartup Cookbook](../)
-
-## [Philosophy](./)
-
-### Eastern Philosophy
-
-#### Dharma
+## Dharma
 
 Dharma is one's duty to society and is a beleif system shared between Hinuism, Buddism, Sekism. Everyone has their purpose in life. Running a startup company usually means living off of pennies, it takes a lot longer than in you initially think it will take you, and it's not so glamarous. If you have a long-term incubation startup then chances are by the time you finish your product you're life's trajectory will change and you will have different interests. Optimizing ahead of time for Dharma is a way that you can keep focused on the public good, which can give you long-term percerveriance. A side affect of the Dharma-centered design is that since you are helping people, it can often times make you more money in the end because your product is mass marketable.
 
-#### Buddhism
-
-##### Enlightenment
-
-##### Mindfulness
+### Mindfulness
 
 One of the biggest time savers that increase productivity is simply being aware of things, or in other words, being mindful of things. Mindfulness is a Buddhist concept means awareness. The Buddha taught that it was one of the seven factors of enlightenment.
 
@@ -39,9 +29,7 @@ Humility
 
 One of the most important traits in an engineer is that they be humble. Representatives from major companies such as Google have been quoted as saying that students from really good schools who get really good grades often.
 
-#### Taoism
-
-#### The Wu Wei
+## The Wu Wei
 
 The Wu Wei is a Taoist concept that means non-action, non-doing; also commonly referred to as action through inaction.
 Writing for most people when you first start doing is very arduous and frustrating because it takes so long. The reason for this is the same frustrating that almost anyone feels when learning a new skill. You aren’t proficient in that skill, so you have to try so much harder just to get the ball rolling, but after you learn how to do it, you don’t have to put in as much effort because you know how to start, and how to get the work done in a timely manner.

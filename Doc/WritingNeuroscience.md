@@ -3,12 +3,6 @@ layout: page
 title: "Writing Neuroscience"
 ---
 
-# [Astartup Cookbook](../)
-
-## [Documentation](./)
-
-### Writing Neuroscience
-
 Humans learn much better by physically writing things down. Find research that supports muscle memory learning.
 Use Your Log to Keep on Track
 

@@ -3,13 +3,7 @@ layout: page
 title: "Design Patterns"
 ---
 
-# [Astartup Cookbook](../)
-
-## [Design](./)
-
-### Design Patterns
-
-### Build-Measure-Learn Design Steps
+## Build-Measure-Learn Design Steps
 
 **Step 1:** Draw a Box
 
@@ -63,35 +57,33 @@ This is the point where you start saving a lot of time because so far the bigges
 
 This is the point where all of your models and ideas will go out the window and you will need to hire a lot of people who are smarter than you and can do the things you didn't think of. Your entire goal in life is to get to this point and let the engine you create drive the team where your mission and vision intends.
 
-### Software Design Patterns
+## Software Design Patterns
 
 Software design patterns come in handy with most STEM-ED disciplines on a daily basis. Software is after all designed, worth a lot of money, and many millions of dollars have been spent developing time optimization and robust system design patterns.
 
-#### Creational Patterns
+### Creational Patterns
 
 * Abstract Factory
 * Singleton
 * Multiton
 * Object Pool
 
-#### Structural Patterns
+### Structural Patterns
 
 * Facade
 * Proxy
 * Decorator
 * Flyweight
 
-#### Behavioral patterns
+### Behavioral patterns
 
 * Observer
 * Strategy
 
-#### Concurrency Patterns
+### Concurrency Patterns
 
 * Blockchain
 * Event-based Asynchronous
 * Thread Pool
 * Read-write lock
 * Global Anti-aliasing
-
-### Symmetry

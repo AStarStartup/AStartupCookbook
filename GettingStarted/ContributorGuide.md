@@ -3,17 +3,11 @@ layout: page
 title: "Contributor Guide"
 ---
 
-# [Astartup Cookbook](../)
-
-## [Getting Started](./)
-
-### Contributor Guide
-
 Start with the target repository's `AGENTS.md`, its contribution instructions, and the actual issue. A public repository can accept fork-based contributions without granting you organization write access; use its documented process.
 
 For this cookbook, [Contributing](../Dev/Contributing.md) is the canonical workflow and [Mission Tickets](../Dev/IDD/MissionTickets.md) defines the mission record. [Agent Operations](../Dev/AgentOperations.md) covers permissions, verification, and handoffs. Do not duplicate those rules in another guide.
 
-#### First contribution
+## First contribution
 
 1. Clone the specific repository or your authorized fork, then inspect its branch, origin, and local changes.
 2. Read the assigned issue and comments. Identify one outcome you can verify; request clarification only if it changes the action.

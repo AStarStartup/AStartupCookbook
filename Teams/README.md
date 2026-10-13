@@ -3,10 +3,6 @@ layout: page
 title: "Teams"
 ---
 
-# [Astartup Cookbook](../)
-
-## Teams
-
 1. [Case Study:](./CaseStudy.md)
 1. [Team Structures](./TeamStructures.md)
 1. [Team Etiquette](./TeamEtiquette.md)

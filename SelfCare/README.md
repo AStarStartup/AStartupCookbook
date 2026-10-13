@@ -3,10 +3,6 @@ layout: page
 title: "Self-care"
 ---
 
-# [Astartup Cookbook](../)
-
-## Self-care
-
 ***How to prevent from hurting yourself and destroying your startup.***
 
 1. [Case Study:](./CaseStudy.md)

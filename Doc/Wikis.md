@@ -3,12 +3,6 @@ layout: page
 title: "Wiki Roles"
 ---
 
-# [Astartup Cookbook](../)
-
-## [Documentation](./)
-
-### Wiki Roles
-
 The first thing that one must understand about a wiki or anything for that matter, is what exactly is a Wiki? A wiki is a web encyclopedia. What is an encyclopedia? It’s a type of quick reference book or software that contains referenced factual knowledge on multiple subjects within it a scope. Which brings us to the more important question: what isn’t a wiki? A Wiki is not a development log, nor is it a technical reference manual, a user’s manual, or a book.
 
 Chances are, no end user will ever read your Wik1. The most important thing about a wiki is that it be quick and easy to understand, and serve a useful function for those who need to use it.
@@ -17,7 +11,7 @@ Image this; you are a student and doing some research on a subject. You decide t
 
 When does a wiki help? Does a wiki help out a Ph.D. scientist doing their research in a specialized field? Not in the least bit. So then why would you want to use a Wiki? Every last thing that you can do with a Wiki you can do with Microsoft Word or Open Office if you know what you’re doing.
 
-### Group Collaboration
+## Group Collaboration
 
 Wikis make it easy for multiple people to edit the Wiki simultaneously. Wiki software also tracks changes made by users and allows you to undo changes and track users.
 
@@ -27,48 +21,48 @@ Wikis aren’t the only method of doing this. Google Docs and Microsoft Skydrive
 
 Not every Wiki has to be used for technical information.
 
-#### Scratchpad Wiki
+### Scratchpad Wiki
 
 One of the benefits of using a Wiki is that it is really easy to create new pages.
 
-#### Quickstart Wiki
+### Quickstart Wiki
 
 This type of wiki describes the quickstart setup process that quickly gets you started with the product. This wiki page doesn't have to be very long. Just walk the user through the setup process from the very begging to the point where most users will be able to then use the product.
 
-#### Script Wiki
+### Script Wiki
 
 The standard style to walk users through console commands without thinking is: write me!
 
-### Wiki Authoring Styles
+## Wiki Authoring Styles
 
 There are three main types of orders to develop a wik1. A preemptive wiki, a concurrent authored wiki, and post authored wiki.
 
-#### Preemptive Wiki
+### Preemptive Wiki
 
 This is where the Wiki is written before the concurrent engineering project starts.
 
-##### Benefits
+#### Benefits
 
 * Can speed up development when part of the team is inexperienced.
 * Can facilitate better project planning up front.
 
-##### Drawbacks
+#### Drawbacks
 
 * Easy to waste time inventing and not testing.
 
-#### Concurrent Authored Wiki
+### Concurrent Authored Wiki
 
 A concurrent authored wiki is when the Wiki is written concurrently as the project happens.
 
-##### Drawbacks
+#### Drawbacks
 
 * This can waste a bunch of time.
 
-### Tracking User Requirements
+## Tracking User Requirements
 
 It’s all too easy for someone two is skilled in the arts to totally brush over things that trip other people up. Sometimes we just think that it’s too basic to bother addressing. The whole purpose of the Wiki is to the server as a quick reference for someone to get brought up to speed. Hands down the best way of doing this are with the Agile process. You really can’t expect to email a team member and ask them what questions they have about the Wik1. Chances are, there are so many problems they won’t know where to start and you won’t get the feedback you want. You really need to go over Wiki pages in person with someone who doesn’t know everything you know.
 
-#### Verification Needs
+### Verification Needs
 
 The first question that you need to ask is whether it even matters if it meets the user’s needs. Is it even important? Again a wiki is a quick reference.
 

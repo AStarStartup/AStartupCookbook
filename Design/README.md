@@ -3,10 +3,6 @@ layout: page
 title: "Design"
 ---
 
-# [Astartup Cookbook](../)
-
-##  Design
-
 A lot of people have really good ideas. For most entrepreneurs, ideas are a dime a dozen. There are countless ways to make large amounts of money hand over fist, but everyone who has been around long enough will tell you that most people underestimate how much work.
 
 1. [Case Study: The 50s Train Guy](./CaseStudy.md)

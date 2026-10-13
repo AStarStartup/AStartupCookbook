@@ -3,15 +3,9 @@ layout: page
 title: "AStartup Toolkit"
 ---
 
-# [Astartup Cookbook](../)
-
-## [Getting Started](./)
-
-### AStartup Toolkit
-
 The cookbook explains procedures. Companion projects provide templates and interfaces. Do not assume a feature is implemented because a chapter or issue describes it.
 
-#### Components and evidence
+## Components and evidence
 
 | Component | Role | What to verify before relying on it |
 |---|---|---|
@@ -23,7 +17,7 @@ The inspected Toolkit checkout contains `Templates/App/RAD`, `Templates/App/SDD`
 
 Do not describe active-session dashboards, issue writes, CI control, or automatic overnight execution as released MCC/MCP features without verifying them. An intended companion is not a tested deployment.
 
-#### Use a template without copying its assumptions
+## Use a template without copying its assumptions
 
 1. Read the chosen template and its project's current instructions. Check permitted use with the owner or `attorney` if the terms are unclear.
 2. Copy only needed content into an authorized destination. Keep the source repository and its Git history intact; do not delete `.git` to make an existing checkout into a new project.
@@ -31,11 +25,11 @@ Do not describe active-session dashboards, issue writes, CI control, or automati
 4. Software templates cover requirements and design; game templates cover game design. For hardware, explicitly add safety, physical constraints, bill of materials, manufacturing, and test requirements. Do not claim a hardware template exists until you locate it.
 5. Retain useful document structure, adapt metadata to the target site, and run that repository's checks. Toolkit layouts may not be named `page`; cookbook front matter is not a universal Jekyll contract.
 
-#### Startup syndication handoff
+## Startup syndication handoff
 
 For an agent or collaborator to find a startup's records, maintain a compact index: organization/repository identifiers, mission, current decision, canonical evidence paths, owner, permissions, and last verification date. Link to the source records rather than copying customer data into several dashboards. This is a proposed handoff format, not a claim about an implemented MCC protocol.
 
-#### Locality and permissions
+## Locality and permissions
 
 Local inference can reduce exposure of the prompt, but browser extensions, GitHub APIs, hosted models, telemetry, and remote CI may send data off-machine. Network latency does not consume context tokens. Evaluate latency, token usage, privacy, and permissions separately.
 

@@ -3,10 +3,6 @@ layout: page
 title: "Inventing"
 ---
 
-# [Astartup Cookbook](../)
-
-## Inventing
-
 1. [Case Study: Thomas Edison](./CaseStudy.md)
 1. [Documenting Inventions](./DocumentingInventions.md)
 1. [Story Boards](./StoryBoard.md)

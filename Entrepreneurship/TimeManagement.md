@@ -3,12 +3,6 @@ layout: page
 title: "Time Management"
 ---
 
-# [Astartup Cookbook](../)
-
-## [Entrepreneurship](./)
-
-### Time Management
-
 Allocate the founder's limited hours to the current business constraint. A sales call, support incident, or cash reconciliation can be higher leverage than another feature.
 
 At the end of a session, write the next task, the reason it matters, its acceptance check, and a time limit. Protect a suitable work block, batch routine communication where response commitments allow it, and leave capacity for support and incidents. Choose the block from your own energy and obligations rather than assuming mornings are universally best.

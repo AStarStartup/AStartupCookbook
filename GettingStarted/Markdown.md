@@ -3,12 +3,6 @@ layout: page
 title: "Markdown"
 ---
 
-# [Astartup Cookbook](../)
-
-## [Getting Started](./)
-
-### Markdown
-
 This book is focused on time optimization and makes heavy use of Markdown. Markdown is the text format used in Wikipedia and many popular websites. It is useful because it's bare-bones, doesn't have any distracting menus to waste time in, and it increases productivity by allowing you to focus on the content not the software. You can learn Markdown in a matter of hours, and you can get away with only knowing a limited number of tags.
 
 Markdown is also exceptionally useful for copying and pasting code snippets and math formulas because it has syntax highlighting and depending on the implementation it may support LaTeX and/or MathJax.

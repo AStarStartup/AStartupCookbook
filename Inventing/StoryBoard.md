@@ -3,12 +3,6 @@ layout: page
 title: "Story Boards"
 ---
 
-# [Astartup Cookbook](../)
-
-## [Inventing](./)
-
-### Story Boards
-
 A story board is a sequence of images or sketches that tells the story of your invention from the user's perspective. It is the bridge between the abstract idea and the concrete product. You draw the frames before you build the product, and the frames tell you where the product is confusing, where it is missing a step, and where the user is likely to give up.
 
 The story board is not a design document. It is a thinking tool. The frames are rough, the characters are stick figures, and the text is scribbled. The value is in the sequence, not in the art.

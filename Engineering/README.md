@@ -3,10 +3,6 @@ layout: page
 title: "Engineering"
 ---
 
-# [Astartup Cookbook](../)
-
-## Engineering
-
 1. [Case Study: Elon Musk](./CaseStudy.md)
 1. [Engineering Thought Process](./EngineeringThoughtProcess.md)
 1. [Types of Engineers](./TypesOfEngineers.md)
